@@ -1,0 +1,28 @@
+name: Correction
+description: Report an outdated or incorrect database entry.
+title: "Correction: "
+labels: ["correction", "data"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Company or robot affected.
+      placeholder: "Example: Unitree H1"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction
+      description: What should be changed?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Link to the source supporting the correction.
+      placeholder: "https://..."
+    validations:
+      required: false

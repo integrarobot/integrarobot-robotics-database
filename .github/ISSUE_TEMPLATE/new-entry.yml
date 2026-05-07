@@ -1,0 +1,33 @@
+name: New entry
+description: Suggest a company or robot to add.
+title: "New entry: "
+labels: ["new-entry", "data"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: "Company name"
+    validations:
+      required: true
+  - type: input
+    id: robot
+    attributes:
+      label: Robot
+      placeholder: "Robot name"
+    validations:
+      required: false
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      placeholder: "https://..."
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Why should it be included?
+    validations:
+      required: false

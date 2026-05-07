@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Integrarobot Humanoid Robot Record",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["company", "robot"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable lowercase identifier generated from company and robot."
+    },
+    "company": {
+      "type": "string",
+      "description": "Company, lab, or organization associated with the robot."
+    },
+    "robot": {
+      "type": "string",
+      "description": "Robot or product name."
+    },
+    "country": {
+      "type": "string",
+      "description": "Primary country when known."
+    },
+    "website": {
+      "type": "string",
+      "description": "Official or best available product/company URL."
+    },
+    "x": {
+      "type": "string",
+      "description": "X/Twitter profile or post URL."
+    },
+    "linkedin": {
+      "type": "string",
+      "description": "LinkedIn profile URL."
+    },
+    "youtube": {
+      "type": "string",
+      "description": "Relevant YouTube channel or demo URL."
+    },
+    "careers": {
+      "type": "string",
+      "description": "Careers page when available."
+    },
+    "b2b_client": {
+      "type": "string",
+      "description": "Known customers or target customer signal from the working database."
+    },
+    "stock": {
+      "type": "string",
+      "description": "Ticker or public/private status field from the working database."
+    },
+    "valuation": {
+      "type": "string",
+      "description": "Valuation field preserved as text because values need source verification."
+    },
+    "investors": {
+      "type": "string",
+      "description": "Named investors when known."
+    },
+    "rounds": {
+      "type": "string",
+      "description": "Funding rounds or total funding field preserved as text."
+    },
+    "release": {
+      "type": "string",
+      "description": "Release year or first public signal."
+    },
+    "height_cm": {
+      "type": "string",
+      "description": "Height in centimeters when known."
+    },
+    "weight_kg": {
+      "type": "string",
+      "description": "Weight in kilograms when known."
+    },
+    "walk_kmh": {
+      "type": "string",
+      "description": "Walking speed in km/h when known."
+    },
+    "run_kmh": {
+      "type": "string",
+      "description": "Running speed in km/h when known."
+    },
+    "payload_kg": {
+      "type": "string",
+      "description": "Payload or carrying capacity in kilograms when known."
+    },
+    "power_hours": {
+      "type": "string",
+      "description": "Battery/runtime field preserved as text."
+    },
+    "software": {
+      "type": "string",
+      "description": "Software stack, SDK, autonomy notes, or related software link."
+    },
+    "voice": {
+      "type": "string",
+      "description": "Voice support signal."
+    },
+    "clothed": {
+      "type": "string",
+      "description": "Whether the robot is presented clothed or human-styled in the working database."
+    }
+  }
+}

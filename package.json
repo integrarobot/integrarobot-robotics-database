@@ -1,0 +1,10 @@
+{
+  "name": "integrarobot-robotics-database",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-google-sheet.mjs",
+    "build": "node scripts/sync-google-sheet.mjs --local-only"
+  }
+}

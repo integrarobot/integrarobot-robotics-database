@@ -1,0 +1,99 @@
+id,company,robot,country,website,x,linkedin,youtube,careers,b2b_client,stock,valuation,investors,rounds,release,height_cm,weight_kg,walk_kmh,run_kmh,payload_kg,power_hours,software,voice,clothed
+1x-neo,1X,NEO,Norway,https://www.1x.tech/neo,https://x.com/1x_tech,,https://youtu.be/bUrLuUxv9gE,,,Private,,"OpenAI, Samsung, EQT, Tiger","125,000,000.00",2023,160,30,4,12,20,2-4,,,Yes
+aeirobot-alice,AeiROBOT,Alice,South Korea,https://eng.arobot4all.com/,,,,,,Private,,,,,136,20,,,,,AI-based autonomous soccer robot,,Yes
+aeolus-aeo,Aeolus,aeo,USA,https://aeolusbot.com/,,https://www.linkedin.com/company/aeolusrobotics/,https://www.youtube.com/watch?v=c_T-mRX4e4A,https://aeolusbot.com/about#careers,,Private,,,,,,,,,,,,,
+agibot-xi,Agibot,XI,China,https://www.agibot.com/,https://x.com/AgiBot_zhiyuan,https://www.linkedin.com/company/agibot/,https://www.youtube.com/watch?v=DQHGV3hrnL0,,,Private,,,,,130,33,,,,,,,No
+agile-one,Agile,One,Germany,https://www.agile-robots.com/,,https://www.linkedin.com/company/agile-robots-se/,https://www.youtube.com/@Agile_Robots,,,Private,,,,2026,174,69,,,,,,,No
+agility-digit,Agility,Digit,USA,https://agilityrobotics.com/robots,https://x.com/agilityrobotics,https://www.linkedin.com/company/agilityrobotics/,https://youtu.be/rnFZAB9ogEE,,,Private,,"NVIDIA, Sony",,2023,175,64,5.4,5.4,16,3,,,No
+apptronik-apollo,Apptronik,Apollo,USA,https://apptronik.com/product-page,https://x.com/apptronik,https://www.linkedin.com/company/apptronik-inc./,https://youtu.be/pymvNott6nw,https://apptronik.com/careers,"Mercedes Benz, GXO",Private,,"Google, Mercedes Benz, ARK",,2023,172,72,,,25,4,Apptronik autonomy stack; hot-swappable battery platform,,No
+argon-one,Argon,One,,https://www.argonmech.com/,,,,,,Private,,,,,,,,,,,,,
+arx-x7,ARX,X7,China,https://arx-x.com/,https://x.com/ARX_Zhang,,https://www.youtube.com/watch?v=eDhTXj8ChKg,,,Private,,,,,,,,,,,,,
+astribot-s1,Astribot,S1,China,https://astribot.com/,https://x.com/Astribot_Inc,,https://youtu.be/6X-s4Qsn1z4,,,Private,,,,2024,165,58,,36,10,,,,No
+beyond-imagination-beomni,Beyond Imagination,Beomni,,https://www.beomni.ai/,,,,,,Private,,,,,,,,,,,,,
+boardwalk-alex,Boardwalk,Alex,USA,https://boardwalkrobotics.com/,https://x.com/boardwalkrobot,https://www.linkedin.com/company/boardwalk-robotics/,https://www.youtube.com/watch?v=tD3FNZUG2kQ,https://www.boardwalkrobotics.com/Careers,,Private,,,,,,,,,,,,,
+booster-t1,Booster,T1,China,https://www.boosterobotics.com/,https://x.com/boosterobotics,https://www.linkedin.com/company/booster-robotics/,https://www.youtube.com/watch?v=djUWG9Xqaq4,,"Developers, researchers, robotics competitions",Private,,,,2024,118,30,1.8,4.3,5,1.5-2 walking / 4 standing,Open-source developer platform; Booster SDK,,No
+borg-borg-01,Borg,Borg 01,USA,https://www.borgrobotic.com/,https://x.com/borgrobotic,https://www.linkedin.com/company/borgrobotics/,https://www.youtube.com/watch?v=r7TXGU3CxPg,,"Manufacturing, warehousing, logistics",Private,,,,2025,173,62,,,12,,Modular industrial humanoid; adaptive gait AI,,No
+boston-dynamics-atlas,Boston Dynamics,Atlas,USA,https://www.bostondynamics.com/atlas,https://x.com/BostonDynamics,https://www.linkedin.com/company/boston-dynamics/,https://youtu.be/-e1_QhJ1EhQ,,,Private,,,"37,000,000.00",2022,150,89,9,9,11,,,,No
+cartwheel-yogi,Cartwheel,Yogi,USA,https://www.cartwheelrobotics.com/,,https://www.linkedin.com/company/cartwheel-robotics/,,,,Private,,,,,150,47,,,,,,,No
+clone-clone,Clone,Clone,Poland,https://www.clonerobotics.com/,https://x.com/clonerobotics,https://www.linkedin.com/company/clonerobotics/,https://www.youtube.com/watch?v=gl0GnzPIOl4,https://www.clonerobotics.com/company,"Individuals, businesses",Private,,"Pioneer Fund, Tango, Wikus Ventures",,2024,170,60,,,,1.5,,,Yes
+cobot-proxie,Cobot,Proxie,,https://www.co.bot/,,,,,,Private,,,,,,,,,,,,,
+deep-dr01,Deep,DR01,China,https://www.deeprobotics.cn/en/index/humanoid.html,https://x.com/DeepRobotics_CN,https://www.linkedin.com/company/deep-robotics/,https://www.youtube.com/watch?v=lCFyfh3mLOQ,,,Private,,,,,170,80,,,,,,,No
+devanthro-robody,Devanthro,Robody,Germany,https://www.devanthro.com/,https://x.com/robodies,https://www.linkedin.com/company/robodies/,https://www.youtube.com/watch?v=hk_ai0wWJ0o,https://www.devanthro.com/career/,,Private,,,,,,,,,,,,,
+dexmate-vega,Dexmate,Vega,United Kingdom,https://www.dexmate.ai/,https://x.com/DexmateAI,https://www.linkedin.com/company/dexmate/,https://www.youtube.com/watch?v=PecqfiJNwQI,,,Private,,,,,171,135,,,,,,,No
+diligent-moxi,Diligent,Moxi,USA,https://www.diligentrobots.com/,https://x.com/DiligentRobots,https://www.linkedin.com/company/diligent-robotics/,https://www.youtube.com/watch?v=NxGs_-2B1Ak,https://www.diligentrobots.com/join-our-team-1,,Private,,,"33,000,000.00",,,,,,,,,,
+dobot-atom,Dobot,Atom,China,https://www.dobot-robots.com/,https://x.com/DobotRobotics,,,,,Private,,,,2025,165,58,5.4,5.4,3.5,2,SDK; VLA manipulation model option; RGB-D + LiDAR sensors,,No
+enactic-openarm,Enactic,OpenArm,,https://openarm.dev/,https://x.com/enactic_ai,,,,,Private,,,,,,,,,,,,,
+enchanted-mirokai,Enchanted,Mirokai,France,https://enchanted.tools/,https://x.com/EnchantedTools,https://www.linkedin.com/company/enchantedtools/,,,,Private,,,,,123,28,,,,,,,Yes
+engineai-se01,Engineai,SE01,China,https://www.engineai.com.cn/,https://x.com/engineairobot,,https://www.youtube.com/watch?v=j-uMnH_f7cU,,,Private,,,,2024,170,55,7.2,7.2,,2,End-to-end neural gait; LiDAR/depth/IR perception,,No
+engineered-arts-ameca,Engineered Arts,Ameca,UK,https://engineeredarts.com/,https://x.com/engineered_arts,https://www.linkedin.com/company/engineered-arts-ltd/,https://www.youtube.com/watch?v=oN3Y_iKmgZA,,,Private,,,"10,000,000.00",2021,187,62,,,,,,,Yes
+estun-codroid-codroid,Estun Codroid,Codroid,China,https://www.codroid.ai/en/,,,,,,Private,,,,2025,170,70,,,,,,,No
+figure-02,Figure,02,USA,https://www.figure.ai/,https://x.com/Figure_robot,https://www.linkedin.com/company/figure-ai/,https://youtu.be/0SRVJaOg9Co,https://www.figure.ai/careers,BMW,Private,"2,600,000,000.00","NVIDIA, Microsoft, Amazon, Intel, OpenAI, ARK","675,000,000.00",2024,167,70,4.3,4.3,20,5,Helix / end-to-end visuomotor AI; 6 RGB cameras,,Yes
+foundation-phantom-mk1,Foundation,Phantom MK1,USA,https://foundation.bot/,https://x.com/foundation_robo,https://www.linkedin.com/company/foundation-bot/,https://www.youtube.com/watch?v=I8EueTtvSuM,,,Private,,,,2025,175,65,,,,,,,No
+fourier-gr-1,Fourier,GR-1,Singapore,https://fftai.com/,https://x.com/FourierRobots,https://www.linkedin.com/showcase/fourier-rehab/,https://youtu.be/SHPxcRBlXN0,,,Private,,,,2023,165,55,5,5,50,,,,No
+gac-group-gomate,GAC Group,GoMate,China,https://www.gac.com.cn/,,,,,,HKG:2238,,,,,,,,,,,,,No
+galaxea-r1,Galaxea,R1,China,https://galaxea-dynamics.com/,https://x.com/GalaxeaDynamics,,,,,Private,,,,,170,80,,,5,,550 TOPS; VLM/VLA robotics stack,,No
+galbot-g1,Galbot,G1,China,https://www.galbot.com/,https://x.com/GalbotRobotics,,https://www.youtube.com/watch?v=9ML9mOcHSQA,,,Private,,,,2025,173,85,,,5,10,AI-driven control; multimodal perception; voice recognition,,No
+generative-bionics-gene-01,Generative Bionics,GENE.01,Italy,https://gbionics.ai/,,,,,"Industrial, collaborative robotics",Private,,AMD,"81,000,000.00",2026,170,70,4,4,6.5,4,Custom robotics OS; AMD compute; tactile skin,,No
+goblin-gbln-01,Goblin,GBLN-01,USA,https://www.goblinrobotics.com/,https://x.com/GoblinRobotics,https://www.linkedin.com/company/goblinrobotics/,https://www.youtube.com/watch?v=Wxni1ceGN1c,,,Private,,,,,,,,,,,,,
+hanson-sophia,Hanson,Sophia,Hong Kong,https://www.hansonrobotics.com/,,,,,,Private,,,,2016,167,21,,,,,,,Yes
+heima-adam,Heima,Adam,,https://www.heimarobotics.com/,,,,,,Private,,,,,,,,,,,,,
+hexagon-aeon,Hexagon,AEON,Sweden,https://hexagon.com/company/newsroom/press-releases/2025/hexagon-launches-aeon-a-humanoid-built-for-industry,https://x.com/HexagonAB,,,,"Industrial inspection, quality control, reality capture, operator tasks",STO:HEXA-B,,,,2025,165,60,8.6,8.6,15,4,AI motion control; multimodal sensor fusion; 3D spatial intelligence,,No
+holiday-friday,Holiday,Friday,,https://holiday-robotics.com/,,,,,,Private,,,,,176,115,,,,,,,No
+igus-iggy-rob,Igus,Iggy Rob,,https://www.igus.com/automation/news/humanoid-robot,,,,,,Private,,,,,,,,,,,,,
+ihmc-robotics-nadia,IHMC Robotics,Nadia,,https://robots.ihmc.us/nadia,,,,,,Private,,,,,,,,,,,,,
+intbot-nylo,IntBot,Nylo,USA,https://intbot.ai,https://x.com/intbotai,,https://www.youtube.com/watch?v=41NRPjXLDKU,,,Private,,,,,,,,,,,,,
+k-scale-labs-k-bot,K-Scale Labs,K-bot,USA,https://shop.kscale.dev/,https://x.com/kscalelabs,,,,"Researchers, developers, hobbyists",Private,,"Y Combinator, GFT Ventures, Pioneer Fund, AI Grant, Lux Capital, OpenAI nonprofit","4,750,000.00",2025,140,34,,,10,4,K-OS open-source stack,,No
+kepler-forerunner,Kepler,Forerunner,China,https://www.gotokepler.com/home,https://x.com/BotKepler,https://www.linkedin.com/company/kepler-exploration-robotics/,https://youtu.be/A5vshTgDbKE,,,Private,,,,2024,178,85,,,,,,,No
+kinisi-kinisi-01-kr1,Kinisi,Kinisi 01 / KR1,USA / UK,https://www.kinisi.com/,https://x.com/KinisiRobotics,,,,"Warehouse automation, logistics, light manufacturing",Private,,,,2025,162,100,8.6,8.6,25,6-8,NVIDIA Jetson; stereo depth + LiDAR SLAM,,No
+leju-kuavo,Leju,Kuavo,China,https://www.lejurobot.com/en,https://x.com/LEJURobotics,,,,,Private,,,,2025,168,55,,7,,,KaihongOS / open-source Hongmeng humanoid stack,,No
+lg-kapex,LG,Kapex,South Korea,https://solutions.lg.com/us/robots,,,,,,KRX:066570,,,,,175,65,,,,,,,No
+limx-oli,LimX,Oli,China,https://www.limxdynamics.com/en,https://x.com/LimX_Dynamics,https://www.linkedin.com/company/limx-dynamics/,https://youtu.be/sihIDeJ4Hmk,,,Private,,,"69,000,000.00",2024,165,55,,,,,,,No
+lumos-lus,Lumos,LUS,,https://www.lumosbot.tech/,https://x.com/LumosRobotics,,,,,Private,,,,,160,65,,,,,,,No
+magiclab-magicbot,Magiclab,Magicbot,China,https://magiclab.top,https://x.com/MagicLab_Robot,,https://www.youtube.com/watch?v=nPFAchqUvEc,,,Private,,,,2024,174,67.5,,,20,4-5,MagicNet multi-robot system; SDK,,No
+mentee-menteebot,Mentee,MenteeBot,Israel,https://www.menteebot.com/bot/,https://x.com/MenteeBot,https://www.linkedin.com/company/mentee-robotics/,https://youtu.be/Z3T9S1Arbdk,https://menteebot.com/careers/,,Private,,Mobileye (Adquired),"17,000,000.00",2024,175,70,5.4,,25,,,,No
+neura-4ne-1,Neura,4NE-1,Germany,https://neura-robotics.com/,https://x.com/neurarobotics,https://www.linkedin.com/company/neura-robotics/,https://www.youtube.com/watch?v=RpphFszxQbM,https://neura-robotics.com/careers,,Private,,Volvo,"280,000,000.00",,170,60,,,,,,,No
+noetix-dora,Noetix,Dora,China,https://en.noetixrobotics.com/products.html,https://x.com/TheRealNoetix,,,,"Household service, STEM education, elder care, research",Private,,,,2024,100,20,3.6,3.6,,,,,No
+oversonic-robee,Oversonic,RoBee,Italy,https://www.oversonicrobotics.com/,,https://www.linkedin.com/company/oversonic-robotics-group/,https://www.youtube.com/@oversonicrobotics,,"Industrial, healthcare, hazardous/strenuous tasks",Private,,,,,135-200,120,,,3,8,Cognitive AI; autonomous navigation; swarm/fleet operation,,No
+pal-talos,PAL,Talos,Spain,https://pal-robotics.com/robots/,https://x.com/PALRobotics?,https://www.linkedin.com/company/pal-robotics/,https://www.youtube.com/watch?v=zQUufUEU83A,,,Private,,,,2017,175,95,3.6,3.6,6,1.5 walking / 3 standby,ROS / ros_control; Ubuntu LTS real-time OS,,No
+phybot-m1,Phybot,M1,China,https://www.phybot.tech/,https://x.com/PHYBOT_Tech,,,,,Private,,,,,172,60,,,,,,,No
+pib-pib,Pib,Pib,,https://pib.rocks/,,,,,,Private,,,,,,,,,,,,,
+pndbotics-adam,PNDbotics,Adam,China,https://www.pndbotics.com/,https://x.com/PNDbotics,,https://www.youtube.com/watch?v=pzxB-va0qNo,,"AI research, locomotion R&D, perception, HRI",Private,,,,,167,62,,,,4,Dual compute; SDK; RL/IL locomotion stack,,No
+pollen-reachy-2,Pollen,Reachy 2,France,https://www.pollen-robotics.com/,https://x.com/pollenrobotics,https://www.linkedin.com/company/pollen-robotics/,https://www.youtube.com/watch?v=T3RdwDkZA9c,,"Research, education, teleoperation, manipulation prototyping",Private,,,"2,600,000.00",,136-166,50,,,3,,ROS2 Humble; Python SDK; VR teleoperation; open source,,No
+pudu-d7,Pudu,D7,China,https://www.pudurobotics.com/it/news/917,https://x.com/PuduRobotics,https://www.linkedin.com/company/pudurobotics/,https://youtu.be/CbA9wA9etGA,,,Private,,,,2024,165,45,7.2,7.2,10,8,,,No
+qinglong-qinglong,Qinglong,Qinglong,China,https://technode.com/2024/07/05/qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024/,,https://www.linkedin.com/company/rainbow-robotics/,https://youtu.be/ilwG5zkNOz8,,"Research, academic, R&D, industrial open-source platform",Private,,,,2024,185,85,3.6,3.6,40,3,OpenLoong open-source stack; MPC/WBC; 400 TOPS compute,,No
+rainbow-hubo,Rainbow,Hubo,Korea,https://www.rainbow-robotics.com/,,https://www.linkedin.com/company/rainbow-robotics/,https://www.youtube.com/watch?v=KKr0ix0qAnY,,"Research platform; MIT, Google and other institutes",KOSDAQ:277810,,Samsung,,,120,43,,,,,BLDC/DC actuators; onboard real-time controller; 38 DOF,,
+realbotix-aria,Realbotix,Aria,USA,https://www.realbotix.com/,https://x.com/RealbotixCorp,,https://www.youtube.com/watch?v=4Bq91og7VmM,,"Service sector, companionship, human interaction",0.33,"72,237,000.00",,,,,,,,,,Realbotix Controller; AI vision; facial recognition,,Yes
+reflex-reflex,Reflex,Reflex,USA,https://www.reflexrobotics.com/,https://x.com/reflexrobot,https://www.linkedin.com/company/reflexrobotics/,https://www.youtube.com/watch?v=r2jPnpuSpPk,,,Private,,,"7,300,000.00",,,,,,,,,,
+revobots-taskbot,Revobots,Taskbot,,https://revobots.ai/,https://x.com/REVOBOTS_AI,https://www.linkedin.com/company/revobots/,,,,Private,,,,,,,,,,,,,
+robotera-star-1,Robotera,Star 1,China,https://www.robotera.com/,https://x.com/roboterax,https://www.linkedin.com/company/robotera1/,https://www.youtube.com/watch?v=nx2YO3twZYs,,,Private,,,,2024,171,65,,,,,,,No
+robotera-r-noid,Robotera,R-Noid,,https://www.robot.com/r-noid,https://x.com/Robotcom,https://www.linkedin.com/company/robot-com/,,,,Private,,,,,,,,,,,,,
+robotis-k0,Robotis,K0,South Korea,https://www.robotis.us/,,,,,,KOSDAQ:108490,,,,,130,34,,,3,,AI Sapiens; Isaac Sim RL / imitation learning,,No
+robros-igris,Robros,Igris,South Korea,https://robros.co.kr/,,https://www.linkedin.com/company/robros/,https://www.youtube.com/watch?v=RQBLrPunlHc,,,Private,,,,,154,56,,,,,,,No
+sanctuary-ai-phoenix,Sanctuary AI,Phoenix,Canada,https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/,https://x.com/TheSanctuaryAI,https://www.linkedin.com/company/sanctuaryai/,https://www.youtube.com/watch?v=-HizP4UQvug,,,Private,,,,2023,170,70,4.8,4.8,25,,Carbon cognitive architecture; haptic dexterous hands,,No
+sharpa-wave,Sharpa,Wave,,https://www.sharpa.com/,https://x.com/SharpaRobotics,,,,,Private,,,,,,,,,,,,,
+spirit-moz,Spirit,Moz,China,https://www.spirit-ai.com/,,,,,,Private,,,,,160,70,,,,,,,No
+switch-onero-h1,Switch,Onero H1,Japan,https://eu.switch-bot.com/,,,,,,Private,,,,,174,68,,,,,,,No
+tangible-eggie,Tangible,Eggie,USA,https://tangiblerobots.ai/,https://x.com/tangiblerobots,,,,,Private,,,,,150,45,,,,,,,Yes
+tesla-optimus-gen-2,Tesla,Optimus Gen 2,USA,https://archive.md/mEWsJ,https://x.com/Tesla_Optimus,https://www.linkedin.com/company/tesla-motors/,https://www.youtube.com/watch?v=fPeGPf7jvEQ,,,398.73,"1,497,519,830,520.00",,,2023,173,47,8,8,20.4,,Tesla end-to-end AI; neural network autonomy,,No
+the-humanoid-hmnd-01,The Humanoid,HMND 01,UK,https://thehumanoid.ai/,https://x.com/thehumanoidai,https://www.linkedin.com/company/humanoidai/,https://www.youtube.com/@TheHumanoidAI,https://thehumanoid.ai/careers/,,Private,,,,2025,175,70,5.4,5.4,15,4,KinetIQ VLM/VLA framework,,No
+ti5robot-t230a,Ti5robot,T230A,,https://www.ti5robot.com/en/,,,,,,Private,,,,,,,,,,,,,
+tokyo-torobo,Tokyo,Torobo,Japan,https://robotics.tokyo/,https://x.com/Tokyo_Robotics,https://www.linkedin.com/company/tokyo-robotics/,,,,Private,,,"1,760,889.00",,,,,,,,,,
+ubtech-walker-s1,Ubtech,Walker S1,China,https://www.ubtrobot.com/,https://x.com/UBTECHRobotics,https://www.linkedin.com/company/ubtech-robotics/,https://www.youtube.com/watch?v=UBbk18oZbTc,,Foxconn,HKG:9880,,,,,172,76,,,,,,,No
+unitree-h1,Unitree,H1,China,https://www.unitree.com/en/h1/,https://x.com/UnitreeRobotics,https://www.linkedin.com/company/unitreerobotics/,https://youtu.be/GtPs_ygfaEA,,,Private,,,,2023,180,47,5.4,18,30,1.5,NVIDIA Jetson Orin / Unitree SDK; LiDAR + depth camera,,No
+unix-wanda,UniX,Wanda,,https://www.unix-group.ai,,,,,,Private,,,,,,,,,,,,,
+vanar-generation-1,Vanar,Generation 1,,http://vanarrobots.com/,https://x.com/vanar_robots,,,,,Private,,,,,,,,,,,,,
+vinmotion-motion,VinMotion,Motion,Vietnam,https://vinmotion.net/,https://x.com/VinMotionGlobal,,,,,Private,,,,2025,,,,,,,,,No
+wandercraft-calvin,Wandercraft,Calvin,,https://en.wandercraft.eu/,https://x.com/exowandercraft,https://www.linkedin.com/company/wandercraft/,,,,Private,,,,,,,,,,,,,
+weave-isaac,Weave,Isaac,,https://www.weaverobotics.com/,,,,,,Private,,,,,,,,,,,,,
+westwood-themis,Westwood,Themis,USA,https://www.westwoodrobotics.io/,,https://www.linkedin.com/company/westwoodrobotics/,https://www.youtube.com/watch?v=svRRhsFKflE,,,Private,,,,2025,160,36,,,,,,,No
+wirobotics-allex,Wirobotics,Allex,South Korea,https://www.wirobotics.com/,,,,,,Private,,,,,,,,,,,,,No
+x-square-quanta-x2,X Square,Quanta X2,China,https://www.x2robot.com/en,,,,,"Household, hotel and light industrial stations",Private,,,,2025,172,95,3.6,3.6,6,,X² Brain / WALL-OSS; 10B+ parameter embodied model,,No
+xiaomi-cyber-one,Xiaomi,Cyber One,China,https://www.mi.com/global/discover/article?id=2754,https://x.com/Xiaomi,,https://www.youtube.com/watch?v=I28Q9czUx2Q,,"R&D, perception, human-robot interaction prototype",HKG:1810,,,,2022,177,52,3.6,3.6,1.5,,Mi-Sense vision; Xiaomi AI interaction algorithms,,
+fauna-sprout,Fauna,Sprout,USA,https://faunarobotics.com/,https://x.com/faunarobotics,https://www.linkedin.com/company/fauna-robotics/,https://www.youtube.com/@FaunaRobotics,,,Private,,Amazon,,,,,,,,,,,
+xpeng-iron,Xpeng,Iron,China,https://www.pxing.com/en/index,https://x.com/XpengR,https://www.linkedin.com/company/xpengmotorsglobal/,https://www.youtube.com/watch?v=BNSZ8Fwcd20,,,NYSE:XPEV,,,,2024,178,70,,,,,,,No
+addverb-elixis,Addverb,Elixis,India,https://addverb.ai/elixis,https://x.com/Addverb_Tech,,,,"Repetitive, dull and hazardous work",Private,,,,2025,175,75,3.6,3.6,5,1-1.5,"MPC + reinforcement learning; stereo depth, 3D LiDAR, IMU",,
+faraday-future-ff-futurist,Faraday Future,FF Futurist,USA,https://robotics.ff.com/us/ff-futurist/,,,,,,NASDAQ:FFIE,,,,,,,,,,,,,No
+peritas-peri,Peritas,Peri,,https://www.peritas.ai/,,,,,,Private,,,,,,,,,,,,,
+sudo-r1,Sudo,R1,,https://www.sudo.ai/,,,,,,Private,,,,,,,,,,,,,
+kinetix-kaibot,Kinetix,Kaibot,,https://www.kinetixai.tech/en,,,,,,Private,,,,,,,,,,,,,
+integrarobot-resource,Integrarobot,Resource,Spain,https://www.integrarobot.com,,,,,,Private,,,,,,,,,,,,,
