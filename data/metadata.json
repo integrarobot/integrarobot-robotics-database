@@ -1,8 +1,8 @@
 {
   "title": "Integrarobot Humanoid Robotics Database",
-  "source": "local data/humanoids.csv",
-  "mode": "local",
-  "updated_at": "2026-05-07T10:44:22.380Z",
+  "source": "https://docs.google.com/spreadsheets/d/1Cg8FNh8ZeMopfQTM5oCF_E87Jxe27z8R54a8XRjKlxQ/gviz/tq?tqx=out:csv&gid=973484009",
+  "mode": "google_sheets",
+  "updated_at": "2026-05-07T10:58:17.626Z",
   "row_count": 98,
-  "checksum": "4771152c78c2da29334ce1502d12c88ac204dd364a8f14f2da12e5e20a62413a"
+  "checksum": "3ed2a8388cc6f52554ff4c48c7f8a39047501e01171defe54478d7838480babf"
 }

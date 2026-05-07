@@ -39,7 +39,7 @@ For the automatic sync to work, the source Google Sheet must expose the selected
 The expected CSV URL shape is:
 
 ```text
-https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/export?format=csv&gid=SHEET_GID
+https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/gviz/tq?tqx=out:csv&gid=SHEET_GID
 ```
 
 Set the repository variable `SHEET_CSV_URL` if the source URL changes. If no variable is set, the workflow uses the default Integrarobot Humanoids tab URL configured in the script.

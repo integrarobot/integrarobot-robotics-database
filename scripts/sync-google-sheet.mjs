@@ -8,7 +8,7 @@ const root = path.resolve(__dirname, "..");
 const dataDir = path.join(root, "data");
 
 const defaultCsvUrl =
-  "https://docs.google.com/spreadsheets/d/1Cg8FNh8ZeMopfQTM5oCF_E87Jxe27z8R54a8XRjKlxQ/export?format=csv&gid=973484009";
+  "https://docs.google.com/spreadsheets/d/1Cg8FNh8ZeMopfQTM5oCF_E87Jxe27z8R54a8XRjKlxQ/gviz/tq?tqx=out:csv&gid=973484009";
 
 const csvUrl = process.env.SHEET_CSV_URL || defaultCsvUrl;
 const localOnly = process.argv.includes("--local-only");
