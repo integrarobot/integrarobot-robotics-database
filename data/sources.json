@@ -1,0 +1,2405 @@
+[
+  {
+    "id": "integrarobot-working-google-sheet",
+    "title": "Integrarobot working Google Sheet export",
+    "url": "https://docs.google.com/spreadsheets/d/1Cg8FNh8ZeMopfQTM5oCF_E87Jxe27z8R54a8XRjKlxQ/gviz/tq?tqx=out:csv&gid=973484009",
+    "source_type": "google_sheets_csv_export",
+    "evidence_level": "database",
+    "updated_at": "2026-05-26T17:45:46.414Z",
+    "notes": "Primary working export for the current data package."
+  },
+  {
+    "id": "1x-tech-neo",
+    "title": "1X / NEO website",
+    "url": "https://www.1x.tech/neo",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "1x-neo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-1x-tech",
+    "title": "1X / NEO x",
+    "url": "https://x.com/1x_tech",
+    "source_type": "social_profile",
+    "related_record_id": "1x-neo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-burluuxv9ge",
+    "title": "1X / NEO youtube",
+    "url": "https://youtu.be/bUrLuUxv9gE",
+    "source_type": "demo_or_channel",
+    "related_record_id": "1x-neo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "eng-arobot4all-com",
+    "title": "AeiROBOT / Alice website",
+    "url": "https://eng.arobot4all.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "aeirobot-alice",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "aeolusbot-com",
+    "title": "Aeolus / aeo website",
+    "url": "https://aeolusbot.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "aeolus-aeo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-aeolusrobotics",
+    "title": "Aeolus / aeo linkedin",
+    "url": "https://www.linkedin.com/company/aeolusrobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "aeolus-aeo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-c-t-mrx4e4a",
+    "title": "Aeolus / aeo youtube",
+    "url": "https://www.youtube.com/watch?v=c_T-mRX4e4A",
+    "source_type": "demo_or_channel",
+    "related_record_id": "aeolus-aeo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "aeolusbot-com-about-careers",
+    "title": "Aeolus / aeo careers",
+    "url": "https://aeolusbot.com/about#careers",
+    "source_type": "careers_page",
+    "related_record_id": "aeolus-aeo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "agibot-com",
+    "title": "Agibot / XI website",
+    "url": "https://www.agibot.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "agibot-xi",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-agibot-zhiyuan",
+    "title": "Agibot / XI x",
+    "url": "https://x.com/AgiBot_zhiyuan",
+    "source_type": "social_profile",
+    "related_record_id": "agibot-xi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-agibot",
+    "title": "Agibot / XI linkedin",
+    "url": "https://www.linkedin.com/company/agibot/",
+    "source_type": "social_profile",
+    "related_record_id": "agibot-xi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-dqhgv3hrnl0",
+    "title": "Agibot / XI youtube",
+    "url": "https://www.youtube.com/watch?v=DQHGV3hrnL0",
+    "source_type": "demo_or_channel",
+    "related_record_id": "agibot-xi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "agile-robots-com",
+    "title": "Agile / One website",
+    "url": "https://www.agile-robots.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "agile-one",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-agile-robots-se",
+    "title": "Agile / One linkedin",
+    "url": "https://www.linkedin.com/company/agile-robots-se/",
+    "source_type": "social_profile",
+    "related_record_id": "agile-one",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-agile-robots",
+    "title": "Agile / One youtube",
+    "url": "https://www.youtube.com/@Agile_Robots",
+    "source_type": "demo_or_channel",
+    "related_record_id": "agile-one",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "agilityrobotics-com-robots",
+    "title": "Agility / Digit website",
+    "url": "https://agilityrobotics.com/robots",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "agility-digit",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-agilityrobotics",
+    "title": "Agility / Digit x",
+    "url": "https://x.com/agilityrobotics",
+    "source_type": "social_profile",
+    "related_record_id": "agility-digit",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-agilityrobotics",
+    "title": "Agility / Digit linkedin",
+    "url": "https://www.linkedin.com/company/agilityrobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "agility-digit",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-rnfzab9ogee",
+    "title": "Agility / Digit youtube",
+    "url": "https://youtu.be/rnFZAB9ogEE",
+    "source_type": "demo_or_channel",
+    "related_record_id": "agility-digit",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "apptronik-com-product-page",
+    "title": "Apptronik / Apollo website",
+    "url": "https://apptronik.com/product-page",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "apptronik-apollo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-apptronik",
+    "title": "Apptronik / Apollo x",
+    "url": "https://x.com/apptronik",
+    "source_type": "social_profile",
+    "related_record_id": "apptronik-apollo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-apptronik-inc",
+    "title": "Apptronik / Apollo linkedin",
+    "url": "https://www.linkedin.com/company/apptronik-inc./",
+    "source_type": "social_profile",
+    "related_record_id": "apptronik-apollo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-pymvnott6nw",
+    "title": "Apptronik / Apollo youtube",
+    "url": "https://youtu.be/pymvNott6nw",
+    "source_type": "demo_or_channel",
+    "related_record_id": "apptronik-apollo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "apptronik-com-careers",
+    "title": "Apptronik / Apollo careers",
+    "url": "https://apptronik.com/careers",
+    "source_type": "careers_page",
+    "related_record_id": "apptronik-apollo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "argonmech-com",
+    "title": "Argon / One website",
+    "url": "https://www.argonmech.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "argon-one",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "arx-x-com",
+    "title": "ARX / X7 website",
+    "url": "https://arx-x.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "arx-x7",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-arx-zhang",
+    "title": "ARX / X7 x",
+    "url": "https://x.com/ARX_Zhang",
+    "source_type": "social_profile",
+    "related_record_id": "arx-x7",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-edhtxj8chkg",
+    "title": "ARX / X7 youtube",
+    "url": "https://www.youtube.com/watch?v=eDhTXj8ChKg",
+    "source_type": "demo_or_channel",
+    "related_record_id": "arx-x7",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "astribot-com",
+    "title": "Astribot / S1 website",
+    "url": "https://astribot.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "astribot-s1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-astribot-inc",
+    "title": "Astribot / S1 x",
+    "url": "https://x.com/Astribot_Inc",
+    "source_type": "social_profile",
+    "related_record_id": "astribot-s1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-6x-s4qsn1z4",
+    "title": "Astribot / S1 youtube",
+    "url": "https://youtu.be/6X-s4Qsn1z4",
+    "source_type": "demo_or_channel",
+    "related_record_id": "astribot-s1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "beomni-ai",
+    "title": "Beyond Imagination / Beomni website",
+    "url": "https://www.beomni.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "beyond-imagination-beomni",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "boardwalkrobotics-com",
+    "title": "Boardwalk / Alex website",
+    "url": "https://boardwalkrobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "boardwalk-alex",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-boardwalkrobot",
+    "title": "Boardwalk / Alex x",
+    "url": "https://x.com/boardwalkrobot",
+    "source_type": "social_profile",
+    "related_record_id": "boardwalk-alex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-boardwalk-robotics",
+    "title": "Boardwalk / Alex linkedin",
+    "url": "https://www.linkedin.com/company/boardwalk-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "boardwalk-alex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-td3fnzug2kq",
+    "title": "Boardwalk / Alex youtube",
+    "url": "https://www.youtube.com/watch?v=tD3FNZUG2kQ",
+    "source_type": "demo_or_channel",
+    "related_record_id": "boardwalk-alex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "boardwalkrobotics-com-careers",
+    "title": "Boardwalk / Alex careers",
+    "url": "https://www.boardwalkrobotics.com/Careers",
+    "source_type": "careers_page",
+    "related_record_id": "boardwalk-alex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "boosterobotics-com",
+    "title": "Booster / T1 website",
+    "url": "https://www.boosterobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "booster-t1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-boosterobotics",
+    "title": "Booster / T1 x",
+    "url": "https://x.com/boosterobotics",
+    "source_type": "social_profile",
+    "related_record_id": "booster-t1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-booster-robotics",
+    "title": "Booster / T1 linkedin",
+    "url": "https://www.linkedin.com/company/booster-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "booster-t1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-djuwg9xqaq4",
+    "title": "Booster / T1 youtube",
+    "url": "https://www.youtube.com/watch?v=djUWG9Xqaq4",
+    "source_type": "demo_or_channel",
+    "related_record_id": "booster-t1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "borgrobotic-com",
+    "title": "Borg / Borg 01 website",
+    "url": "https://www.borgrobotic.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "borg-borg-01",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-borgrobotic",
+    "title": "Borg / Borg 01 x",
+    "url": "https://x.com/borgrobotic",
+    "source_type": "social_profile",
+    "related_record_id": "borg-borg-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-borgrobotics",
+    "title": "Borg / Borg 01 linkedin",
+    "url": "https://www.linkedin.com/company/borgrobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "borg-borg-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-r7txgu3cxpg",
+    "title": "Borg / Borg 01 youtube",
+    "url": "https://www.youtube.com/watch?v=r7TXGU3CxPg",
+    "source_type": "demo_or_channel",
+    "related_record_id": "borg-borg-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "bostondynamics-com-atlas",
+    "title": "Boston Dynamics / Atlas website",
+    "url": "https://www.bostondynamics.com/atlas",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "boston-dynamics-atlas",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-bostondynamics",
+    "title": "Boston Dynamics / Atlas x",
+    "url": "https://x.com/BostonDynamics",
+    "source_type": "social_profile",
+    "related_record_id": "boston-dynamics-atlas",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-boston-dynamics",
+    "title": "Boston Dynamics / Atlas linkedin",
+    "url": "https://www.linkedin.com/company/boston-dynamics/",
+    "source_type": "social_profile",
+    "related_record_id": "boston-dynamics-atlas",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-e1-qhj1ehq",
+    "title": "Boston Dynamics / Atlas youtube",
+    "url": "https://youtu.be/-e1_QhJ1EhQ",
+    "source_type": "demo_or_channel",
+    "related_record_id": "boston-dynamics-atlas",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "cartwheelrobotics-com",
+    "title": "Cartwheel / Yogi website",
+    "url": "https://www.cartwheelrobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "cartwheel-yogi",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-cartwheel-robotics",
+    "title": "Cartwheel / Yogi linkedin",
+    "url": "https://www.linkedin.com/company/cartwheel-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "cartwheel-yogi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "clonerobotics-com",
+    "title": "Clone / Clone website",
+    "url": "https://www.clonerobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "clone-clone",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-clonerobotics",
+    "title": "Clone / Clone x",
+    "url": "https://x.com/clonerobotics",
+    "source_type": "social_profile",
+    "related_record_id": "clone-clone",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-clonerobotics",
+    "title": "Clone / Clone linkedin",
+    "url": "https://www.linkedin.com/company/clonerobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "clone-clone",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-gl0gnzpiol4",
+    "title": "Clone / Clone youtube",
+    "url": "https://www.youtube.com/watch?v=gl0GnzPIOl4",
+    "source_type": "demo_or_channel",
+    "related_record_id": "clone-clone",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "clonerobotics-com-company",
+    "title": "Clone / Clone careers",
+    "url": "https://www.clonerobotics.com/company",
+    "source_type": "careers_page",
+    "related_record_id": "clone-clone",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "co-bot",
+    "title": "Cobot / Proxie website",
+    "url": "https://www.co.bot/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "cobot-proxie",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "deeprobotics-cn-en-index-humanoid-html",
+    "title": "Deep / DR01 website",
+    "url": "https://www.deeprobotics.cn/en/index/humanoid.html",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "deep-dr01",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-deeprobotics-cn",
+    "title": "Deep / DR01 x",
+    "url": "https://x.com/DeepRobotics_CN",
+    "source_type": "social_profile",
+    "related_record_id": "deep-dr01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-deep-robotics",
+    "title": "Deep / DR01 linkedin",
+    "url": "https://www.linkedin.com/company/deep-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "deep-dr01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-lcfyfh3mloq",
+    "title": "Deep / DR01 youtube",
+    "url": "https://www.youtube.com/watch?v=lCFyfh3mLOQ",
+    "source_type": "demo_or_channel",
+    "related_record_id": "deep-dr01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "devanthro-com",
+    "title": "Devanthro / Robody website",
+    "url": "https://www.devanthro.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "devanthro-robody",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-robodies",
+    "title": "Devanthro / Robody x",
+    "url": "https://x.com/robodies",
+    "source_type": "social_profile",
+    "related_record_id": "devanthro-robody",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-robodies",
+    "title": "Devanthro / Robody linkedin",
+    "url": "https://www.linkedin.com/company/robodies/",
+    "source_type": "social_profile",
+    "related_record_id": "devanthro-robody",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-hk-ai0wwj0o",
+    "title": "Devanthro / Robody youtube",
+    "url": "https://www.youtube.com/watch?v=hk_ai0wWJ0o",
+    "source_type": "demo_or_channel",
+    "related_record_id": "devanthro-robody",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "devanthro-com-career",
+    "title": "Devanthro / Robody careers",
+    "url": "https://www.devanthro.com/career/",
+    "source_type": "careers_page",
+    "related_record_id": "devanthro-robody",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "dexmate-ai",
+    "title": "Dexmate / Vega website",
+    "url": "https://www.dexmate.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "dexmate-vega",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-dexmateai",
+    "title": "Dexmate / Vega x",
+    "url": "https://x.com/DexmateAI",
+    "source_type": "social_profile",
+    "related_record_id": "dexmate-vega",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-dexmate",
+    "title": "Dexmate / Vega linkedin",
+    "url": "https://www.linkedin.com/company/dexmate/",
+    "source_type": "social_profile",
+    "related_record_id": "dexmate-vega",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-pecqfijnwqi",
+    "title": "Dexmate / Vega youtube",
+    "url": "https://www.youtube.com/watch?v=PecqfiJNwQI",
+    "source_type": "demo_or_channel",
+    "related_record_id": "dexmate-vega",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "diligentrobots-com",
+    "title": "Diligent / Moxi website",
+    "url": "https://www.diligentrobots.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "diligent-moxi",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-diligentrobots",
+    "title": "Diligent / Moxi x",
+    "url": "https://x.com/DiligentRobots",
+    "source_type": "social_profile",
+    "related_record_id": "diligent-moxi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-diligent-robotics",
+    "title": "Diligent / Moxi linkedin",
+    "url": "https://www.linkedin.com/company/diligent-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "diligent-moxi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-nxgs-2b1ak",
+    "title": "Diligent / Moxi youtube",
+    "url": "https://www.youtube.com/watch?v=NxGs_-2B1Ak",
+    "source_type": "demo_or_channel",
+    "related_record_id": "diligent-moxi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "diligentrobots-com-join-our-team-1",
+    "title": "Diligent / Moxi careers",
+    "url": "https://www.diligentrobots.com/join-our-team-1",
+    "source_type": "careers_page",
+    "related_record_id": "diligent-moxi",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "dobot-robots-com",
+    "title": "Dobot / Atom website",
+    "url": "https://www.dobot-robots.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "dobot-atom",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-dobotrobotics",
+    "title": "Dobot / Atom x",
+    "url": "https://x.com/DobotRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "dobot-atom",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "openarm-dev",
+    "title": "Enactic / OpenArm website",
+    "url": "https://openarm.dev/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "enactic-openarm",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-enactic-ai",
+    "title": "Enactic / OpenArm x",
+    "url": "https://x.com/enactic_ai",
+    "source_type": "social_profile",
+    "related_record_id": "enactic-openarm",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "enchanted-tools",
+    "title": "Enchanted / Mirokai website",
+    "url": "https://enchanted.tools/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "enchanted-mirokai",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-enchantedtools",
+    "title": "Enchanted / Mirokai x",
+    "url": "https://x.com/EnchantedTools",
+    "source_type": "social_profile",
+    "related_record_id": "enchanted-mirokai",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-enchantedtools",
+    "title": "Enchanted / Mirokai linkedin",
+    "url": "https://www.linkedin.com/company/enchantedtools/",
+    "source_type": "social_profile",
+    "related_record_id": "enchanted-mirokai",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "engineai-com-cn",
+    "title": "Engineai / SE01 website",
+    "url": "https://www.engineai.com.cn/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "engineai-se01",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-engineairobot",
+    "title": "Engineai / SE01 x",
+    "url": "https://x.com/engineairobot",
+    "source_type": "social_profile",
+    "related_record_id": "engineai-se01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-j-umnh-f7cu",
+    "title": "Engineai / SE01 youtube",
+    "url": "https://www.youtube.com/watch?v=j-uMnH_f7cU",
+    "source_type": "demo_or_channel",
+    "related_record_id": "engineai-se01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "engineeredarts-com",
+    "title": "Engineered Arts / Ameca website",
+    "url": "https://engineeredarts.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "engineered-arts-ameca",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-engineered-arts",
+    "title": "Engineered Arts / Ameca x",
+    "url": "https://x.com/engineered_arts",
+    "source_type": "social_profile",
+    "related_record_id": "engineered-arts-ameca",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-engineered-arts-ltd",
+    "title": "Engineered Arts / Ameca linkedin",
+    "url": "https://www.linkedin.com/company/engineered-arts-ltd/",
+    "source_type": "social_profile",
+    "related_record_id": "engineered-arts-ameca",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-on3y-ikmgza",
+    "title": "Engineered Arts / Ameca youtube",
+    "url": "https://www.youtube.com/watch?v=oN3Y_iKmgZA",
+    "source_type": "demo_or_channel",
+    "related_record_id": "engineered-arts-ameca",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "codroid-ai-en",
+    "title": "Estun Codroid / Codroid website",
+    "url": "https://www.codroid.ai/en/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "estun-codroid-codroid",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "figure-ai",
+    "title": "Figure / 02 website",
+    "url": "https://www.figure.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "figure-02",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-figure-robot",
+    "title": "Figure / 02 x",
+    "url": "https://x.com/Figure_robot",
+    "source_type": "social_profile",
+    "related_record_id": "figure-02",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-figure-ai",
+    "title": "Figure / 02 linkedin",
+    "url": "https://www.linkedin.com/company/figure-ai/",
+    "source_type": "social_profile",
+    "related_record_id": "figure-02",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-0srvjaog9co",
+    "title": "Figure / 02 youtube",
+    "url": "https://youtu.be/0SRVJaOg9Co",
+    "source_type": "demo_or_channel",
+    "related_record_id": "figure-02",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "figure-ai-careers",
+    "title": "Figure / 02 careers",
+    "url": "https://www.figure.ai/careers",
+    "source_type": "careers_page",
+    "related_record_id": "figure-02",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "foundation-bot",
+    "title": "Foundation / Phantom MK1 website",
+    "url": "https://foundation.bot/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "foundation-phantom-mk1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-foundation-robo",
+    "title": "Foundation / Phantom MK1 x",
+    "url": "https://x.com/foundation_robo",
+    "source_type": "social_profile",
+    "related_record_id": "foundation-phantom-mk1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-foundation-bot",
+    "title": "Foundation / Phantom MK1 linkedin",
+    "url": "https://www.linkedin.com/company/foundation-bot/",
+    "source_type": "social_profile",
+    "related_record_id": "foundation-phantom-mk1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-i8euettvsum",
+    "title": "Foundation / Phantom MK1 youtube",
+    "url": "https://www.youtube.com/watch?v=I8EueTtvSuM",
+    "source_type": "demo_or_channel",
+    "related_record_id": "foundation-phantom-mk1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "fftai-com",
+    "title": "Fourier / GR-1 website",
+    "url": "https://fftai.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "fourier-gr-1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-fourierrobots",
+    "title": "Fourier / GR-1 x",
+    "url": "https://x.com/FourierRobots",
+    "source_type": "social_profile",
+    "related_record_id": "fourier-gr-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-showcase-fourier-rehab",
+    "title": "Fourier / GR-1 linkedin",
+    "url": "https://www.linkedin.com/showcase/fourier-rehab/",
+    "source_type": "social_profile",
+    "related_record_id": "fourier-gr-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-shpxcrblxn0",
+    "title": "Fourier / GR-1 youtube",
+    "url": "https://youtu.be/SHPxcRBlXN0",
+    "source_type": "demo_or_channel",
+    "related_record_id": "fourier-gr-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "gac-com-cn",
+    "title": "GAC Group / GoMate website",
+    "url": "https://www.gac.com.cn/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "gac-group-gomate",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "galaxea-dynamics-com",
+    "title": "Galaxea / R1 website",
+    "url": "https://galaxea-dynamics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "galaxea-r1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-galaxeadynamics",
+    "title": "Galaxea / R1 x",
+    "url": "https://x.com/GalaxeaDynamics",
+    "source_type": "social_profile",
+    "related_record_id": "galaxea-r1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "galbot-com",
+    "title": "Galbot / G1 website",
+    "url": "https://www.galbot.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "galbot-g1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-galbotrobotics",
+    "title": "Galbot / G1 x",
+    "url": "https://x.com/GalbotRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "galbot-g1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-9ml9mochsqa",
+    "title": "Galbot / G1 youtube",
+    "url": "https://www.youtube.com/watch?v=9ML9mOcHSQA",
+    "source_type": "demo_or_channel",
+    "related_record_id": "galbot-g1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "gbionics-ai",
+    "title": "Generative Bionics / GENE.01 website",
+    "url": "https://gbionics.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "generative-bionics-gene-01",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "goblinrobotics-com",
+    "title": "Goblin / GBLN-01 website",
+    "url": "https://www.goblinrobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "goblin-gbln-01",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-goblinrobotics",
+    "title": "Goblin / GBLN-01 x",
+    "url": "https://x.com/GoblinRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "goblin-gbln-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-goblinrobotics",
+    "title": "Goblin / GBLN-01 linkedin",
+    "url": "https://www.linkedin.com/company/goblinrobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "goblin-gbln-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-wxni1cegn1c",
+    "title": "Goblin / GBLN-01 youtube",
+    "url": "https://www.youtube.com/watch?v=Wxni1ceGN1c",
+    "source_type": "demo_or_channel",
+    "related_record_id": "goblin-gbln-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "hansonrobotics-com",
+    "title": "Hanson / Sophia website",
+    "url": "https://www.hansonrobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "hanson-sophia",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "heimarobotics-com",
+    "title": "Heima / Adam website",
+    "url": "https://www.heimarobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "heima-adam",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "hexagon-com-company-newsroom-press-releases-2025-hexagon-launches-aeon-a-humanoid-built-for-industry",
+    "title": "Hexagon / AEON website",
+    "url": "https://hexagon.com/company/newsroom/press-releases/2025/hexagon-launches-aeon-a-humanoid-built-for-industry",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "hexagon-aeon",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-hexagonab",
+    "title": "Hexagon / AEON x",
+    "url": "https://x.com/HexagonAB",
+    "source_type": "social_profile",
+    "related_record_id": "hexagon-aeon",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "holiday-robotics-com",
+    "title": "Holiday / Friday website",
+    "url": "https://holiday-robotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "holiday-friday",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "igus-com-automation-news-humanoid-robot",
+    "title": "Igus / Iggy Rob website",
+    "url": "https://www.igus.com/automation/news/humanoid-robot",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "igus-iggy-rob",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robots-ihmc-us-nadia",
+    "title": "IHMC Robotics / Nadia website",
+    "url": "https://robots.ihmc.us/nadia",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "ihmc-robotics-nadia",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "intbot-ai",
+    "title": "IntBot / Nylo website",
+    "url": "https://intbot.ai",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "intbot-nylo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-intbotai",
+    "title": "IntBot / Nylo x",
+    "url": "https://x.com/intbotai",
+    "source_type": "social_profile",
+    "related_record_id": "intbot-nylo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-41nrpjxldku",
+    "title": "IntBot / Nylo youtube",
+    "url": "https://www.youtube.com/watch?v=41NRPjXLDKU",
+    "source_type": "demo_or_channel",
+    "related_record_id": "intbot-nylo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "shop-kscale-dev",
+    "title": "K-Scale Labs / K-bot website",
+    "url": "https://shop.kscale.dev/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "k-scale-labs-k-bot",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-kscalelabs",
+    "title": "K-Scale Labs / K-bot x",
+    "url": "https://x.com/kscalelabs",
+    "source_type": "social_profile",
+    "related_record_id": "k-scale-labs-k-bot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "gotokepler-com-home",
+    "title": "Kepler / Forerunner website",
+    "url": "https://www.gotokepler.com/home",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "kepler-forerunner",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-botkepler",
+    "title": "Kepler / Forerunner x",
+    "url": "https://x.com/BotKepler",
+    "source_type": "social_profile",
+    "related_record_id": "kepler-forerunner",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-kepler-exploration-robotics",
+    "title": "Kepler / Forerunner linkedin",
+    "url": "https://www.linkedin.com/company/kepler-exploration-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "kepler-forerunner",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-a5vshtgdbke",
+    "title": "Kepler / Forerunner youtube",
+    "url": "https://youtu.be/A5vshTgDbKE",
+    "source_type": "demo_or_channel",
+    "related_record_id": "kepler-forerunner",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "kinisi-com",
+    "title": "Kinisi / Kinisi 01 / KR1 website",
+    "url": "https://www.kinisi.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "kinisi-kinisi-01-kr1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-kinisirobotics",
+    "title": "Kinisi / Kinisi 01 / KR1 x",
+    "url": "https://x.com/KinisiRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "kinisi-kinisi-01-kr1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "lejurobot-com-en",
+    "title": "Leju / Kuavo website",
+    "url": "https://www.lejurobot.com/en",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "leju-kuavo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-lejurobotics",
+    "title": "Leju / Kuavo x",
+    "url": "https://x.com/LEJURobotics",
+    "source_type": "social_profile",
+    "related_record_id": "leju-kuavo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "solutions-lg-com-us-robots",
+    "title": "LG / Kapex website",
+    "url": "https://solutions.lg.com/us/robots",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "lg-kapex",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "limxdynamics-com-en",
+    "title": "LimX / Oli website",
+    "url": "https://www.limxdynamics.com/en",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "limx-oli",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-limx-dynamics",
+    "title": "LimX / Oli x",
+    "url": "https://x.com/LimX_Dynamics",
+    "source_type": "social_profile",
+    "related_record_id": "limx-oli",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-limx-dynamics",
+    "title": "LimX / Oli linkedin",
+    "url": "https://www.linkedin.com/company/limx-dynamics/",
+    "source_type": "social_profile",
+    "related_record_id": "limx-oli",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-sihidej4hmk",
+    "title": "LimX / Oli youtube",
+    "url": "https://youtu.be/sihIDeJ4Hmk",
+    "source_type": "demo_or_channel",
+    "related_record_id": "limx-oli",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "lumosbot-tech",
+    "title": "Lumos / LUS website",
+    "url": "https://www.lumosbot.tech/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "lumos-lus",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-lumosrobotics",
+    "title": "Lumos / LUS x",
+    "url": "https://x.com/LumosRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "lumos-lus",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "magiclab-top",
+    "title": "Magiclab / Magicbot website",
+    "url": "https://magiclab.top",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "magiclab-magicbot",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-magiclab-robot",
+    "title": "Magiclab / Magicbot x",
+    "url": "https://x.com/MagicLab_Robot",
+    "source_type": "social_profile",
+    "related_record_id": "magiclab-magicbot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-npfachquvec",
+    "title": "Magiclab / Magicbot youtube",
+    "url": "https://www.youtube.com/watch?v=nPFAchqUvEc",
+    "source_type": "demo_or_channel",
+    "related_record_id": "magiclab-magicbot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "menteebot-com-bot",
+    "title": "Mentee / MenteeBot website",
+    "url": "https://www.menteebot.com/bot/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "mentee-menteebot",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-menteebot",
+    "title": "Mentee / MenteeBot x",
+    "url": "https://x.com/MenteeBot",
+    "source_type": "social_profile",
+    "related_record_id": "mentee-menteebot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-mentee-robotics",
+    "title": "Mentee / MenteeBot linkedin",
+    "url": "https://www.linkedin.com/company/mentee-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "mentee-menteebot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-z3t9s1arbdk",
+    "title": "Mentee / MenteeBot youtube",
+    "url": "https://youtu.be/Z3T9S1Arbdk",
+    "source_type": "demo_or_channel",
+    "related_record_id": "mentee-menteebot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "menteebot-com-careers",
+    "title": "Mentee / MenteeBot careers",
+    "url": "https://menteebot.com/careers/",
+    "source_type": "careers_page",
+    "related_record_id": "mentee-menteebot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "neura-robotics-com",
+    "title": "Neura / 4NE-1 website",
+    "url": "https://neura-robotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "neura-4ne-1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-neurarobotics",
+    "title": "Neura / 4NE-1 x",
+    "url": "https://x.com/neurarobotics",
+    "source_type": "social_profile",
+    "related_record_id": "neura-4ne-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-neura-robotics",
+    "title": "Neura / 4NE-1 linkedin",
+    "url": "https://www.linkedin.com/company/neura-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "neura-4ne-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-rpphfszxqbm",
+    "title": "Neura / 4NE-1 youtube",
+    "url": "https://www.youtube.com/watch?v=RpphFszxQbM",
+    "source_type": "demo_or_channel",
+    "related_record_id": "neura-4ne-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "neura-robotics-com-careers",
+    "title": "Neura / 4NE-1 careers",
+    "url": "https://neura-robotics.com/careers",
+    "source_type": "careers_page",
+    "related_record_id": "neura-4ne-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "en-noetixrobotics-com-products-html",
+    "title": "Noetix / Dora website",
+    "url": "https://en.noetixrobotics.com/products.html",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "noetix-dora",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-therealnoetix",
+    "title": "Noetix / Dora x",
+    "url": "https://x.com/TheRealNoetix",
+    "source_type": "social_profile",
+    "related_record_id": "noetix-dora",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "oversonicrobotics-com",
+    "title": "Oversonic / RoBee website",
+    "url": "https://www.oversonicrobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "oversonic-robee",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-oversonic-robotics-group",
+    "title": "Oversonic / RoBee linkedin",
+    "url": "https://www.linkedin.com/company/oversonic-robotics-group/",
+    "source_type": "social_profile",
+    "related_record_id": "oversonic-robee",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-oversonicrobotics",
+    "title": "Oversonic / RoBee youtube",
+    "url": "https://www.youtube.com/@oversonicrobotics",
+    "source_type": "demo_or_channel",
+    "related_record_id": "oversonic-robee",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "pal-robotics-com-robots",
+    "title": "PAL / Talos website",
+    "url": "https://pal-robotics.com/robots/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "pal-talos",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-palrobotics",
+    "title": "PAL / Talos x",
+    "url": "https://x.com/PALRobotics?",
+    "source_type": "social_profile",
+    "related_record_id": "pal-talos",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-pal-robotics",
+    "title": "PAL / Talos linkedin",
+    "url": "https://www.linkedin.com/company/pal-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "pal-talos",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-zquufueu83a",
+    "title": "PAL / Talos youtube",
+    "url": "https://www.youtube.com/watch?v=zQUufUEU83A",
+    "source_type": "demo_or_channel",
+    "related_record_id": "pal-talos",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "phybot-tech",
+    "title": "Phybot / M1 website",
+    "url": "https://www.phybot.tech/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "phybot-m1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-phybot-tech",
+    "title": "Phybot / M1 x",
+    "url": "https://x.com/PHYBOT_Tech",
+    "source_type": "social_profile",
+    "related_record_id": "phybot-m1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "pib-rocks",
+    "title": "Pib / Pib website",
+    "url": "https://pib.rocks/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "pib-pib",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "pndbotics-com",
+    "title": "PNDbotics / Adam website",
+    "url": "https://www.pndbotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "pndbotics-adam",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-pndbotics",
+    "title": "PNDbotics / Adam x",
+    "url": "https://x.com/PNDbotics",
+    "source_type": "social_profile",
+    "related_record_id": "pndbotics-adam",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-pzxb-va0qno",
+    "title": "PNDbotics / Adam youtube",
+    "url": "https://www.youtube.com/watch?v=pzxB-va0qNo",
+    "source_type": "demo_or_channel",
+    "related_record_id": "pndbotics-adam",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "pollen-robotics-com",
+    "title": "Pollen / Reachy 2 website",
+    "url": "https://www.pollen-robotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "pollen-reachy-2",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-pollenrobotics",
+    "title": "Pollen / Reachy 2 x",
+    "url": "https://x.com/pollenrobotics",
+    "source_type": "social_profile",
+    "related_record_id": "pollen-reachy-2",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-pollen-robotics",
+    "title": "Pollen / Reachy 2 linkedin",
+    "url": "https://www.linkedin.com/company/pollen-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "pollen-reachy-2",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-t3rdwdkza9c",
+    "title": "Pollen / Reachy 2 youtube",
+    "url": "https://www.youtube.com/watch?v=T3RdwDkZA9c",
+    "source_type": "demo_or_channel",
+    "related_record_id": "pollen-reachy-2",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "pudurobotics-com-it-news-917",
+    "title": "Pudu / D7 website",
+    "url": "https://www.pudurobotics.com/it/news/917",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "pudu-d7",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-pudurobotics",
+    "title": "Pudu / D7 x",
+    "url": "https://x.com/PuduRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "pudu-d7",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-pudurobotics",
+    "title": "Pudu / D7 linkedin",
+    "url": "https://www.linkedin.com/company/pudurobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "pudu-d7",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-cba9wa9etga",
+    "title": "Pudu / D7 youtube",
+    "url": "https://youtu.be/CbA9wA9etGA",
+    "source_type": "demo_or_channel",
+    "related_record_id": "pudu-d7",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "technode-com-2024-07-05-qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024",
+    "title": "Qinglong / Qinglong website",
+    "url": "https://technode.com/2024/07/05/qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "qinglong-qinglong",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-rainbow-robotics",
+    "title": "Rainbow / Hubo linkedin",
+    "url": "https://www.linkedin.com/company/rainbow-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "rainbow-hubo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-ilwg5zknoz8",
+    "title": "Qinglong / Qinglong youtube",
+    "url": "https://youtu.be/ilwG5zkNOz8",
+    "source_type": "demo_or_channel",
+    "related_record_id": "qinglong-qinglong",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "rainbow-robotics-com",
+    "title": "Rainbow / Hubo website",
+    "url": "https://www.rainbow-robotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "rainbow-hubo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-kkr0ix0qany",
+    "title": "Rainbow / Hubo youtube",
+    "url": "https://www.youtube.com/watch?v=KKr0ix0qAnY",
+    "source_type": "demo_or_channel",
+    "related_record_id": "rainbow-hubo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "realbotix-com",
+    "title": "Realbotix / Aria website",
+    "url": "https://www.realbotix.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "realbotix-aria",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-realbotixcorp",
+    "title": "Realbotix / Aria x",
+    "url": "https://x.com/RealbotixCorp",
+    "source_type": "social_profile",
+    "related_record_id": "realbotix-aria",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-4bq91og7vmm",
+    "title": "Realbotix / Aria youtube",
+    "url": "https://www.youtube.com/watch?v=4Bq91og7VmM",
+    "source_type": "demo_or_channel",
+    "related_record_id": "realbotix-aria",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "reflexrobotics-com",
+    "title": "Reflex / Reflex website",
+    "url": "https://www.reflexrobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "reflex-reflex",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-reflexrobot",
+    "title": "Reflex / Reflex x",
+    "url": "https://x.com/reflexrobot",
+    "source_type": "social_profile",
+    "related_record_id": "reflex-reflex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-reflexrobotics",
+    "title": "Reflex / Reflex linkedin",
+    "url": "https://www.linkedin.com/company/reflexrobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "reflex-reflex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-r2jpnpusppk",
+    "title": "Reflex / Reflex youtube",
+    "url": "https://www.youtube.com/watch?v=r2jPnpuSpPk",
+    "source_type": "demo_or_channel",
+    "related_record_id": "reflex-reflex",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "revobots-ai",
+    "title": "Revobots / Taskbot website",
+    "url": "https://revobots.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "revobots-taskbot",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-revobots-ai",
+    "title": "Revobots / Taskbot x",
+    "url": "https://x.com/REVOBOTS_AI",
+    "source_type": "social_profile",
+    "related_record_id": "revobots-taskbot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-revobots",
+    "title": "Revobots / Taskbot linkedin",
+    "url": "https://www.linkedin.com/company/revobots/",
+    "source_type": "social_profile",
+    "related_record_id": "revobots-taskbot",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robotera-com",
+    "title": "Robotera / Star 1 website",
+    "url": "https://www.robotera.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "robotera-star-1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-roboterax",
+    "title": "Robotera / Star 1 x",
+    "url": "https://x.com/roboterax",
+    "source_type": "social_profile",
+    "related_record_id": "robotera-star-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-robotera1",
+    "title": "Robotera / Star 1 linkedin",
+    "url": "https://www.linkedin.com/company/robotera1/",
+    "source_type": "social_profile",
+    "related_record_id": "robotera-star-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-nx2yo3twzys",
+    "title": "Robotera / Star 1 youtube",
+    "url": "https://www.youtube.com/watch?v=nx2YO3twZYs",
+    "source_type": "demo_or_channel",
+    "related_record_id": "robotera-star-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robot-com-r-noid",
+    "title": "Robotera / R-Noid website",
+    "url": "https://www.robot.com/r-noid",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "robotera-r-noid",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-robotcom",
+    "title": "Robotera / R-Noid x",
+    "url": "https://x.com/Robotcom",
+    "source_type": "social_profile",
+    "related_record_id": "robotera-r-noid",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-robot-com",
+    "title": "Robotera / R-Noid linkedin",
+    "url": "https://www.linkedin.com/company/robot-com/",
+    "source_type": "social_profile",
+    "related_record_id": "robotera-r-noid",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robotis-us",
+    "title": "Robotis / K0 website",
+    "url": "https://www.robotis.us/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "robotis-k0",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robros-co-kr",
+    "title": "Robros / Igris website",
+    "url": "https://robros.co.kr/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "robros-igris",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-robros",
+    "title": "Robros / Igris linkedin",
+    "url": "https://www.linkedin.com/company/robros/",
+    "source_type": "social_profile",
+    "related_record_id": "robros-igris",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-rqblrpunlhc",
+    "title": "Robros / Igris youtube",
+    "url": "https://www.youtube.com/watch?v=RQBLrPunlHc",
+    "source_type": "demo_or_channel",
+    "related_record_id": "robros-igris",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "sanctuary-ai-resources-news-sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work",
+    "title": "Sanctuary AI / Phoenix website",
+    "url": "https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "sanctuary-ai-phoenix",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-thesanctuaryai",
+    "title": "Sanctuary AI / Phoenix x",
+    "url": "https://x.com/TheSanctuaryAI",
+    "source_type": "social_profile",
+    "related_record_id": "sanctuary-ai-phoenix",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-sanctuaryai",
+    "title": "Sanctuary AI / Phoenix linkedin",
+    "url": "https://www.linkedin.com/company/sanctuaryai/",
+    "source_type": "social_profile",
+    "related_record_id": "sanctuary-ai-phoenix",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-hizp4uqvug",
+    "title": "Sanctuary AI / Phoenix youtube",
+    "url": "https://www.youtube.com/watch?v=-HizP4UQvug",
+    "source_type": "demo_or_channel",
+    "related_record_id": "sanctuary-ai-phoenix",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "sharpa-com",
+    "title": "Sharpa / Wave website",
+    "url": "https://www.sharpa.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "sharpa-wave",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-sharparobotics",
+    "title": "Sharpa / Wave x",
+    "url": "https://x.com/SharpaRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "sharpa-wave",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "spirit-ai-com",
+    "title": "Spirit / Moz website",
+    "url": "https://www.spirit-ai.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "spirit-moz",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "eu-switch-bot-com",
+    "title": "Switch / Onero H1 website",
+    "url": "https://eu.switch-bot.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "switch-onero-h1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "tangiblerobots-ai",
+    "title": "Tangible / Eggie website",
+    "url": "https://tangiblerobots.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "tangible-eggie",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-tangiblerobots",
+    "title": "Tangible / Eggie x",
+    "url": "https://x.com/tangiblerobots",
+    "source_type": "social_profile",
+    "related_record_id": "tangible-eggie",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "archive-md-mewsj",
+    "title": "Tesla / Optimus Gen 2 website",
+    "url": "https://archive.md/mEWsJ",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "tesla-optimus-gen-2",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-tesla-optimus",
+    "title": "Tesla / Optimus Gen 2 x",
+    "url": "https://x.com/Tesla_Optimus",
+    "source_type": "social_profile",
+    "related_record_id": "tesla-optimus-gen-2",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-tesla-motors",
+    "title": "Tesla / Optimus Gen 2 linkedin",
+    "url": "https://www.linkedin.com/company/tesla-motors/",
+    "source_type": "social_profile",
+    "related_record_id": "tesla-optimus-gen-2",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-fpegpf7jveq",
+    "title": "Tesla / Optimus Gen 2 youtube",
+    "url": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
+    "source_type": "demo_or_channel",
+    "related_record_id": "tesla-optimus-gen-2",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "thehumanoid-ai",
+    "title": "The Humanoid / HMND 01 website",
+    "url": "https://thehumanoid.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "the-humanoid-hmnd-01",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-thehumanoidai",
+    "title": "The Humanoid / HMND 01 x",
+    "url": "https://x.com/thehumanoidai",
+    "source_type": "social_profile",
+    "related_record_id": "the-humanoid-hmnd-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-humanoidai",
+    "title": "The Humanoid / HMND 01 linkedin",
+    "url": "https://www.linkedin.com/company/humanoidai/",
+    "source_type": "social_profile",
+    "related_record_id": "the-humanoid-hmnd-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-thehumanoidai",
+    "title": "The Humanoid / HMND 01 youtube",
+    "url": "https://www.youtube.com/@TheHumanoidAI",
+    "source_type": "demo_or_channel",
+    "related_record_id": "the-humanoid-hmnd-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "thehumanoid-ai-careers",
+    "title": "The Humanoid / HMND 01 careers",
+    "url": "https://thehumanoid.ai/careers/",
+    "source_type": "careers_page",
+    "related_record_id": "the-humanoid-hmnd-01",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "ti5robot-com-en",
+    "title": "Ti5robot / T230A website",
+    "url": "https://www.ti5robot.com/en/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "ti5robot-t230a",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robotics-tokyo",
+    "title": "Tokyo / Torobo website",
+    "url": "https://robotics.tokyo/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "tokyo-torobo",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-tokyo-robotics",
+    "title": "Tokyo / Torobo x",
+    "url": "https://x.com/Tokyo_Robotics",
+    "source_type": "social_profile",
+    "related_record_id": "tokyo-torobo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-tokyo-robotics",
+    "title": "Tokyo / Torobo linkedin",
+    "url": "https://www.linkedin.com/company/tokyo-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "tokyo-torobo",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "ubtrobot-com",
+    "title": "Ubtech / Walker S1 website",
+    "url": "https://www.ubtrobot.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "ubtech-walker-s1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-ubtechrobotics",
+    "title": "Ubtech / Walker S1 x",
+    "url": "https://x.com/UBTECHRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "ubtech-walker-s1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-ubtech-robotics",
+    "title": "Ubtech / Walker S1 linkedin",
+    "url": "https://www.linkedin.com/company/ubtech-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "ubtech-walker-s1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-ubbk18ozbtc",
+    "title": "Ubtech / Walker S1 youtube",
+    "url": "https://www.youtube.com/watch?v=UBbk18oZbTc",
+    "source_type": "demo_or_channel",
+    "related_record_id": "ubtech-walker-s1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "unitree-com-en-h1",
+    "title": "Unitree / H1 website",
+    "url": "https://www.unitree.com/en/h1/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "unitree-h1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-unitreerobotics",
+    "title": "Unitree / H1 x",
+    "url": "https://x.com/UnitreeRobotics",
+    "source_type": "social_profile",
+    "related_record_id": "unitree-h1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-unitreerobotics",
+    "title": "Unitree / H1 linkedin",
+    "url": "https://www.linkedin.com/company/unitreerobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "unitree-h1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtu-be-gtps-ygfaea",
+    "title": "Unitree / H1 youtube",
+    "url": "https://youtu.be/GtPs_ygfaEA",
+    "source_type": "demo_or_channel",
+    "related_record_id": "unitree-h1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "unix-group-ai",
+    "title": "UniX / Wanda website",
+    "url": "https://www.unix-group.ai",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "unix-wanda",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "vanarrobots-com",
+    "title": "Vanar / Generation 1 website",
+    "url": "http://vanarrobots.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "vanar-generation-1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-vanar-robots",
+    "title": "Vanar / Generation 1 x",
+    "url": "https://x.com/vanar_robots",
+    "source_type": "social_profile",
+    "related_record_id": "vanar-generation-1",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "vinmotion-net",
+    "title": "VinMotion / Motion website",
+    "url": "https://vinmotion.net/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "vinmotion-motion",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-vinmotionglobal",
+    "title": "VinMotion / Motion x",
+    "url": "https://x.com/VinMotionGlobal",
+    "source_type": "social_profile",
+    "related_record_id": "vinmotion-motion",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "en-wandercraft-eu",
+    "title": "Wandercraft / Calvin website",
+    "url": "https://en.wandercraft.eu/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "wandercraft-calvin",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-exowandercraft",
+    "title": "Wandercraft / Calvin x",
+    "url": "https://x.com/exowandercraft",
+    "source_type": "social_profile",
+    "related_record_id": "wandercraft-calvin",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-wandercraft",
+    "title": "Wandercraft / Calvin linkedin",
+    "url": "https://www.linkedin.com/company/wandercraft/",
+    "source_type": "social_profile",
+    "related_record_id": "wandercraft-calvin",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "weaverobotics-com",
+    "title": "Weave / Isaac website",
+    "url": "https://www.weaverobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "weave-isaac",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "westwoodrobotics-io",
+    "title": "Westwood / Themis website",
+    "url": "https://www.westwoodrobotics.io/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "westwood-themis",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-westwoodrobotics",
+    "title": "Westwood / Themis linkedin",
+    "url": "https://www.linkedin.com/company/westwoodrobotics/",
+    "source_type": "social_profile",
+    "related_record_id": "westwood-themis",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-svrrhsfkfle",
+    "title": "Westwood / Themis youtube",
+    "url": "https://www.youtube.com/watch?v=svRRhsFKflE",
+    "source_type": "demo_or_channel",
+    "related_record_id": "westwood-themis",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "wirobotics-com",
+    "title": "Wirobotics / Allex website",
+    "url": "https://www.wirobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "wirobotics-allex",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x2robot-com-en",
+    "title": "X Square / Quanta X2 website",
+    "url": "https://www.x2robot.com/en",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "x-square-quanta-x2",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "mi-com-global-discover-article-id-2754",
+    "title": "Xiaomi / Cyber One website",
+    "url": "https://www.mi.com/global/discover/article?id=2754",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "xiaomi-cyber-one",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-xiaomi",
+    "title": "Xiaomi / Cyber One x",
+    "url": "https://x.com/Xiaomi",
+    "source_type": "social_profile",
+    "related_record_id": "xiaomi-cyber-one",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-i28q9czux2q",
+    "title": "Xiaomi / Cyber One youtube",
+    "url": "https://www.youtube.com/watch?v=I28Q9czUx2Q",
+    "source_type": "demo_or_channel",
+    "related_record_id": "xiaomi-cyber-one",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "faunarobotics-com",
+    "title": "Fauna / Sprout website",
+    "url": "https://faunarobotics.com/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "fauna-sprout",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-faunarobotics",
+    "title": "Fauna / Sprout x",
+    "url": "https://x.com/faunarobotics",
+    "source_type": "social_profile",
+    "related_record_id": "fauna-sprout",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-fauna-robotics",
+    "title": "Fauna / Sprout linkedin",
+    "url": "https://www.linkedin.com/company/fauna-robotics/",
+    "source_type": "social_profile",
+    "related_record_id": "fauna-sprout",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-faunarobotics",
+    "title": "Fauna / Sprout youtube",
+    "url": "https://www.youtube.com/@FaunaRobotics",
+    "source_type": "demo_or_channel",
+    "related_record_id": "fauna-sprout",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "pxing-com-en-index",
+    "title": "Xpeng / Iron website",
+    "url": "https://www.pxing.com/en/index",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "xpeng-iron",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-xpengr",
+    "title": "Xpeng / Iron x",
+    "url": "https://x.com/XpengR",
+    "source_type": "social_profile",
+    "related_record_id": "xpeng-iron",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "linkedin-com-company-xpengmotorsglobal",
+    "title": "Xpeng / Iron linkedin",
+    "url": "https://www.linkedin.com/company/xpengmotorsglobal/",
+    "source_type": "social_profile",
+    "related_record_id": "xpeng-iron",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "youtube-com-watch-v-bnsz8fwcd20",
+    "title": "Xpeng / Iron youtube",
+    "url": "https://www.youtube.com/watch?v=BNSZ8Fwcd20",
+    "source_type": "demo_or_channel",
+    "related_record_id": "xpeng-iron",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "addverb-ai-elixis",
+    "title": "Addverb / Elixis website",
+    "url": "https://addverb.ai/elixis",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "addverb-elixis",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "x-com-addverb-tech",
+    "title": "Addverb / Elixis x",
+    "url": "https://x.com/Addverb_Tech",
+    "source_type": "social_profile",
+    "related_record_id": "addverb-elixis",
+    "evidence_level": "source_reference",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "robotics-ff-com-us-ff-futurist",
+    "title": "Faraday Future / FF Futurist website",
+    "url": "https://robotics.ff.com/us/ff-futurist/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "faraday-future-ff-futurist",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "peritas-ai",
+    "title": "Peritas / Peri website",
+    "url": "https://www.peritas.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "peritas-peri",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "sudo-ai",
+    "title": "Sudo / R1 website",
+    "url": "https://www.sudo.ai/",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "sudo-r1",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "kinetixai-tech-en",
+    "title": "Kinetix / Kaibot website",
+    "url": "https://www.kinetixai.tech/en",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "kinetix-kaibot",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  },
+  {
+    "id": "integrarobot-com",
+    "title": "Integrarobot / Resource website",
+    "url": "https://www.integrarobot.com",
+    "source_type": "official_or_best_available_url",
+    "related_record_id": "integrarobot-resource",
+    "evidence_level": "official",
+    "date_checked": "2026-05-26T17:45:46.414Z"
+  }
+]

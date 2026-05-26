@@ -1,0 +1,2138 @@
+[
+  {
+    "id": "1x",
+    "company": "1X",
+    "country": "Norway",
+    "website": "https://www.1x.tech/neo",
+    "x": "https://x.com/1x_tech",
+    "linkedin": "",
+    "youtube": "https://youtu.be/bUrLuUxv9gE",
+    "careers": "",
+    "stock": "Private",
+    "investors": "OpenAI, Samsung, EQT, Tiger",
+    "rounds": "125,000,000.00",
+    "robot_ids": [
+      "1x-neo"
+    ],
+    "robots": [
+      "NEO"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "aeirobot",
+    "company": "AeiROBOT",
+    "country": "South Korea",
+    "website": "https://eng.arobot4all.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "aeirobot-alice"
+    ],
+    "robots": [
+      "Alice"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "aeolus",
+    "company": "Aeolus",
+    "country": "USA",
+    "website": "https://aeolusbot.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/aeolusrobotics/",
+    "youtube": "https://www.youtube.com/watch?v=c_T-mRX4e4A",
+    "careers": "https://aeolusbot.com/about#careers",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "aeolus-aeo"
+    ],
+    "robots": [
+      "aeo"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "agibot",
+    "company": "Agibot",
+    "country": "China",
+    "website": "https://www.agibot.com/",
+    "x": "https://x.com/AgiBot_zhiyuan",
+    "linkedin": "https://www.linkedin.com/company/agibot/",
+    "youtube": "https://www.youtube.com/watch?v=DQHGV3hrnL0",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "agibot-xi"
+    ],
+    "robots": [
+      "XI"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "agile",
+    "company": "Agile",
+    "country": "Germany",
+    "website": "https://www.agile-robots.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/agile-robots-se/",
+    "youtube": "https://www.youtube.com/@Agile_Robots",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "agile-one"
+    ],
+    "robots": [
+      "One"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "agility",
+    "company": "Agility",
+    "country": "USA",
+    "website": "https://agilityrobotics.com/robots",
+    "x": "https://x.com/agilityrobotics",
+    "linkedin": "https://www.linkedin.com/company/agilityrobotics/",
+    "youtube": "https://youtu.be/rnFZAB9ogEE",
+    "careers": "",
+    "stock": "Private",
+    "investors": "NVIDIA, Sony",
+    "rounds": "",
+    "robot_ids": [
+      "agility-digit"
+    ],
+    "robots": [
+      "Digit"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "apptronik",
+    "company": "Apptronik",
+    "country": "USA",
+    "website": "https://apptronik.com/product-page",
+    "x": "https://x.com/apptronik",
+    "linkedin": "https://www.linkedin.com/company/apptronik-inc./",
+    "youtube": "https://youtu.be/pymvNott6nw",
+    "careers": "https://apptronik.com/careers",
+    "stock": "Private",
+    "investors": "Google, Mercedes Benz, ARK",
+    "rounds": "",
+    "robot_ids": [
+      "apptronik-apollo"
+    ],
+    "robots": [
+      "Apollo"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "argon",
+    "company": "Argon",
+    "country": "",
+    "website": "https://www.argonmech.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "argon-one"
+    ],
+    "robots": [
+      "One"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "arx",
+    "company": "ARX",
+    "country": "China",
+    "website": "https://arx-x.com/",
+    "x": "https://x.com/ARX_Zhang",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=eDhTXj8ChKg",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "arx-x7"
+    ],
+    "robots": [
+      "X7"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "astribot",
+    "company": "Astribot",
+    "country": "China",
+    "website": "https://astribot.com/",
+    "x": "https://x.com/Astribot_Inc",
+    "linkedin": "",
+    "youtube": "https://youtu.be/6X-s4Qsn1z4",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "astribot-s1"
+    ],
+    "robots": [
+      "S1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "beyond-imagination",
+    "company": "Beyond Imagination",
+    "country": "",
+    "website": "https://www.beomni.ai/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "beyond-imagination-beomni"
+    ],
+    "robots": [
+      "Beomni"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "boardwalk",
+    "company": "Boardwalk",
+    "country": "USA",
+    "website": "https://boardwalkrobotics.com/",
+    "x": "https://x.com/boardwalkrobot",
+    "linkedin": "https://www.linkedin.com/company/boardwalk-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=tD3FNZUG2kQ",
+    "careers": "https://www.boardwalkrobotics.com/Careers",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "boardwalk-alex"
+    ],
+    "robots": [
+      "Alex"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "booster",
+    "company": "Booster",
+    "country": "China",
+    "website": "https://www.boosterobotics.com/",
+    "x": "https://x.com/boosterobotics",
+    "linkedin": "https://www.linkedin.com/company/booster-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=djUWG9Xqaq4",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "booster-t1"
+    ],
+    "robots": [
+      "T1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "borg",
+    "company": "Borg",
+    "country": "USA",
+    "website": "https://www.borgrobotic.com/",
+    "x": "https://x.com/borgrobotic",
+    "linkedin": "https://www.linkedin.com/company/borgrobotics/",
+    "youtube": "https://www.youtube.com/watch?v=r7TXGU3CxPg",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "borg-borg-01"
+    ],
+    "robots": [
+      "Borg 01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "boston-dynamics",
+    "company": "Boston Dynamics",
+    "country": "USA",
+    "website": "https://www.bostondynamics.com/atlas",
+    "x": "https://x.com/BostonDynamics",
+    "linkedin": "https://www.linkedin.com/company/boston-dynamics/",
+    "youtube": "https://youtu.be/-e1_QhJ1EhQ",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "37,000,000.00",
+    "robot_ids": [
+      "boston-dynamics-atlas"
+    ],
+    "robots": [
+      "Atlas"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "cartwheel",
+    "company": "Cartwheel",
+    "country": "USA",
+    "website": "https://www.cartwheelrobotics.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/cartwheel-robotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "cartwheel-yogi"
+    ],
+    "robots": [
+      "Yogi"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "clone",
+    "company": "Clone",
+    "country": "Poland",
+    "website": "https://www.clonerobotics.com/",
+    "x": "https://x.com/clonerobotics",
+    "linkedin": "https://www.linkedin.com/company/clonerobotics/",
+    "youtube": "https://www.youtube.com/watch?v=gl0GnzPIOl4",
+    "careers": "https://www.clonerobotics.com/company",
+    "stock": "Private",
+    "investors": "Pioneer Fund, Tango, Wikus Ventures",
+    "rounds": "",
+    "robot_ids": [
+      "clone-clone"
+    ],
+    "robots": [
+      "Clone"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "cobot",
+    "company": "Cobot",
+    "country": "",
+    "website": "https://www.co.bot/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "cobot-proxie"
+    ],
+    "robots": [
+      "Proxie"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "deep",
+    "company": "Deep",
+    "country": "China",
+    "website": "https://www.deeprobotics.cn/en/index/humanoid.html",
+    "x": "https://x.com/DeepRobotics_CN",
+    "linkedin": "https://www.linkedin.com/company/deep-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=lCFyfh3mLOQ",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "deep-dr01"
+    ],
+    "robots": [
+      "DR01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "devanthro",
+    "company": "Devanthro",
+    "country": "Germany",
+    "website": "https://www.devanthro.com/",
+    "x": "https://x.com/robodies",
+    "linkedin": "https://www.linkedin.com/company/robodies/",
+    "youtube": "https://www.youtube.com/watch?v=hk_ai0wWJ0o",
+    "careers": "https://www.devanthro.com/career/",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "devanthro-robody"
+    ],
+    "robots": [
+      "Robody"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "dexmate",
+    "company": "Dexmate",
+    "country": "United Kingdom",
+    "website": "https://www.dexmate.ai/",
+    "x": "https://x.com/DexmateAI",
+    "linkedin": "https://www.linkedin.com/company/dexmate/",
+    "youtube": "https://www.youtube.com/watch?v=PecqfiJNwQI",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "dexmate-vega"
+    ],
+    "robots": [
+      "Vega"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "diligent",
+    "company": "Diligent",
+    "country": "USA",
+    "website": "https://www.diligentrobots.com/",
+    "x": "https://x.com/DiligentRobots",
+    "linkedin": "https://www.linkedin.com/company/diligent-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=NxGs_-2B1Ak",
+    "careers": "https://www.diligentrobots.com/join-our-team-1",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "33,000,000.00",
+    "robot_ids": [
+      "diligent-moxi"
+    ],
+    "robots": [
+      "Moxi"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "dobot",
+    "company": "Dobot",
+    "country": "China",
+    "website": "https://www.dobot-robots.com/",
+    "x": "https://x.com/DobotRobotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "dobot-atom"
+    ],
+    "robots": [
+      "Atom"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "enactic",
+    "company": "Enactic",
+    "country": "",
+    "website": "https://openarm.dev/",
+    "x": "https://x.com/enactic_ai",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "enactic-openarm"
+    ],
+    "robots": [
+      "OpenArm"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "enchanted",
+    "company": "Enchanted",
+    "country": "France",
+    "website": "https://enchanted.tools/",
+    "x": "https://x.com/EnchantedTools",
+    "linkedin": "https://www.linkedin.com/company/enchantedtools/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "enchanted-mirokai"
+    ],
+    "robots": [
+      "Mirokai"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "engineai",
+    "company": "Engineai",
+    "country": "China",
+    "website": "https://www.engineai.com.cn/",
+    "x": "https://x.com/engineairobot",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=j-uMnH_f7cU",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "engineai-se01"
+    ],
+    "robots": [
+      "SE01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "engineered-arts",
+    "company": "Engineered Arts",
+    "country": "UK",
+    "website": "https://engineeredarts.com/",
+    "x": "https://x.com/engineered_arts",
+    "linkedin": "https://www.linkedin.com/company/engineered-arts-ltd/",
+    "youtube": "https://www.youtube.com/watch?v=oN3Y_iKmgZA",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "10,000,000.00",
+    "robot_ids": [
+      "engineered-arts-ameca"
+    ],
+    "robots": [
+      "Ameca"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "estun-codroid",
+    "company": "Estun Codroid",
+    "country": "China",
+    "website": "https://www.codroid.ai/en/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "estun-codroid-codroid"
+    ],
+    "robots": [
+      "Codroid"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "figure",
+    "company": "Figure",
+    "country": "USA",
+    "website": "https://www.figure.ai/",
+    "x": "https://x.com/Figure_robot",
+    "linkedin": "https://www.linkedin.com/company/figure-ai/",
+    "youtube": "https://youtu.be/0SRVJaOg9Co",
+    "careers": "https://www.figure.ai/careers",
+    "stock": "Private",
+    "investors": "NVIDIA, Microsoft, Amazon, Intel, OpenAI, ARK",
+    "rounds": "675,000,000.00",
+    "robot_ids": [
+      "figure-02"
+    ],
+    "robots": [
+      "02"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "foundation",
+    "company": "Foundation",
+    "country": "USA",
+    "website": "https://foundation.bot/",
+    "x": "https://x.com/foundation_robo",
+    "linkedin": "https://www.linkedin.com/company/foundation-bot/",
+    "youtube": "https://www.youtube.com/watch?v=I8EueTtvSuM",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "foundation-phantom-mk1"
+    ],
+    "robots": [
+      "Phantom MK1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "fourier",
+    "company": "Fourier",
+    "country": "Singapore",
+    "website": "https://fftai.com/",
+    "x": "https://x.com/FourierRobots",
+    "linkedin": "https://www.linkedin.com/showcase/fourier-rehab/",
+    "youtube": "https://youtu.be/SHPxcRBlXN0",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "fourier-gr-1"
+    ],
+    "robots": [
+      "GR-1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "gac-group",
+    "company": "GAC Group",
+    "country": "China",
+    "website": "https://www.gac.com.cn/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "HKG:2238",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "gac-group-gomate"
+    ],
+    "robots": [
+      "GoMate"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "galaxea",
+    "company": "Galaxea",
+    "country": "China",
+    "website": "https://galaxea-dynamics.com/",
+    "x": "https://x.com/GalaxeaDynamics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "galaxea-r1"
+    ],
+    "robots": [
+      "R1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "galbot",
+    "company": "Galbot",
+    "country": "China",
+    "website": "https://www.galbot.com/",
+    "x": "https://x.com/GalbotRobotics",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=9ML9mOcHSQA",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "galbot-g1"
+    ],
+    "robots": [
+      "G1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "generative-bionics",
+    "company": "Generative Bionics",
+    "country": "Italy",
+    "website": "https://gbionics.ai/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "AMD",
+    "rounds": "81,000,000.00",
+    "robot_ids": [
+      "generative-bionics-gene-01"
+    ],
+    "robots": [
+      "GENE.01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "goblin",
+    "company": "Goblin",
+    "country": "USA",
+    "website": "https://www.goblinrobotics.com/",
+    "x": "https://x.com/GoblinRobotics",
+    "linkedin": "https://www.linkedin.com/company/goblinrobotics/",
+    "youtube": "https://www.youtube.com/watch?v=Wxni1ceGN1c",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "goblin-gbln-01"
+    ],
+    "robots": [
+      "GBLN-01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "hanson",
+    "company": "Hanson",
+    "country": "Hong Kong",
+    "website": "https://www.hansonrobotics.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "hanson-sophia"
+    ],
+    "robots": [
+      "Sophia"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "heima",
+    "company": "Heima",
+    "country": "",
+    "website": "https://www.heimarobotics.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "heima-adam"
+    ],
+    "robots": [
+      "Adam"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "hexagon",
+    "company": "Hexagon",
+    "country": "Sweden",
+    "website": "https://hexagon.com/company/newsroom/press-releases/2025/hexagon-launches-aeon-a-humanoid-built-for-industry",
+    "x": "https://x.com/HexagonAB",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "STO:HEXA-B",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "hexagon-aeon"
+    ],
+    "robots": [
+      "AEON"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "holiday",
+    "company": "Holiday",
+    "country": "",
+    "website": "https://holiday-robotics.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "holiday-friday"
+    ],
+    "robots": [
+      "Friday"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "igus",
+    "company": "Igus",
+    "country": "",
+    "website": "https://www.igus.com/automation/news/humanoid-robot",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "igus-iggy-rob"
+    ],
+    "robots": [
+      "Iggy Rob"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "ihmc-robotics",
+    "company": "IHMC Robotics",
+    "country": "",
+    "website": "https://robots.ihmc.us/nadia",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "ihmc-robotics-nadia"
+    ],
+    "robots": [
+      "Nadia"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "intbot",
+    "company": "IntBot",
+    "country": "USA",
+    "website": "https://intbot.ai",
+    "x": "https://x.com/intbotai",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=41NRPjXLDKU",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "intbot-nylo"
+    ],
+    "robots": [
+      "Nylo"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "k-scale-labs",
+    "company": "K-Scale Labs",
+    "country": "USA",
+    "website": "https://shop.kscale.dev/",
+    "x": "https://x.com/kscalelabs",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Y Combinator, GFT Ventures, Pioneer Fund, AI Grant, Lux Capital, OpenAI nonprofit",
+    "rounds": "4,750,000.00",
+    "robot_ids": [
+      "k-scale-labs-k-bot"
+    ],
+    "robots": [
+      "K-bot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "kepler",
+    "company": "Kepler",
+    "country": "China",
+    "website": "https://www.gotokepler.com/home",
+    "x": "https://x.com/BotKepler",
+    "linkedin": "https://www.linkedin.com/company/kepler-exploration-robotics/",
+    "youtube": "https://youtu.be/A5vshTgDbKE",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "kepler-forerunner"
+    ],
+    "robots": [
+      "Forerunner"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "kinisi",
+    "company": "Kinisi",
+    "country": "USA / UK",
+    "website": "https://www.kinisi.com/",
+    "x": "https://x.com/KinisiRobotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "kinisi-kinisi-01-kr1"
+    ],
+    "robots": [
+      "Kinisi 01 / KR1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "leju",
+    "company": "Leju",
+    "country": "China",
+    "website": "https://www.lejurobot.com/en",
+    "x": "https://x.com/LEJURobotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "leju-kuavo"
+    ],
+    "robots": [
+      "Kuavo"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "lg",
+    "company": "LG",
+    "country": "South Korea",
+    "website": "https://solutions.lg.com/us/robots",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "KRX:066570",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "lg-kapex"
+    ],
+    "robots": [
+      "Kapex"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "limx",
+    "company": "LimX",
+    "country": "China",
+    "website": "https://www.limxdynamics.com/en",
+    "x": "https://x.com/LimX_Dynamics",
+    "linkedin": "https://www.linkedin.com/company/limx-dynamics/",
+    "youtube": "https://youtu.be/sihIDeJ4Hmk",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "69,000,000.00",
+    "robot_ids": [
+      "limx-oli"
+    ],
+    "robots": [
+      "Oli"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "lumos",
+    "company": "Lumos",
+    "country": "",
+    "website": "https://www.lumosbot.tech/",
+    "x": "https://x.com/LumosRobotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "lumos-lus"
+    ],
+    "robots": [
+      "LUS"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "magiclab",
+    "company": "Magiclab",
+    "country": "China",
+    "website": "https://magiclab.top",
+    "x": "https://x.com/MagicLab_Robot",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=nPFAchqUvEc",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "magiclab-magicbot"
+    ],
+    "robots": [
+      "Magicbot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "mentee",
+    "company": "Mentee",
+    "country": "Israel",
+    "website": "https://www.menteebot.com/bot/",
+    "x": "https://x.com/MenteeBot",
+    "linkedin": "https://www.linkedin.com/company/mentee-robotics/",
+    "youtube": "https://youtu.be/Z3T9S1Arbdk",
+    "careers": "https://menteebot.com/careers/",
+    "stock": "Private",
+    "investors": "Mobileye (Adquired)",
+    "rounds": "17,000,000.00",
+    "robot_ids": [
+      "mentee-menteebot"
+    ],
+    "robots": [
+      "MenteeBot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "neura",
+    "company": "Neura",
+    "country": "Germany",
+    "website": "https://neura-robotics.com/",
+    "x": "https://x.com/neurarobotics",
+    "linkedin": "https://www.linkedin.com/company/neura-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=RpphFszxQbM",
+    "careers": "https://neura-robotics.com/careers",
+    "stock": "Private",
+    "investors": "Volvo",
+    "rounds": "280,000,000.00",
+    "robot_ids": [
+      "neura-4ne-1"
+    ],
+    "robots": [
+      "4NE-1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "noetix",
+    "company": "Noetix",
+    "country": "China",
+    "website": "https://en.noetixrobotics.com/products.html",
+    "x": "https://x.com/TheRealNoetix",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "noetix-dora"
+    ],
+    "robots": [
+      "Dora"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "oversonic",
+    "company": "Oversonic",
+    "country": "Italy",
+    "website": "https://www.oversonicrobotics.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/oversonic-robotics-group/",
+    "youtube": "https://www.youtube.com/@oversonicrobotics",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "oversonic-robee"
+    ],
+    "robots": [
+      "RoBee"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pal",
+    "company": "PAL",
+    "country": "Spain",
+    "website": "https://pal-robotics.com/robots/",
+    "x": "https://x.com/PALRobotics?",
+    "linkedin": "https://www.linkedin.com/company/pal-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=zQUufUEU83A",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "pal-talos"
+    ],
+    "robots": [
+      "Talos"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "phybot",
+    "company": "Phybot",
+    "country": "China",
+    "website": "https://www.phybot.tech/",
+    "x": "https://x.com/PHYBOT_Tech",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "phybot-m1"
+    ],
+    "robots": [
+      "M1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pib",
+    "company": "Pib",
+    "country": "",
+    "website": "https://pib.rocks/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "pib-pib"
+    ],
+    "robots": [
+      "Pib"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pndbotics",
+    "company": "PNDbotics",
+    "country": "China",
+    "website": "https://www.pndbotics.com/",
+    "x": "https://x.com/PNDbotics",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=pzxB-va0qNo",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "pndbotics-adam"
+    ],
+    "robots": [
+      "Adam"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pollen",
+    "company": "Pollen",
+    "country": "France",
+    "website": "https://www.pollen-robotics.com/",
+    "x": "https://x.com/pollenrobotics",
+    "linkedin": "https://www.linkedin.com/company/pollen-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=T3RdwDkZA9c",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "2,600,000.00",
+    "robot_ids": [
+      "pollen-reachy-2"
+    ],
+    "robots": [
+      "Reachy 2"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pudu",
+    "company": "Pudu",
+    "country": "China",
+    "website": "https://www.pudurobotics.com/it/news/917",
+    "x": "https://x.com/PuduRobotics",
+    "linkedin": "https://www.linkedin.com/company/pudurobotics/",
+    "youtube": "https://youtu.be/CbA9wA9etGA",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "pudu-d7"
+    ],
+    "robots": [
+      "D7"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "qinglong",
+    "company": "Qinglong",
+    "country": "China",
+    "website": "https://technode.com/2024/07/05/qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/rainbow-robotics/",
+    "youtube": "https://youtu.be/ilwG5zkNOz8",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "qinglong-qinglong"
+    ],
+    "robots": [
+      "Qinglong"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "rainbow",
+    "company": "Rainbow",
+    "country": "Korea",
+    "website": "https://www.rainbow-robotics.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/rainbow-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=KKr0ix0qAnY",
+    "careers": "",
+    "stock": "KOSDAQ:277810",
+    "investors": "Samsung",
+    "rounds": "",
+    "robot_ids": [
+      "rainbow-hubo"
+    ],
+    "robots": [
+      "Hubo"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "realbotix",
+    "company": "Realbotix",
+    "country": "USA",
+    "website": "https://www.realbotix.com/",
+    "x": "https://x.com/RealbotixCorp",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=4Bq91og7VmM",
+    "careers": "",
+    "stock": "0.34",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "realbotix-aria"
+    ],
+    "robots": [
+      "Aria"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "reflex",
+    "company": "Reflex",
+    "country": "USA",
+    "website": "https://www.reflexrobotics.com/",
+    "x": "https://x.com/reflexrobot",
+    "linkedin": "https://www.linkedin.com/company/reflexrobotics/",
+    "youtube": "https://www.youtube.com/watch?v=r2jPnpuSpPk",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "7,300,000.00",
+    "robot_ids": [
+      "reflex-reflex"
+    ],
+    "robots": [
+      "Reflex"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "revobots",
+    "company": "Revobots",
+    "country": "",
+    "website": "https://revobots.ai/",
+    "x": "https://x.com/REVOBOTS_AI",
+    "linkedin": "https://www.linkedin.com/company/revobots/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "revobots-taskbot"
+    ],
+    "robots": [
+      "Taskbot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "robotera",
+    "company": "Robotera",
+    "country": "China",
+    "website": "https://www.robotera.com/",
+    "x": "https://x.com/roboterax",
+    "linkedin": "https://www.linkedin.com/company/robotera1/",
+    "youtube": "https://www.youtube.com/watch?v=nx2YO3twZYs",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "robotera-star-1",
+      "robotera-r-noid"
+    ],
+    "robots": [
+      "Star 1",
+      "R-Noid"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "robotis",
+    "company": "Robotis",
+    "country": "South Korea",
+    "website": "https://www.robotis.us/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "KOSDAQ:108490",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "robotis-k0"
+    ],
+    "robots": [
+      "K0"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "robros",
+    "company": "Robros",
+    "country": "South Korea",
+    "website": "https://robros.co.kr/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/robros/",
+    "youtube": "https://www.youtube.com/watch?v=RQBLrPunlHc",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "robros-igris"
+    ],
+    "robots": [
+      "Igris"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "sanctuary-ai",
+    "company": "Sanctuary AI",
+    "country": "Canada",
+    "website": "https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/",
+    "x": "https://x.com/TheSanctuaryAI",
+    "linkedin": "https://www.linkedin.com/company/sanctuaryai/",
+    "youtube": "https://www.youtube.com/watch?v=-HizP4UQvug",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "sanctuary-ai-phoenix"
+    ],
+    "robots": [
+      "Phoenix"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "sharpa",
+    "company": "Sharpa",
+    "country": "",
+    "website": "https://www.sharpa.com/",
+    "x": "https://x.com/SharpaRobotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "sharpa-wave"
+    ],
+    "robots": [
+      "Wave"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "spirit",
+    "company": "Spirit",
+    "country": "China",
+    "website": "https://www.spirit-ai.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "spirit-moz"
+    ],
+    "robots": [
+      "Moz"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "switch",
+    "company": "Switch",
+    "country": "Japan",
+    "website": "https://eu.switch-bot.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "switch-onero-h1"
+    ],
+    "robots": [
+      "Onero H1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "tangible",
+    "company": "Tangible",
+    "country": "USA",
+    "website": "https://tangiblerobots.ai/",
+    "x": "https://x.com/tangiblerobots",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "tangible-eggie"
+    ],
+    "robots": [
+      "Eggie"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "tesla",
+    "company": "Tesla",
+    "country": "USA",
+    "website": "https://archive.md/mEWsJ",
+    "x": "https://x.com/Tesla_Optimus",
+    "linkedin": "https://www.linkedin.com/company/tesla-motors/",
+    "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
+    "careers": "",
+    "stock": "432.09",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "tesla-optimus-gen-2"
+    ],
+    "robots": [
+      "Optimus Gen 2"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "the-humanoid",
+    "company": "The Humanoid",
+    "country": "UK",
+    "website": "https://thehumanoid.ai/",
+    "x": "https://x.com/thehumanoidai",
+    "linkedin": "https://www.linkedin.com/company/humanoidai/",
+    "youtube": "https://www.youtube.com/@TheHumanoidAI",
+    "careers": "https://thehumanoid.ai/careers/",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "the-humanoid-hmnd-01"
+    ],
+    "robots": [
+      "HMND 01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "ti5robot",
+    "company": "Ti5robot",
+    "country": "",
+    "website": "https://www.ti5robot.com/en/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "ti5robot-t230a"
+    ],
+    "robots": [
+      "T230A"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "tokyo",
+    "company": "Tokyo",
+    "country": "Japan",
+    "website": "https://robotics.tokyo/",
+    "x": "https://x.com/Tokyo_Robotics",
+    "linkedin": "https://www.linkedin.com/company/tokyo-robotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "1,760,889.00",
+    "robot_ids": [
+      "tokyo-torobo"
+    ],
+    "robots": [
+      "Torobo"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "ubtech",
+    "company": "Ubtech",
+    "country": "China",
+    "website": "https://www.ubtrobot.com/",
+    "x": "https://x.com/UBTECHRobotics",
+    "linkedin": "https://www.linkedin.com/company/ubtech-robotics/",
+    "youtube": "https://www.youtube.com/watch?v=UBbk18oZbTc",
+    "careers": "",
+    "stock": "HKG:9880",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "ubtech-walker-s1"
+    ],
+    "robots": [
+      "Walker S1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "unitree",
+    "company": "Unitree",
+    "country": "China",
+    "website": "https://www.unitree.com/en/h1/",
+    "x": "https://x.com/UnitreeRobotics",
+    "linkedin": "https://www.linkedin.com/company/unitreerobotics/",
+    "youtube": "https://youtu.be/GtPs_ygfaEA",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "unitree-h1"
+    ],
+    "robots": [
+      "H1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "unix",
+    "company": "UniX",
+    "country": "",
+    "website": "https://www.unix-group.ai",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "unix-wanda"
+    ],
+    "robots": [
+      "Wanda"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "vanar",
+    "company": "Vanar",
+    "country": "",
+    "website": "http://vanarrobots.com/",
+    "x": "https://x.com/vanar_robots",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "vanar-generation-1"
+    ],
+    "robots": [
+      "Generation 1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "vinmotion",
+    "company": "VinMotion",
+    "country": "Vietnam",
+    "website": "https://vinmotion.net/",
+    "x": "https://x.com/VinMotionGlobal",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "vinmotion-motion"
+    ],
+    "robots": [
+      "Motion"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "wandercraft",
+    "company": "Wandercraft",
+    "country": "",
+    "website": "https://en.wandercraft.eu/",
+    "x": "https://x.com/exowandercraft",
+    "linkedin": "https://www.linkedin.com/company/wandercraft/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "wandercraft-calvin"
+    ],
+    "robots": [
+      "Calvin"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "weave",
+    "company": "Weave",
+    "country": "",
+    "website": "https://www.weaverobotics.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "weave-isaac"
+    ],
+    "robots": [
+      "Isaac"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "westwood",
+    "company": "Westwood",
+    "country": "USA",
+    "website": "https://www.westwoodrobotics.io/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/westwoodrobotics/",
+    "youtube": "https://www.youtube.com/watch?v=svRRhsFKflE",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "westwood-themis"
+    ],
+    "robots": [
+      "Themis"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "wirobotics",
+    "company": "Wirobotics",
+    "country": "South Korea",
+    "website": "https://www.wirobotics.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "wirobotics-allex"
+    ],
+    "robots": [
+      "Allex"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "x-square",
+    "company": "X Square",
+    "country": "China",
+    "website": "https://www.x2robot.com/en",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "x-square-quanta-x2"
+    ],
+    "robots": [
+      "Quanta X2"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "xiaomi",
+    "company": "Xiaomi",
+    "country": "China",
+    "website": "https://www.mi.com/global/discover/article?id=2754",
+    "x": "https://x.com/Xiaomi",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=I28Q9czUx2Q",
+    "careers": "",
+    "stock": "HKG:1810",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "xiaomi-cyber-one"
+    ],
+    "robots": [
+      "Cyber One"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "fauna",
+    "company": "Fauna",
+    "country": "USA",
+    "website": "https://faunarobotics.com/",
+    "x": "https://x.com/faunarobotics",
+    "linkedin": "https://www.linkedin.com/company/fauna-robotics/",
+    "youtube": "https://www.youtube.com/@FaunaRobotics",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Amazon",
+    "rounds": "",
+    "robot_ids": [
+      "fauna-sprout"
+    ],
+    "robots": [
+      "Sprout"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "xpeng",
+    "company": "Xpeng",
+    "country": "China",
+    "website": "https://www.pxing.com/en/index",
+    "x": "https://x.com/XpengR",
+    "linkedin": "https://www.linkedin.com/company/xpengmotorsglobal/",
+    "youtube": "https://www.youtube.com/watch?v=BNSZ8Fwcd20",
+    "careers": "",
+    "stock": "NYSE:XPEV",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "xpeng-iron"
+    ],
+    "robots": [
+      "Iron"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "addverb",
+    "company": "Addverb",
+    "country": "India",
+    "website": "https://addverb.ai/elixis",
+    "x": "https://x.com/Addverb_Tech",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "addverb-elixis"
+    ],
+    "robots": [
+      "Elixis"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "faraday-future",
+    "company": "Faraday Future",
+    "country": "USA",
+    "website": "https://robotics.ff.com/us/ff-futurist/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "NASDAQ:FFIE",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "faraday-future-ff-futurist"
+    ],
+    "robots": [
+      "FF Futurist"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "peritas",
+    "company": "Peritas",
+    "country": "",
+    "website": "https://www.peritas.ai/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "peritas-peri"
+    ],
+    "robots": [
+      "Peri"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "sudo",
+    "company": "Sudo",
+    "country": "",
+    "website": "https://www.sudo.ai/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "sudo-r1"
+    ],
+    "robots": [
+      "R1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "kinetix",
+    "company": "Kinetix",
+    "country": "",
+    "website": "https://www.kinetixai.tech/en",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "kinetix-kaibot"
+    ],
+    "robots": [
+      "Kaibot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "integrarobot",
+    "company": "Integrarobot",
+    "country": "Spain",
+    "website": "https://www.integrarobot.com",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "integrarobot-resource"
+    ],
+    "robots": [
+      "Resource"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  }
+]

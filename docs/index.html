@@ -68,6 +68,13 @@
         font-size: 13px;
       }
 
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        font-size: 14px;
+      }
+
       .pill {
         border: 1px solid var(--line);
         border-radius: 999px;
@@ -183,6 +190,13 @@
         <div class="meta" id="metadata">
           <span class="pill">Loading data</span>
         </div>
+        <nav class="links" aria-label="Agent context pack links">
+          <a href="../AGENTS.md">AGENTS.md</a>
+          <a href="../questions.md">Canonical questions</a>
+          <a href="../schema.md">Schema notes</a>
+          <a href="../weekly/2026-05-26.md">Changelog</a>
+          <a href="../data/agent-context-pack.json">Agent manifest</a>
+        </nav>
       </div>
     </header>
 
@@ -227,7 +241,9 @@
     </main>
 
     <footer class="wrap">
-      Data: <a href="../data/humanoids.csv">CSV</a> · <a href="../data/humanoids.json">JSON</a> ·
+      Data: <a href="../data/humanoids.csv">CSV</a> · <a href="../data/humanoids.json">Humanoids JSON</a> ·
+      <a href="../data/robots.json">Robots JSON</a> · <a href="../data/companies.json">Companies JSON</a> ·
+      <a href="../data/claims.json">Claims JSON</a> ·
       License: CC BY 4.0 · Maintained by Integrarobot
     </footer>
 

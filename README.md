@@ -2,10 +2,13 @@
 
 Public, reusable database of humanoid robots and robotics companies maintained by Integrarobot.
 
+This repository is also the first **Robotics Agent Context Pack** for Integrarobot: a file-first knowledge surface designed so AI agents can load structured robotics context, cite it, and reason with the right caveats.
+
 The project has two layers:
 
 - `data/` contains machine-readable exports for people, researchers, builders, journalists, and AI agents.
 - `docs/` contains a GitHub Pages website with search and filters.
+- `AGENTS.md`, `questions.md`, `schema.md`, and `weekly/` explain how AI agents should use the data.
 
 ## Current Scope
 
@@ -17,8 +20,19 @@ The working source is a Google Sheets database maintained by Integrarobot. GitHu
 
 - `data/humanoids.csv` - simple table export.
 - `data/humanoids.json` - agent-friendly structured export.
+- `data/robots.json` - stable robot-level alias for the current humanoids export.
+- `data/companies.json` - company-level records derived from robot records.
+- `data/sources.json` - export source and known official/source URLs.
+- `data/claims.json` - generated claim notes and caveats for agent use.
+- `data/agent-context-pack.json` - manifest of agent-facing files.
 - `data/schema.json` - field definitions.
 - `data/metadata.json` - export date, source, and row count.
+
+## For AI Agents
+
+Start with `AGENTS.md`, then load `data/metadata.json`, `data/schema.json`, `data/robots.json`, `data/companies.json`, and `data/claims.json`.
+
+When answering, mention the dataset update time and distinguish database signals from official claims. Empty fields mean unknown or not yet normalized, not false.
 
 ## Website
 

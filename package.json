@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "sync": "node scripts/sync-google-sheet.mjs",
-    "build": "node scripts/sync-google-sheet.mjs --local-only"
+    "sync": "node scripts/sync-google-sheet.mjs && node scripts/build-agent-pack.mjs",
+    "build": "node scripts/sync-google-sheet.mjs --local-only && node scripts/build-agent-pack.mjs",
+    "build:agent-pack": "node scripts/build-agent-pack.mjs"
   }
 }
