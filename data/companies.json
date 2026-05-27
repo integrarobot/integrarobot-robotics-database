@@ -1394,7 +1394,7 @@
     "linkedin": "",
     "youtube": "https://www.youtube.com/watch?v=4Bq91og7VmM",
     "careers": "",
-    "stock": "0.34",
+    "stock": "0.35",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -1638,7 +1638,7 @@
     "linkedin": "https://www.linkedin.com/company/tesla-motors/",
     "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
     "careers": "",
-    "stock": "432.09",
+    "stock": "441.76",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -2108,6 +2108,28 @@
     ],
     "robots": [
       "Kaibot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "twolabs",
+    "company": "Twolabs",
+    "country": "",
+    "website": "https://www.twolabs.ai/",
+    "x": "https://x.com/twolabsai",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "twolabs-tobi"
+    ],
+    "robots": [
+      "Tobi"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
