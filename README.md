@@ -2,6 +2,12 @@
 
 Public, reusable database of humanoid robots and robotics companies maintained by Integrarobot.
 
+## Open the Database
+
+Browse the searchable public database here:
+
+https://integrarobot.github.io/integrarobot-robotics-database/
+
 This repository is also the first **Robotics Agent Context Pack** for Integrarobot: a file-first knowledge surface designed so AI agents can load structured robotics context, cite it, and reason with the right caveats.
 
 The project has two layers:
