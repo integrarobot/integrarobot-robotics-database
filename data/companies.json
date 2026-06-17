@@ -1638,7 +1638,7 @@
     "linkedin": "https://www.linkedin.com/company/tesla-motors/",
     "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
     "careers": "",
-    "stock": "411.15",
+    "stock": "404.66",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -2152,6 +2152,28 @@
     ],
     "robots": [
       "Axol"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "genesis",
+    "company": "Genesis",
+    "country": "",
+    "website": "https://www.genesis.ai/",
+    "x": "https://x.com/gs_ai_",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "genesis-eno"
+    ],
+    "robots": [
+      "Eno"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
