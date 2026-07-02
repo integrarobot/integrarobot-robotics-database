@@ -1638,7 +1638,7 @@
     "linkedin": "https://www.linkedin.com/company/tesla-motors/",
     "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
     "careers": "",
-    "stock": "420.6",
+    "stock": "425.3",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -2174,6 +2174,28 @@
     ],
     "robots": [
       "Eno"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "vibe-robotics",
+    "company": "Vibe Robotics",
+    "country": "",
+    "website": "https://www.viberobotics.co/",
+    "x": "https://x.com/vibe_robotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "vibe-robotics-vibe"
+    ],
+    "robots": [
+      "Vibe"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
