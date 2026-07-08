@@ -62,7 +62,7 @@ pollen-reachy-2,Pollen,Reachy 2,France,https://www.pollen-robotics.com/,https://
 pudu-d7,Pudu,D7,China,https://www.pudurobotics.com/it/news/917,https://x.com/PuduRobotics,https://www.linkedin.com/company/pudurobotics/,https://youtu.be/CbA9wA9etGA,,,Private,,,,2024,165,45,7.2,7.2,10,8,,,No
 qinglong-qinglong,Qinglong,Qinglong,China,https://technode.com/2024/07/05/qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024/,,https://www.linkedin.com/company/rainbow-robotics/,https://youtu.be/ilwG5zkNOz8,,"Research, academic, R&D, industrial open-source platform",Private,,,,2024,185,85,3.6,3.6,40,3,OpenLoong open-source stack; MPC/WBC; 400 TOPS compute,,No
 rainbow-hubo,Rainbow,Hubo,Korea,https://www.rainbow-robotics.com/,,https://www.linkedin.com/company/rainbow-robotics/,https://www.youtube.com/watch?v=KKr0ix0qAnY,,"Research platform; MIT, Google and other institutes",KOSDAQ:277810,,Samsung,,,120,43,,,,,BLDC/DC actuators; onboard real-time controller; 38 DOF,,
-realbotix-aria,Realbotix,Aria,USA,https://www.realbotix.com/,https://x.com/RealbotixCorp,,https://www.youtube.com/watch?v=4Bq91og7VmM,,"Service sector, companionship, human interaction",0.38,"83,840,920.00",,,,,,,,,,Realbotix Controller; AI vision; facial recognition,,Yes
+realbotix-aria,Realbotix,Aria,USA,https://www.realbotix.com/,https://x.com/RealbotixCorp,,https://www.youtube.com/watch?v=4Bq91og7VmM,,"Service sector, companionship, human interaction",0.35,"77,221,900.00",,,,,,,,,,Realbotix Controller; AI vision; facial recognition,,Yes
 reflex-reflex,Reflex,Reflex,USA,https://www.reflexrobotics.com/,https://x.com/reflexrobot,https://www.linkedin.com/company/reflexrobotics/,https://www.youtube.com/watch?v=r2jPnpuSpPk,,,Private,,,"7,300,000.00",,,,,,,,,,
 revobots-taskbot,Revobots,Taskbot,,https://revobots.ai/,https://x.com/REVOBOTS_AI,https://www.linkedin.com/company/revobots/,,,,Private,,,,,,,,,,,,,
 robotera-star-1,Robotera,Star 1,China,https://www.robotera.com/,https://x.com/roboterax,https://www.linkedin.com/company/robotera1/,https://www.youtube.com/watch?v=nx2YO3twZYs,,,Private,,,,2024,171,65,,,,,,,No
@@ -74,7 +74,7 @@ sharpa-wave,Sharpa,Wave,,https://www.sharpa.com/,https://x.com/SharpaRobotics,,,
 spirit-moz,Spirit,Moz,China,https://www.spirit-ai.com/,,,,,,Private,,,,,160,70,,,,,,,No
 switch-onero-h1,Switch,Onero H1,Japan,https://eu.switch-bot.com/,,,,,,Private,,,,,174,68,,,,,,,No
 tangible-eggie,Tangible,Eggie,USA,https://tangiblerobots.ai/,https://x.com/tangiblerobots,,,,,Private,,,,,150,45,,,,,,,Yes
-tesla-optimus-gen-2,Tesla,Optimus Gen 2,USA,https://archive.md/mEWsJ,https://x.com/Tesla_Optimus,https://www.linkedin.com/company/tesla-motors/,https://www.youtube.com/watch?v=fPeGPf7jvEQ,,,419.77,"1,576,540,263,480.00",,,2023,173,47,8,8,20.4,,Tesla end-to-end AI; neural network autonomy,,No
+tesla-optimus-gen-2,Tesla,Optimus Gen 2,USA,https://archive.md/mEWsJ,https://x.com/Tesla_Optimus,https://www.linkedin.com/company/tesla-motors/,https://www.youtube.com/watch?v=fPeGPf7jvEQ,,,402.9,"1,513,181,199,600.00",,,2023,173,47,8,8,20.4,,Tesla end-to-end AI; neural network autonomy,,No
 the-humanoid-hmnd-01,The Humanoid,HMND 01,UK,https://thehumanoid.ai/,https://x.com/thehumanoidai,https://www.linkedin.com/company/humanoidai/,https://www.youtube.com/@TheHumanoidAI,https://thehumanoid.ai/careers/,,Private,,,,2025,175,70,5.4,5.4,15,4,KinetIQ VLM/VLA framework,,No
 ti5robot-t230a,Ti5robot,T230A,,https://www.ti5robot.com/en/,,,,,,Private,,,,,,,,,,,,,
 tokyo-torobo,Tokyo,Torobo,Japan,https://robotics.tokyo/,https://x.com/Tokyo_Robotics,https://www.linkedin.com/company/tokyo-robotics/,,,,Private,,,"1,760,889.00",,,,,,,,,,
@@ -84,7 +84,7 @@ unix-wanda,UniX,Wanda,,https://www.unix-group.ai,,,,,,Private,,,,,,,,,,,,,
 vanar-generation-1,Vanar,Generation 1,,http://vanarrobots.com/,https://x.com/vanar_robots,,,,,Private,,,,,,,,,,,,,
 vinmotion-motion,VinMotion,Motion,Vietnam,https://vinmotion.net/,https://x.com/VinMotionGlobal,,,,,Private,,,,2025,,,,,,,,,No
 wandercraft-calvin,Wandercraft,Calvin,,https://en.wandercraft.eu/,https://x.com/exowandercraft,https://www.linkedin.com/company/wandercraft/,,,,Private,,,,,,,,,,,,,
-weave-isaac,Weave,Isaac,,https://www.weaverobotics.com/,,,,,,Private,,,,,,,,,,,,,
+weave-isaac,Weave,Isaac,,https://www.weaverobotics.com/,https://x.com/weaverobotics,https://www.linkedin.com/company/weave-robotics/,,,,Private,,,,,,,,,,,,,
 westwood-themis,Westwood,Themis,USA,https://www.westwoodrobotics.io/,,https://www.linkedin.com/company/westwoodrobotics/,https://www.youtube.com/watch?v=svRRhsFKflE,,,Private,,,,2025,160,36,,,,,,,No
 wirobotics-allex,Wirobotics,Allex,South Korea,https://www.wirobotics.com/,,,,,,Private,,,,,,,,,,,,,No
 x-square-quanta-x2,X Square,Quanta X2,China,https://www.x2robot.com/en,,,,,"Household, hotel and light industrial stations",Private,,,,2025,172,95,3.6,3.6,6,,X² Brain / WALL-OSS; 10B+ parameter embodied model,,No
@@ -100,4 +100,5 @@ twolabs-tobi,Twolabs,Tobi,,https://www.twolabs.ai/,https://x.com/twolabsai,,,,,,
 almond-axol,Almond,Axol,,https://www.almond.bot/,https://x.com/almond_robotics,,,,,,,,,,,,,,,,,,
 genesis-eno,Genesis,Eno,,https://www.genesis.ai/,https://x.com/gs_ai_,,,,,,,,,,,,,,,,,,
 vibe-robotics-vibe,Vibe Robotics,Vibe,,https://www.viberobotics.co/,https://x.com/vibe_robotics,,,,,,,,,,,,,,,,,,
+nori-nori,Nori,Nori,,https://www.norirobotics.com/,https://x.com/NoriRobotics,https://www.linkedin.com/company/norirobotics/,,,,,,,,,,,,,,,,,
 integrarobot-resource,Integrarobot,Resource,Spain,https://www.integrarobot.com,,,,,,Private,,,,,,,,,,,,,

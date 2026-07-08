@@ -1394,7 +1394,7 @@
     "linkedin": "",
     "youtube": "https://www.youtube.com/watch?v=4Bq91og7VmM",
     "careers": "",
-    "stock": "0.38",
+    "stock": "0.35",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -1638,7 +1638,7 @@
     "linkedin": "https://www.linkedin.com/company/tesla-motors/",
     "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
     "careers": "",
-    "stock": "419.77",
+    "stock": "402.9",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -1854,8 +1854,8 @@
     "company": "Weave",
     "country": "",
     "website": "https://www.weaverobotics.com/",
-    "x": "",
-    "linkedin": "",
+    "x": "https://x.com/weaverobotics",
+    "linkedin": "https://www.linkedin.com/company/weave-robotics/",
     "youtube": "",
     "careers": "",
     "stock": "Private",
@@ -2196,6 +2196,28 @@
     ],
     "robots": [
       "Vibe"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "nori",
+    "company": "Nori",
+    "country": "",
+    "website": "https://www.norirobotics.com/",
+    "x": "https://x.com/NoriRobotics",
+    "linkedin": "https://www.linkedin.com/company/norirobotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "nori-nori"
+    ],
+    "robots": [
+      "Nori"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
