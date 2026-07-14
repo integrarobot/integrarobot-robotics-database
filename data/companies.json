@@ -1394,7 +1394,7 @@
     "linkedin": "",
     "youtube": "https://www.youtube.com/watch?v=4Bq91og7VmM",
     "careers": "",
-    "stock": "0.38",
+    "stock": "0.37",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -1638,7 +1638,7 @@
     "linkedin": "https://www.linkedin.com/company/tesla-motors/",
     "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
     "careers": "",
-    "stock": "407.76",
+    "stock": "394.76",
     "investors": "",
     "rounds": "",
     "robot_ids": [
@@ -2218,6 +2218,28 @@
     ],
     "robots": [
       "Nori"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "sunday",
+    "company": "Sunday",
+    "country": "USA",
+    "website": "https://www.sunday.ai/",
+    "x": "https://x.com/SundayRobotics",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "sunday-memo"
+    ],
+    "robots": [
+      "Memo"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
