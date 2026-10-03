@@ -1,13 +1,13 @@
 {
   "title": "Integrarobot Robotics Agent Context Pack",
-  "generated_at": "2026-10-02T11:08:50.472Z",
+  "generated_at": "2026-10-03T10:26:47.849Z",
   "based_on": {
     "title": "Integrarobot Humanoid Robotics Database",
     "source": "https://docs.google.com/spreadsheets/d/1Cg8FNh8ZeMopfQTM5oCF_E87Jxe27z8R54a8XRjKlxQ/gviz/tq?tqx=out:csv&gid=973484009",
     "mode": "google_sheets",
-    "updated_at": "2026-10-02T11:08:50.427Z",
+    "updated_at": "2026-10-03T10:26:47.789Z",
     "row_count": 107,
-    "checksum": "6ed112092eec481fbb661690a891a2db90fda1cb91ce8795637c0b7920e7bec3"
+    "checksum": "6bd58836a4d4a9a3b2362909f895512955368e332823f175f6285a2443c2ff35"
   },
   "files": [
     "AGENTS.md",
