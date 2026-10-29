@@ -74,11 +74,11 @@ sharpa-wave,Sharpa,Wave,,https://www.sharpa.com/,https://x.com/SharpaRobotics,,,
 spirit-moz,Spirit,Moz,China,https://www.spirit-ai.com/,,,,,,Private,,,,,160,70,,,,,,,No
 switch-onero-h1,Switch,Onero H1,Japan,https://eu.switch-bot.com/,,,,,,Private,,,,,174,68,,,,,,,No
 tangible-eggie,Tangible,Eggie,USA,https://tangiblerobots.ai/,https://x.com/tangiblerobots,,,,,Private,,,,,150,45,,,,,,,Yes
-tesla-optimus-gen-2,Tesla,Optimus Gen 2,USA,https://archive.md/mEWsJ,https://x.com/Tesla_Optimus,https://www.linkedin.com/company/tesla-motors/,https://www.youtube.com/watch?v=fPeGPf7jvEQ,,,407.46,"1,610,590,774,680.00",,,2023,173,47,8,8,20.4,,Tesla end-to-end AI; neural network autonomy,,No
+tesla-optimus-gen-2,Tesla,Optimus Gen 2,USA,https://archive.md/mEWsJ,https://x.com/Tesla_Optimus,https://www.linkedin.com/company/tesla-motors/,https://www.youtube.com/watch?v=fPeGPf7jvEQ,,,404.22,"1,597,783,838,760.00",,,2023,173,47,8,8,20.4,,Tesla end-to-end AI; neural network autonomy,,No
 the-humanoid-hmnd-01,The Humanoid,HMND 01,UK,https://thehumanoid.ai/,https://x.com/thehumanoidai,https://www.linkedin.com/company/humanoidai/,https://www.youtube.com/@TheHumanoidAI,https://thehumanoid.ai/careers/,,Private,,"Schaeffler, Bosch",,2025,175,70,5.4,5.4,15,4,KinetIQ VLM/VLA framework,,No
 ti5robot-t230a,Ti5robot,T230A,,https://www.ti5robot.com/en/,,,,,,Private,,,,,,,,,,,,,
 tokyo-torobo,Tokyo,Torobo,Japan,https://robotics.tokyo/,https://x.com/Tokyo_Robotics,https://www.linkedin.com/company/tokyo-robotics/,,,,Private,,,"1,760,889.00",,,,,,,,,,
-ubtech-walker-s1,Ubtech,Walker S1,China,https://www.ubtrobot.com/,https://x.com/UBTECHRobotics,https://www.linkedin.com/company/ubtech-robotics/,https://www.youtube.com/watch?v=UBbk18oZbTc,,Foxconn,69.1,#N/A,,,,172,76,,,,,,,No
+ubtech-walker-s1,Ubtech,Walker S1,China,https://www.ubtrobot.com/,https://x.com/UBTECHRobotics,https://www.linkedin.com/company/ubtech-robotics/,https://www.youtube.com/watch?v=UBbk18oZbTc,,Foxconn,65.3,#N/A,,,,172,76,,,,,,,No
 unitree-h1,Unitree,H1,China,https://www.unitree.com/en/h1/,https://x.com/UnitreeRobotics,https://www.linkedin.com/company/unitreerobotics/,https://youtu.be/GtPs_ygfaEA,,,Private,,,,2023,180,47,5.4,18,30,1.5,NVIDIA Jetson Orin / Unitree SDK; LiDAR + depth camera,,No
 unix-wanda,UniX,Wanda,,https://www.unix-group.ai,,,,,,Private,,,,,,,,,,,,,
 vanar-generation-1,Vanar,Generation 1,,http://vanarrobots.com/,https://x.com/vanar_robots,,,,,Private,,,,,,,,,,,,,
@@ -95,15 +95,15 @@ addverb-elixis,Addverb,Elixis,India,https://addverb.ai/elixis,https://x.com/Addv
 faraday-future-ff-futurist,Faraday Future,FF Futurist,USA,https://robotics.ff.com/us/ff-futurist/,,,,,,NASDAQ:FFIE,,,,,,,,,,,,,No
 peritas-peri,Peritas,Peri,,https://www.peritas.ai/,,,,,,Private,,,,,,,,,,,,,
 sudo-r1,Sudo,R1,,https://www.sudo.ai/,,,,,,Private,,,,,,,,,,,,,
-kinetix-kaibot,Kinetix,Kaibot,,https://www.kinetixai.tech/en,,,,,,Private,,,,,,,,,,,,,
-twolabs-tobi,Twolabs,Tobi,,https://www.twolabs.ai/,https://x.com/twolabsai,,,,,,,,,,,,,,,,,,
-almond-axol,Almond,Axol,,https://www.almond.bot/,https://x.com/almond_robotics,,,,,,,,,,,,,,,,,,
-genesis-eno,Genesis,Eno,,https://www.genesis.ai/,https://x.com/gs_ai_,,,,,,,,,,,,,,,,,,
-vibe-robotics-vibe,Vibe Robotics,Vibe,,https://www.viberobotics.co/,https://x.com/vibe_robotics,,,,,,,,,,,,,,,,,,
+kinetix-kaibot,Kinetix,Kaibot,,https://www.kinetixai.tech/en,https://x.com/Kai_Robotics,https://www.linkedin.com/in/%E5%8A%A8%E5%8A%9B-%E8%B6%85%E7%BB%B4-a0260538a/,https://www.youtube.com/@Kai_Robotics,,,Private,,,,,,,,,,,,,
+twolabs-tobi,Twolabs,Tobi,,https://www.twolabs.ai/,https://x.com/twolabsai,https://www.linkedin.com/company/twolabsai/,https://www.youtube.com/@Twolabsai,,,,,,,,,,,,,,,,
+almond-axol,Almond,Axol,,https://www.almond.bot/,https://x.com/almond_robotics,https://www.linkedin.com/company/almondbot/,https://www.youtube.com/@almond-bot,,,,,,,,,,,,,,,,
+genesis-eno,Genesis,Eno,,https://www.genesis.ai/,https://x.com/gs_ai_,https://www.linkedin.com/company/gs-ai/,https://www.youtube.com/@GenesisAI_official,,,,,,,,,,,,,,,,
+vibe-robotics-vibe,Vibe Robotics,Vibe,,https://www.viberobotics.co/,https://x.com/vibe_robotics,https://www.linkedin.com/company/vibe-robotics-com/,https://www.youtube.com/@viberobotics,,,,,,,,,,,,,,,,
 nori-nori,Nori,Nori,,https://www.norirobotics.com/,https://x.com/NoriRobotics,https://www.linkedin.com/company/norirobotics/,,,,,,,,,,,,,,,,,
-sunday-memo,Sunday,Memo,USA,https://www.sunday.ai/,https://x.com/SundayRobotics,,,,,,,,,,,,,,,,,,
-xyz-deux,XYZ,Deux,,https://xyzcorp.imweb.me/DEUX,,,,,,,,,,,,,,,,,,,
+sunday-memo,Sunday,Memo,USA,https://www.sunday.ai/,https://x.com/SundayRobotics,https://www.linkedin.com/company/sundayrobotics/,https://www.youtube.com/@SundayRobotics,,,,,,,,,,,,,,,,
+xyz-deux,XYZ,Deux,,https://xyzcorp.imweb.me/DEUX,,https://www.linkedin.com/company/xyzcorporation/,https://www.youtube.com/channel/UCIieByJcSRGv9tJQaLMM0wg,,,,,,,,,,,,,,,,
 lightberry-lumi,Lightberry,Lumi,,https://lightberry.com/lumi,https://x.com/lightberry,https://www.linkedin.com/company/lightberryinc/,,,,,,,,,,,,,,,,,
-pink-robotics-p0,Pink Robotics,P0,,https://www.pink-robotics.com/,,,,,,,,,,,,,,,,,,,
-tuesday-labs-voxel,Tuesday Labs,Voxel,,https://tuesdaylabs.com/,https://x.com/roboticscorp,,,,,,,,,,,,,,,,,,
+pink-robotics-p0,Pink Robotics,P0,,https://www.pink-robotics.com/,,https://www.linkedin.com/company/pink-robotics-germany/,,,,,,,,,,,,,,,,,
+tuesday-labs-voxel,Tuesday Labs,Voxel,,https://tuesdaylabs.com/,https://x.com/roboticscorp,https://www.linkedin.com/company/tuesdaylabs/,,,,,,,,,,,,,,,,,
 integrarobot-resource,Integrarobot,Resource,Spain,https://www.integrarobot.com,,,,,,Private,,,,,,,,,,,,,
