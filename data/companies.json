@@ -9,13 +9,13 @@
     "youtube": "https://youtu.be/bUrLuUxv9gE",
     "careers": "",
     "stock": "Private",
-    "investors": "OpenAI, Samsung, EQT, Tiger",
-    "rounds": "125,000,000.00",
+    "investors": "EQT Ventures; OpenAI Startup Fund; Tiger Global; Sandwater; Samsung NEXT; Skagerak Capital; Nistad Group",
+    "rounds": "Series B: USD 100M (2024-01). >USD 125M raised over the preceding 12 months; secondary transactions tracked separately.",
     "robot_ids": [
-      "1x-neo"
+      "1x-neo-home-robot"
     ],
     "robots": [
-      "NEO"
+      "NEO (Home Robot)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -31,8 +31,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "aeirobot-alice"
     ],
@@ -53,8 +53,8 @@
     "youtube": "https://www.youtube.com/watch?v=c_T-mRX4e4A",
     "careers": "https://aeolusbot.com/about#careers",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "aeolus-aeo"
     ],
@@ -75,13 +75,13 @@
     "youtube": "https://www.youtube.com/watch?v=DQHGV3hrnL0",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "A complete investor syndicate for the new round was not verified; do not confuse with Suzhou-based AGIBOT Medical",
+    "rounds": "RMB 1,000–1,500M under negotiation, according to Caijing / TechNode (2026-10-14). Do not record as raised or add to totals.",
     "robot_ids": [
-      "agibot-xi"
+      "agibot-x1"
     ],
     "robots": [
-      "XI"
+      "X1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -97,8 +97,8 @@
     "youtube": "https://www.youtube.com/@Agile_Robots",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "SoftBank Vision Fund 2 (Series C lead); Chimera; GL Ventures; Sequoia China; Linear Capital; Xiaomi; Foxconn Industrial Internet; Midas",
+    "rounds": "Series C: USD 220M (2021-09). Funding was not exclusively for the humanoid.",
     "robot_ids": [
       "agile-one"
     ],
@@ -113,19 +113,19 @@
     "id": "agility",
     "company": "Agility",
     "country": "USA",
-    "website": "https://agilityrobotics.com/robots",
+    "website": "https://www.agilityrobotics.com/",
     "x": "https://x.com/agilityrobotics",
     "linkedin": "https://www.linkedin.com/company/agilityrobotics/",
     "youtube": "https://youtu.be/rnFZAB9ogEE",
     "careers": "",
-    "stock": "Private",
-    "investors": "NVIDIA, Sony",
-    "rounds": "",
+    "stock": "Private; SPAC combination announced, closing unverified",
+    "investors": "DCVC; Playground Global; Amazon Industrial Innovation Fund; NVIDIA; SoftBank Vision Fund 2; Foxconn; Schaeffler; Abico",
+    "rounds": "Series B: USD 150M (2022). SPAC: >USD 620M in expected gross proceeds, including ~USD 200M PIPE; subject to closing and redemptions.",
     "robot_ids": [
-      "agility-digit"
+      "agility-digit-5-in-development"
     ],
     "robots": [
-      "Digit"
+      "Digit 5 (in development)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -135,19 +135,19 @@
     "id": "apptronik",
     "company": "Apptronik",
     "country": "USA",
-    "website": "https://apptronik.com/product-page",
+    "website": "https://apptronik.com/apollo/apollo-2",
     "x": "https://x.com/apptronik",
     "linkedin": "https://www.linkedin.com/company/apptronik-inc./",
     "youtube": "https://youtu.be/pymvNott6nw",
     "careers": "https://apptronik.com/careers",
     "stock": "Private",
-    "investors": "Google, Mercedes Benz, ARK",
-    "rounds": "",
+    "investors": "B Capital; Capital Factory; Google; Mercedes-Benz; PEAK6; AT&T Ventures; John Deere; Qatar Investment Authority",
+    "rounds": "Series A: >USD 935M total: USD 415M initially (2025) + USD 520M A-X (2026-02-11). Total capital raised close to USD 1,000M.",
     "robot_ids": [
-      "apptronik-apollo"
+      "apptronik-apollo-2"
     ],
     "robots": [
-      "Apollo"
+      "Apollo 2"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -163,8 +163,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "argon-one"
     ],
@@ -185,8 +185,8 @@
     "youtube": "https://www.youtube.com/watch?v=eDhTXj8ChKg",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "arx-x7"
     ],
@@ -207,8 +207,8 @@
     "youtube": "https://youtu.be/6X-s4Qsn1z4",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "astribot-s1"
     ],
@@ -222,15 +222,15 @@
   {
     "id": "beyond-imagination",
     "company": "Beyond Imagination",
-    "country": "",
+    "country": "USA",
     "website": "https://www.beomni.ai/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "beyond-imagination-beomni"
     ],
@@ -251,8 +251,8 @@
     "youtube": "https://www.youtube.com/watch?v=tD3FNZUG2kQ",
     "careers": "https://www.boardwalkrobotics.com/Careers",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "boardwalk-alex"
     ],
@@ -273,8 +273,8 @@
     "youtube": "https://www.youtube.com/watch?v=djUWG9Xqaq4",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "To be identified from the round announcement",
+    "rounds": "Nearly USD 150M announced on the website; date, stage and investors remain to be verified.",
     "robot_ids": [
       "booster-t1"
     ],
@@ -295,8 +295,8 @@
     "youtube": "https://www.youtube.com/watch?v=r7TXGU3CxPg",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "borg-borg-01"
     ],
@@ -311,19 +311,19 @@
     "id": "boston-dynamics",
     "company": "Boston Dynamics",
     "country": "USA",
-    "website": "https://www.bostondynamics.com/atlas",
+    "website": "https://bostondynamics.com/products/atlas/",
     "x": "https://x.com/BostonDynamics",
     "linkedin": "https://www.linkedin.com/company/boston-dynamics/",
     "youtube": "https://youtu.be/-e1_QhJ1EhQ",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "37,000,000.00",
+    "investors": "Hyundai Motor Group (control); SoftBank (selling shareholder). Purchase of the remaining stake announced in 2026; closing unverified.",
+    "rounds": "Control acquisition closed 2021-06-21. On 2026-07-16, Hyundai announced plans to buy SoftBank's remaining stake; not a VC round.",
     "robot_ids": [
-      "boston-dynamics-atlas"
+      "boston-dynamics-atlas-industrial-electric"
     ],
     "robots": [
-      "Atlas"
+      "Atlas (industrial electric)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -339,8 +339,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "cartwheel-yogi"
     ],
@@ -361,8 +361,8 @@
     "youtube": "https://www.youtube.com/watch?v=gl0GnzPIOl4",
     "careers": "https://www.clonerobotics.com/company",
     "stock": "Private",
-    "investors": "Pioneer Fund, Tango, Wikus Ventures",
-    "rounds": "",
+    "investors": "Pioneer Fund, Tango, Wikus Ventures [historical; source unverified]",
+    "rounds": "Not verified",
     "robot_ids": [
       "clone-clone"
     ],
@@ -376,15 +376,15 @@
   {
     "id": "cobot",
     "company": "Cobot",
-    "country": "",
+    "country": "USA",
     "website": "https://www.co.bot/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "General Catalyst (Series B lead); Bison; Industry Ventures; Lux; Sequoia; Khosla; Mayo Clinic; Neo; 1984; MVP; Calibrate",
+    "rounds": "Series B: USD 100M (2024-04-10); company-reported cumulative funding >USD 140M in under two years.",
     "robot_ids": [
       "cobot-proxie"
     ],
@@ -405,8 +405,8 @@
     "youtube": "https://www.youtube.com/watch?v=lCFyfh3mLOQ",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "deep-dr01"
     ],
@@ -427,8 +427,8 @@
     "youtube": "https://www.youtube.com/watch?v=hk_ai0wWJ0o",
     "careers": "https://www.devanthro.com/career/",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "devanthro-robody"
     ],
@@ -442,15 +442,15 @@
   {
     "id": "dexmate",
     "company": "Dexmate",
-    "country": "United Kingdom",
+    "country": "USA",
     "website": "https://www.dexmate.ai/",
     "x": "https://x.com/DexmateAI",
     "linkedin": "https://www.linkedin.com/company/dexmate/",
     "youtube": "https://www.youtube.com/watch?v=PecqfiJNwQI",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "dexmate-vega"
     ],
@@ -470,9 +470,9 @@
     "linkedin": "https://www.linkedin.com/company/diligent-robotics/",
     "youtube": "https://www.youtube.com/watch?v=NxGs_-2B1Ak",
     "careers": "https://www.diligentrobots.com/join-our-team-1",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "33,000,000.00",
+    "stock": "Subsidiary of Serve Robotics (NASDAQ:SERV)",
+    "investors": "Serve Robotics (acquirer). Historical investors: Canaan; True Ventures; DNX Ventures; Next Coast Ventures; Northwestern Medicine Innovation",
+    "rounds": "Funding: USD 25M (2023-09-21). Serve acquisition announced 2026-01; a subsequent 10-K confirms acquisition in January 2026.",
     "robot_ids": [
       "diligent-moxi"
     ],
@@ -492,9 +492,9 @@
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "HKG:2432",
+    "investors": "Public shareholders; underwriters are not classified as investors",
+    "rounds": "IPO (2024-12-23): 40M shares x HKD 18.80 = HKD 752M gross, before over-allotment.",
     "robot_ids": [
       "dobot-atom"
     ],
@@ -515,13 +515,13 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "enactic-openarm"
+      "enactic-openarm-2-0-arms"
     ],
     "robots": [
-      "OpenArm"
+      "OpenArm 2.0 (arms)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -537,8 +537,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "enchanted-mirokai"
     ],
@@ -559,8 +559,8 @@
     "youtube": "https://www.youtube.com/watch?v=j-uMnH_f7cU",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "engineai-se01"
     ],
@@ -575,14 +575,14 @@
     "id": "engineered-arts",
     "company": "Engineered Arts",
     "country": "UK",
-    "website": "https://engineeredarts.com/",
+    "website": "https://engineeredarts.com/tritium/robots/ameca",
     "x": "https://x.com/engineered_arts",
     "linkedin": "https://www.linkedin.com/company/engineered-arts-ltd/",
     "youtube": "https://www.youtube.com/watch?v=oN3Y_iKmgZA",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "10,000,000.00",
+    "investors": "Nicolas Desmarais; Helium-3 Ventures; Belvoir Capital; Figueira Capital (according to Dealroom; secondary source)",
+    "rounds": "Series A: USD 10M (2024-12; according to Dealroom). Lifetime funding not confirmed.",
     "robot_ids": [
       "engineered-arts-ameca"
     ],
@@ -602,14 +602,14 @@
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "Subsidiary of Estun Automation (SZSE:002747; HKG:2715)",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "estun-codroid-codroid"
+      "estun-codroid-codroid-02"
     ],
     "robots": [
-      "Codroid"
+      "Codroid 02"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -619,19 +619,19 @@
     "id": "figure",
     "company": "Figure",
     "country": "USA",
-    "website": "https://www.figure.ai/",
+    "website": "https://www.figure.ai/figure",
     "x": "https://x.com/Figure_robot",
     "linkedin": "https://www.linkedin.com/company/figure-ai/",
     "youtube": "https://youtu.be/0SRVJaOg9Co",
     "careers": "https://www.figure.ai/careers",
     "stock": "Private",
-    "investors": "NVIDIA, Microsoft, Amazon, Intel, OpenAI, ARK",
-    "rounds": "675,000,000.00",
+    "investors": "Series C: Parkway Venture Capital (lead); Brookfield; NVIDIA; Macquarie Capital; Intel Capital; Align; Tamarack; LG Technology Ventures; Salesforce; T-Mobile Ventures; Qualcomm Ventures",
+    "rounds": "Series C: >USD 1,000M committed (2025-09-16). Historical Series B: USD 675M; USD 2,600M valuation (2024).",
     "robot_ids": [
-      "figure-02"
+      "figure-figure-03"
     ],
     "robots": [
-      "02"
+      "Figure 03"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -647,8 +647,8 @@
     "youtube": "https://www.youtube.com/watch?v=I8EueTtvSuM",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "foundation-phantom-mk1"
     ],
@@ -662,15 +662,15 @@
   {
     "id": "fourier",
     "company": "Fourier",
-    "country": "Singapore",
+    "country": "China",
     "website": "https://fftai.com/",
     "x": "https://x.com/FourierRobots",
     "linkedin": "https://www.linkedin.com/showcase/fourier-rehab/",
     "youtube": "https://youtu.be/SHPxcRBlXN0",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "fourier-gr-1"
     ],
@@ -691,8 +691,8 @@
     "youtube": "",
     "careers": "",
     "stock": "HKG:2238",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "gac-group-gomate"
     ],
@@ -713,8 +713,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not identified in the reviewed corporate timeline",
+    "rounds": "Series B: RMB 1,000M (2026-02). A4/A5 (2025-07): cumulative funding close to RMB 1,500M at that point; not an additional RMB 1,500M round.",
     "robot_ids": [
       "galaxea-r1"
     ],
@@ -735,8 +735,8 @@
     "youtube": "https://www.youtube.com/watch?v=9ML9mOcHSQA",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "To be confirmed by round from primary sources",
+    "rounds": "Round of >USD 300M closed, according to a corporate post. A later RMB 2,500M round (2026-03) is reported by Sacra, a secondary source.",
     "robot_ids": [
       "galbot-g1"
     ],
@@ -757,8 +757,8 @@
     "youtube": "https://www.youtube.com/@gbionics",
     "careers": "",
     "stock": "Private",
-    "investors": "AMD",
-    "rounds": "81,000,000.00",
+    "investors": "CDP Venture Capital (AI fund, lead); AMD Ventures; Duferco; Eni Next; RoboIT; Tether",
+    "rounds": "EUR 70M closed (2025-12-09). Do not retain USD 81M without a dated exchange rate.",
     "robot_ids": [
       "generative-bionics-gene-01"
     ],
@@ -770,6 +770,30 @@
     "robot_count": 1
   },
   {
+    "id": "genesis",
+    "company": "Genesis",
+    "country": "France / USA",
+    "website": "https://www.genesis.ai/",
+    "x": "https://x.com/gs_ai_",
+    "linkedin": "https://www.linkedin.com/company/gs-ai/",
+    "youtube": "https://www.youtube.com/@GenesisAI_official",
+    "careers": "",
+    "stock": "Same entity as Genesis / Eno",
+    "investors": "See Genesis / Eno (row 119)",
+    "rounds": "Do not add; same Genesis AI funding",
+    "robot_ids": [
+      "genesis-duplicate-see-genesis-eno-row-119",
+      "genesis-eno"
+    ],
+    "robots": [
+      "Duplicate: see Genesis / Eno (row 119)",
+      "Eno"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
     "id": "goblin",
     "company": "Goblin",
     "country": "USA",
@@ -779,8 +803,8 @@
     "youtube": "https://www.youtube.com/watch?v=Wxni1ceGN1c",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "goblin-gbln-01"
     ],
@@ -801,8 +825,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "hanson-sophia"
     ],
@@ -816,20 +840,20 @@
   {
     "id": "heima",
     "company": "Heima",
-    "country": "",
+    "country": "China / USA (claimed algorithms / manufacturing locations)",
     "website": "https://www.heimarobotics.com/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "heima-adam"
+      "heima-a-d-a-m"
     ],
     "robots": [
-      "Adam"
+      "A.D.A.M."
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -845,8 +869,8 @@
     "youtube": "",
     "careers": "",
     "stock": "STO:HEXA-B",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "hexagon-aeon"
     ],
@@ -860,15 +884,15 @@
   {
     "id": "holiday",
     "company": "Holiday",
-    "country": "",
+    "country": "South Korea",
     "website": "https://holiday-robotics.com/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "holiday-friday"
     ],
@@ -882,15 +906,15 @@
   {
     "id": "igus",
     "company": "Igus",
-    "country": "",
+    "country": "Germany",
     "website": "https://www.igus.com/automation/news/humanoid-robot",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "igus-iggy-rob"
     ],
@@ -904,20 +928,42 @@
   {
     "id": "ihmc-robotics",
     "company": "IHMC Robotics",
-    "country": "",
+    "country": "USA",
     "website": "https://robots.ihmc.us/nadia",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "Non-profit research institute",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "ihmc-robotics-nadia"
     ],
     "robots": [
       "Nadia"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "inmoov",
+    "company": "InMoov",
+    "country": "France",
+    "website": "https://inmoov.fr/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Open project; not a manufacturer's stock listing",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "inmoov-inmoov"
+    ],
+    "robots": [
+      "InMoov"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -933,8 +979,8 @@
     "youtube": "https://www.youtube.com/watch?v=41NRPjXLDKU",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "intbot-nylo"
     ],
@@ -954,9 +1000,9 @@
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "Y Combinator, GFT Ventures, Pioneer Fund, AI Grant, Lux Capital, OpenAI nonprofit",
-    "rounds": "4,750,000.00",
+    "stock": "Ceased operations (2025-11)",
+    "investors": "Y Combinator, GFT Ventures, Pioneer Fund, AI Grant, Lux Capital, OpenAI nonprofit [historical; source unverified]",
+    "rounds": "4,750,000.00 [historical; source unverified]",
     "robot_ids": [
       "k-scale-labs-k-bot"
     ],
@@ -977,8 +1023,8 @@
     "youtube": "https://youtu.be/A5vshTgDbKE",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "kepler-forerunner"
     ],
@@ -993,19 +1039,19 @@
     "id": "kinisi",
     "company": "Kinisi",
     "country": "USA / UK",
-    "website": "https://www.kinisi.com/",
+    "website": "https://www.bearrobotics.ai/kinisi",
     "x": "https://x.com/KinisiRobotics",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "kinisi-kinisi-01-kr1"
+      "kinisi-kinisi-bear-robotics-offering"
     ],
     "robots": [
-      "Kinisi 01 / KR1"
+      "Kinisi (Bear Robotics offering)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1021,8 +1067,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "leju-kuavo"
     ],
@@ -1043,13 +1089,13 @@
     "youtube": "",
     "careers": "",
     "stock": "KRX:066570",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "lg-kapex"
+      "lg-kapex-co-developed-with-kist-and-lg-ai-research"
     ],
     "robots": [
-      "Kapex"
+      "KAPEX (co-developed with KIST and LG AI Research)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1065,8 +1111,8 @@
     "youtube": "https://youtu.be/sihIDeJ4Hmk",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "69,000,000.00",
+    "investors": "Pre-IPO: IDG Capital; Lens Technology; GGG Group / Redstone VC; WestSummit; Hefei Binhu; Stone Venture; Vitalbridge; CoStone; Nanshan SEI; Shangqi; NIO Capital",
+    "rounds": "Series B: USD 200M (2026-02-02). Pre-IPO: nearly USD 200M (2026-07-14). ~USD 400M over six months; not lifetime funding.",
     "robot_ids": [
       "limx-oli"
     ],
@@ -1087,8 +1133,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Mitsubishi Electric (lead, according to the corporate website)",
+    "rounds": "A1 and A2: hundreds of millions of RMB, according to the website; exact amounts and dates unverified.",
     "robot_ids": [
       "lumos-lus"
     ],
@@ -1109,8 +1155,8 @@
     "youtube": "https://www.youtube.com/watch?v=nPFAchqUvEc",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not identified on the reviewed homepage",
+    "rounds": "Angel round: RMB 150M, announced on the website; exact date unverified.",
     "robot_ids": [
       "magiclab-magicbot"
     ],
@@ -1130,9 +1176,9 @@
     "linkedin": "https://www.linkedin.com/company/mentee-robotics/",
     "youtube": "https://youtu.be/Z3T9S1Arbdk",
     "careers": "https://menteebot.com/careers/",
-    "stock": "Private",
-    "investors": "Mobileye (Adquired)",
-    "rounds": "17,000,000.00",
+    "stock": "Wholly owned subsidiary of Mobileye (NASDAQ:MBLY)",
+    "investors": "Mobileye (100% acquired; not a minority investment)",
+    "rounds": "Acquisition: ~USD 612M cash + 26,279,824 Mobileye shares. Not funding received by Mentee.",
     "robot_ids": [
       "mentee-menteebot"
     ],
@@ -1153,13 +1199,13 @@
     "youtube": "https://www.youtube.com/watch?v=RpphFszxQbM",
     "careers": "https://neura-robotics.com/careers",
     "stock": "Private",
-    "investors": "Volvo",
-    "rounds": "280,000,000.00",
+    "investors": "Series C: Tether; Qualcomm Technologies; Amazon; NVIDIA; imec.xpand; Bosch; Schaeffler; EIB; Lingotto Horizon; InterAlpen. Series B also included Volvo Cars Tech Fund; HV; Vsquared; others.",
+    "rounds": "Series B: EUR 120M (2025-01-15). Series C: up to USD 1,400M announced (2026-06-10); the announced ceiling is not verified cash received.",
     "robot_ids": [
-      "neura-4ne-1"
+      "neura-4ne1-gen-4-announced"
     ],
     "robots": [
-      "4NE-1"
+      "4NE1 (Gen 4 announced)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1175,8 +1221,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "noetix-dora"
     ],
@@ -1197,8 +1243,8 @@
     "youtube": "https://www.youtube.com/@oversonicrobotics",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "oversonic-robee"
     ],
@@ -1213,14 +1259,14 @@
     "id": "pal",
     "company": "PAL",
     "country": "Spain",
-    "website": "https://pal-robotics.com/robots/",
+    "website": "https://pal-robotics.com/robot/talos/",
     "x": "https://x.com/PALRobotics?",
     "linkedin": "https://www.linkedin.com/company/pal-robotics/",
     "youtube": "https://www.youtube.com/watch?v=zQUufUEU83A",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "pal-talos"
     ],
@@ -1241,8 +1287,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "phybot-m1"
     ],
@@ -1254,22 +1300,44 @@
     "robot_count": 1
   },
   {
+    "id": "physical-robotics",
+    "company": "Physical Robotics",
+    "country": "Norway",
+    "website": "https://www.physicalrobotics.com/",
+    "x": "https://x.com/Pi_Robots",
+    "linkedin": "https://www.linkedin.com/company/physicalrobotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "physical-robotics-pi"
+    ],
+    "robots": [
+      "Pi (π)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
     "id": "pib",
     "company": "Pib",
-    "country": "",
+    "country": "Germany",
     "website": "https://pib.rocks/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "Open project; legal entity/funding unverified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "pib-pib"
     ],
     "robots": [
-      "Pib"
+      "pib"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1285,8 +1353,8 @@
     "youtube": "https://www.youtube.com/watch?v=pzxB-va0qNo",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "pndbotics-adam"
     ],
@@ -1301,14 +1369,14 @@
     "id": "pollen",
     "company": "Pollen",
     "country": "France",
-    "website": "https://www.pollen-robotics.com/",
+    "website": "https://pollen-robotics.com/reachy-2/",
     "x": "https://x.com/pollenrobotics",
     "linkedin": "https://www.linkedin.com/company/pollen-robotics/",
     "youtube": "https://www.youtube.com/watch?v=T3RdwDkZA9c",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "2,600,000.00",
+    "stock": "Acquired by Hugging Face (2025)",
+    "investors": "Hugging Face (acquirer, 2025)",
+    "rounds": "Acquisition announced 2025-04-14; do not confuse Hugging Face's funding with capital raised by Pollen.",
     "robot_ids": [
       "pollen-reachy-2"
     ],
@@ -1329,8 +1397,8 @@
     "youtube": "https://youtu.be/CbA9wA9etGA",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "pudu-d7"
     ],
@@ -1347,12 +1415,12 @@
     "country": "China",
     "website": "https://technode.com/2024/07/05/qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024/",
     "x": "",
-    "linkedin": "https://www.linkedin.com/company/rainbow-robotics/",
+    "linkedin": "",
     "youtube": "https://youtu.be/ilwG5zkNOz8",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "qinglong-qinglong"
     ],
@@ -1366,15 +1434,15 @@
   {
     "id": "rainbow",
     "company": "Rainbow",
-    "country": "Korea",
+    "country": "South Korea",
     "website": "https://www.rainbow-robotics.com/",
     "x": "",
     "linkedin": "https://www.linkedin.com/company/rainbow-robotics/",
     "youtube": "https://www.youtube.com/watch?v=KKr0ix0qAnY",
     "careers": "",
     "stock": "KOSDAQ:277810",
-    "investors": "Samsung",
-    "rounds": "",
+    "investors": "Samsung Electronics: increase from 14.7% to 35% announced 2024-12-31",
+    "rounds": "Samsung's initial investment: KRW 86,800M in 2023. Exercise of an option to increase ownership to 35% announced 2024-12-31; not a HUBO funding round.",
     "robot_ids": [
       "rainbow-hubo"
     ],
@@ -1394,9 +1462,9 @@
     "linkedin": "",
     "youtube": "https://www.youtube.com/watch?v=4Bq91og7VmM",
     "careers": "",
-    "stock": "0.25",
-    "investors": "",
-    "rounds": "",
+    "stock": "TSXV:XBOT",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "realbotix-aria"
     ],
@@ -1417,8 +1485,8 @@
     "youtube": "https://www.youtube.com/watch?v=r2jPnpuSpPk",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "7,300,000.00",
+    "investors": "Not verified",
+    "rounds": "7,300,000.00 [historical; source unverified]",
     "robot_ids": [
       "reflex-reflex"
     ],
@@ -1439,8 +1507,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "revobots-taskbot"
     ],
@@ -1461,19 +1529,39 @@
     "youtube": "https://www.youtube.com/watch?v=nx2YO3twZYs",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "robotera-star-1",
-      "robotera-r-noid"
+      "robotera-star-1"
     ],
     "robots": [
-      "Star 1",
+      "Star 1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "robot-com",
+    "company": "Robot.com",
+    "country": "",
+    "website": "https://www.robot.com/r-noid",
+    "x": "https://x.com/Robotcom",
+    "linkedin": "https://www.linkedin.com/company/robot-com/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "robot-com-r-noid"
+    ],
+    "robots": [
       "R-Noid"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 2
+    "robot_count": 1
   },
   {
     "id": "robotis",
@@ -1485,8 +1573,8 @@
     "youtube": "",
     "careers": "",
     "stock": "KOSDAQ:108490",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "robotis-k0"
     ],
@@ -1507,8 +1595,8 @@
     "youtube": "https://www.youtube.com/watch?v=RQBLrPunlHc",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "robros-igris"
     ],
@@ -1529,8 +1617,8 @@
     "youtube": "https://www.youtube.com/watch?v=-HizP4UQvug",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Series A: Bell; Evok Innovations; Export Development Canada; Magna; SE Health; Verizon Ventures; Workday Ventures",
+    "rounds": "Series A: CAD 75.5M / USD 58.5M (2022-03). Public SIF contribution: CAD 30M, tracked separately from equity.",
     "robot_ids": [
       "sanctuary-ai-phoenix"
     ],
@@ -1544,20 +1632,42 @@
   {
     "id": "sharpa",
     "company": "Sharpa",
-    "country": "",
+    "country": "Singapore",
     "website": "https://www.sharpa.com/",
     "x": "https://x.com/SharpaRobotics",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "sharpa-wave"
+      "sharpa-droid-d01-wave-hands"
     ],
     "robots": [
-      "Wave"
+      "Droid D01 / Wave (hands)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "skild",
+    "company": "Skild",
+    "country": "USA",
+    "website": "https://www.skild.ai/",
+    "x": "https://x.com/SkildAI",
+    "linkedin": "https://www.linkedin.com/company/skildai/",
+    "youtube": "https://www.youtube.com/@SkildAI",
+    "careers": "",
+    "stock": "Private",
+    "investors": "SoftBank (lead); NVentures; Macquarie Capital; Bezos Expeditions; Lightspeed; Felicis; Coatue; Sequoia; LG; Schneider Electric; CommonSpirit; Salesforce Ventures; others",
+    "rounds": "Series C: USD 1,400M (2026-01-14). Funding applies to the robot-brain company, not a specific humanoid.",
+    "robot_ids": [
+      "skild-skild-brain-s1-software"
+    ],
+    "robots": [
+      "Skild Brain / S1 (software)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1573,8 +1683,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "spirit-moz"
     ],
@@ -1588,15 +1698,15 @@
   {
     "id": "switch",
     "company": "Switch",
-    "country": "Japan",
+    "country": "China",
     "website": "https://eu.switch-bot.com/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "HKG:6600 (OneRobotics, parent company of SwitchBot)",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "switch-onero-h1"
     ],
@@ -1617,8 +1727,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "tangible-eggie"
     ],
@@ -1633,14 +1743,14 @@
     "id": "tesla",
     "company": "Tesla",
     "country": "USA",
-    "website": "https://archive.md/mEWsJ",
+    "website": "https://www.tesla.com/AI",
     "x": "https://x.com/Tesla_Optimus",
     "linkedin": "https://www.linkedin.com/company/tesla-motors/",
     "youtube": "https://www.youtube.com/watch?v=fPeGPf7jvEQ",
     "careers": "",
-    "stock": "404.22",
-    "investors": "",
-    "rounds": "",
+    "stock": "NASDAQ:TSLA",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "tesla-optimus-gen-2"
     ],
@@ -1661,13 +1771,13 @@
     "youtube": "https://www.youtube.com/@TheHumanoidAI",
     "careers": "https://thehumanoid.ai/careers/",
     "stock": "Private",
-    "investors": "Schaeffler, Bosch",
-    "rounds": "",
+    "investors": "Prime Movers Lab (lead); Schaeffler; Bosch; Fubon Financial Holding Venture Capital; Aglaé Ventures",
+    "rounds": "Series A: USD 152M (2026-07-21). Company-reported cumulative funding: USD 270M.",
     "robot_ids": [
-      "the-humanoid-hmnd-01"
+      "the-humanoid-hmnd-01-alpha-wheeled-bipedal"
     ],
     "robots": [
-      "HMND 01"
+      "HMND 01 (Alpha Wheeled / Bipedal)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1676,15 +1786,15 @@
   {
     "id": "ti5robot",
     "company": "Ti5robot",
-    "country": "",
+    "country": "China",
     "website": "https://www.ti5robot.com/en/",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "ti5robot-t230a"
     ],
@@ -1705,8 +1815,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "1,760,889.00",
+    "investors": "Not verified",
+    "rounds": "1,760,889.00 [historical; source unverified]",
     "robot_ids": [
       "tokyo-torobo"
     ],
@@ -1726,9 +1836,9 @@
     "linkedin": "https://www.linkedin.com/company/ubtech-robotics/",
     "youtube": "https://www.youtube.com/watch?v=UBbk18oZbTc",
     "careers": "",
-    "stock": "65.3",
-    "investors": "",
-    "rounds": "",
+    "stock": "HKG:9880",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "ubtech-walker-s1"
     ],
@@ -1748,9 +1858,9 @@
     "linkedin": "https://www.linkedin.com/company/unitreerobotics/",
     "youtube": "https://youtu.be/GtPs_ygfaEA",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "SSE:688836 (since 2026-08-19)",
+    "investors": "Historical 2025 investors: Tencent; Alibaba; Ant Group; China Mobile; Geely (Reuters). IPO: public shareholders; see prospectus for details.",
+    "rounds": "IPO: 40,446,434 new shares; trading began 2026-08-19. RMB 150.80 offer price reported by Reuters; ~RMB 6,099M gross, calculated.",
     "robot_ids": [
       "unitree-h1"
     ],
@@ -1764,15 +1874,15 @@
   {
     "id": "unix",
     "company": "UniX",
-    "country": "",
+    "country": "China",
     "website": "https://www.unix-group.ai",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "unix-wanda"
     ],
@@ -1793,8 +1903,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "vanar-generation-1"
     ],
@@ -1815,8 +1925,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "vinmotion-motion"
     ],
@@ -1830,15 +1940,15 @@
   {
     "id": "wandercraft",
     "company": "Wandercraft",
-    "country": "",
+    "country": "France",
     "website": "https://en.wandercraft.eu/",
     "x": "https://x.com/exowandercraft",
     "linkedin": "https://www.linkedin.com/company/wandercraft/",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Renault Group; PSIM fund managed by Bpifrance / France 2030; Teampact Ventures; Quadrant Management",
+    "rounds": "Series D: USD 75M in funding and financing facilities (2025-06-11); a mix of instruments, not equity only.",
     "robot_ids": [
       "wandercraft-calvin"
     ],
@@ -1852,15 +1962,15 @@
   {
     "id": "weave",
     "company": "Weave",
-    "country": "",
+    "country": "USA",
     "website": "https://www.weaverobotics.com/",
     "x": "https://x.com/weaverobotics",
     "linkedin": "https://www.linkedin.com/company/weave-robotics/",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "weave-isaac"
     ],
@@ -1881,8 +1991,8 @@
     "youtube": "https://www.youtube.com/watch?v=svRRhsFKflE",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "westwood-themis"
     ],
@@ -1903,8 +2013,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "wirobotics-allex"
     ],
@@ -1919,14 +2029,14 @@
     "id": "x-square",
     "company": "X Square",
     "country": "China",
-    "website": "https://www.x2robot.com/en",
+    "website": "https://x2robot.com/en/product/quantum2",
     "x": "",
     "linkedin": "",
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "x-square-quanta-x2"
     ],
@@ -1947,8 +2057,8 @@
     "youtube": "https://www.youtube.com/watch?v=I28Q9czUx2Q",
     "careers": "",
     "stock": "HKG:1810",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "xiaomi-cyber-one"
     ],
@@ -1969,8 +2079,8 @@
     "youtube": "https://www.youtube.com/@FaunaRobotics",
     "careers": "",
     "stock": "Private",
-    "investors": "Amazon",
-    "rounds": "",
+    "investors": "Amazon [historical; source unverified]",
+    "rounds": "Not verified",
     "robot_ids": [
       "fauna-sprout"
     ],
@@ -1991,8 +2101,8 @@
     "youtube": "https://www.youtube.com/watch?v=BNSZ8Fwcd20",
     "careers": "",
     "stock": "NYSE:XPEV",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "xpeng-iron"
     ],
@@ -2013,8 +2123,8 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Reliance Industries (54% following the 2022 transaction)",
+    "rounds": "Series B / strategic transaction: USD 132M (2022). Not the valuation of Elixis.",
     "robot_ids": [
       "addverb-elixis"
     ],
@@ -2034,9 +2144,9 @@
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "NASDAQ:FFIE",
-    "investors": "",
-    "rounds": "",
+    "stock": "NASDAQ:FFAI",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "faraday-future-ff-futurist"
     ],
@@ -2057,13 +2167,35 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "peritas-peri"
     ],
     "robots": [
       "Peri"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "mind",
+    "company": "Mind",
+    "country": "USA",
+    "website": "https://www.mindrobotics.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Kleiner Perkins (new round lead); Meritech; Redpoint; SV Angel; Incharge; A-Star; Garuda; Accel; a16z; Eclipse; Prysm; Bain Capital Ventures; Greenoaks; Rivian (partner and shareholder)",
+    "rounds": "Seed: USD 115M (late 2025); Series A: USD 500M (2026-03); new round: USD 400M (2026-05-13). Reported total >USD 1,000M.",
+    "robot_ids": [
+      "mind-industrial-platform-model-unconfirmed"
+    ],
+    "robots": [
+      "Industrial platform (model unconfirmed)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2079,13 +2211,13 @@
     "youtube": "",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "sudo-r1"
+      "sudo-sudo-r1"
     ],
     "robots": [
-      "R1"
+      "#sudo R1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2101,13 +2233,35 @@
     "youtube": "https://www.youtube.com/@Kai_Robotics",
     "careers": "",
     "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "kinetix-kaibot"
     ],
     "robots": [
       "Kaibot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "orbit",
+    "company": "Orbit",
+    "country": "",
+    "website": "https://www.orbitrobotics.ch/",
+    "x": "https://x.com/OrbitRobotics",
+    "linkedin": "https://www.linkedin.com/company/orbitrobotics/",
+    "youtube": "https://www.youtube.com/channel/UC-e6nt7tlZJ08ADFZ-Uwp4Q",
+    "careers": "",
+    "stock": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "orbit-space-platform-model-unpublished"
+    ],
+    "robots": [
+      "Space platform (model unpublished)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2123,8 +2277,8 @@
     "youtube": "https://www.youtube.com/@Twolabsai",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "twolabs-tobi"
     ],
@@ -2145,35 +2299,13 @@
     "youtube": "https://www.youtube.com/@almond-bot",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "almond-axol"
     ],
     "robots": [
       "Axol"
-    ],
-    "evidence_level": "derived",
-    "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
-  },
-  {
-    "id": "genesis",
-    "company": "Genesis",
-    "country": "",
-    "website": "https://www.genesis.ai/",
-    "x": "https://x.com/gs_ai_",
-    "linkedin": "https://www.linkedin.com/company/gs-ai/",
-    "youtube": "https://www.youtube.com/@GenesisAI_official",
-    "careers": "",
-    "stock": "",
-    "investors": "",
-    "rounds": "",
-    "robot_ids": [
-      "genesis-eno"
-    ],
-    "robots": [
-      "Eno"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2189,13 +2321,13 @@
     "youtube": "https://www.youtube.com/@viberobotics",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "vibe-robotics-vibe"
+      "vibe-robotics-vibe-01"
     ],
     "robots": [
-      "Vibe"
+      "Vibe 01"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2204,20 +2336,20 @@
   {
     "id": "nori",
     "company": "Nori",
-    "country": "",
+    "country": "USA (assembled in San Francisco, according to website)",
     "website": "https://www.norirobotics.com/",
     "x": "https://x.com/NoriRobotics",
     "linkedin": "https://www.linkedin.com/company/norirobotics/",
     "youtube": "",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "nori-nori"
+      "nori-nori-a3"
     ],
     "robots": [
-      "Nori"
+      "NORI A3"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2233,8 +2365,8 @@
     "youtube": "https://www.youtube.com/@SundayRobotics",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Coatue (lead); Bain Capital Ventures; Fidelity Management & Research Company; Tiger Global; Benchmark; Conviction; Xtal Ventures",
+    "rounds": "Series B: USD 165M (2026-03-12). No cumulative total inferred.",
     "robot_ids": [
       "sunday-memo"
     ],
@@ -2246,17 +2378,39 @@
     "robot_count": 1
   },
   {
+    "id": "walden",
+    "company": "Walden",
+    "country": "USA",
+    "website": "https://www.waldenrobotics.com/",
+    "x": "https://x.com/WaldenRobotics",
+    "linkedin": "https://www.linkedin.com/company/waldenrobotics/",
+    "youtube": "https://www.youtube.com/@WaldenRobotics",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Toyota / Toyota Invention Partners / Toyota Ventures and Deviation Capital (co-leads); NVIDIA; Boeing; AE Ventures; Samsung Ventures; Prologis Ventures; CoreWeave Ventures; others",
+    "rounds": "Seed: USD 300M (2026-07-15). The USD 1,100M valuation is not 1,100 currency units.",
+    "robot_ids": [
+      "walden-general-purpose-platform-name-unconfirmed"
+    ],
+    "robots": [
+      "General-purpose platform (name unconfirmed)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
     "id": "xyz",
     "company": "XYZ",
-    "country": "",
+    "country": "South Korea",
     "website": "https://xyzcorp.imweb.me/DEUX",
     "x": "",
     "linkedin": "https://www.linkedin.com/company/xyzcorporation/",
     "youtube": "https://www.youtube.com/channel/UCIieByJcSRGv9tJQaLMM0wg",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "xyz-deux"
     ],
@@ -2277,8 +2431,8 @@
     "youtube": "",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "lightberry-lumi"
     ],
@@ -2292,15 +2446,15 @@
   {
     "id": "pink-robotics",
     "company": "Pink Robotics",
-    "country": "",
+    "country": "Germany",
     "website": "https://www.pink-robotics.com/",
     "x": "",
     "linkedin": "https://www.linkedin.com/company/pink-robotics-germany/",
     "youtube": "",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
       "pink-robotics-p0"
     ],
@@ -2312,22 +2466,176 @@
     "robot_count": 1
   },
   {
+    "id": "nucleus",
+    "company": "Nucleus",
+    "country": "",
+    "website": "https://nucleuslab.ai/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/nucleus-robotics-ai/",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "nucleus-humanoid-service-model-unconfirmed"
+    ],
+    "robots": [
+      "Humanoid service (model unconfirmed)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "feather",
+    "company": "Feather",
+    "country": "",
+    "website": "https://feather.dev/",
+    "x": "https://x.com/featherrobotics",
+    "linkedin": "https://www.linkedin.com/company/feather-robotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "feather-feather"
+    ],
+    "robots": [
+      "Feather"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "o-id",
+    "company": "O-ID",
+    "country": "Japan",
+    "website": "https://o-id.net/",
+    "x": "https://x.com/oidinc",
+    "linkedin": "https://www.linkedin.com/company/o-id/",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "Not identified in the text; partner logos are insufficient",
+    "rounds": "Pre-seed: USD 1.2M (2026-09-24), according to the corporate homepage; terms unverified.",
+    "robot_ids": [
+      "o-id-o-id-modular-platform"
+    ],
+    "robots": [
+      "O-ID modular platform"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "roboparty",
+    "company": "RoboParty",
+    "country": "",
+    "website": "https://roboparty.com/",
+    "x": "https://x.com/RoboParty_DEV",
+    "linkedin": "https://www.linkedin.com/company/roboparty-robotics/",
+    "youtube": "https://www.youtube.com/@roboparty-org",
+    "careers": "",
+    "stock": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "roboparty-roboto-01-roboto-origin"
+    ],
+    "robots": [
+      "ROBOTO 01 / ROBOTO Origin"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "flourish",
+    "company": "Flourish",
+    "country": "",
+    "website": "https://flourish-robots.com/",
+    "x": "https://x.com/flourish_robots",
+    "linkedin": "https://www.linkedin.com/company/flourish-robots/",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "flourish-flourish-robot-model-name-unconfirmed"
+    ],
+    "robots": [
+      "Flourish robot (model name unconfirmed)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "nature-will",
+    "company": "Nature Will",
+    "country": "",
+    "website": "https://www.naturewill.ai/",
+    "x": "https://x.com/naturewill",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC862ODFOVARM3ezMXHFDDfw",
+    "careers": "",
+    "stock": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "nature-will-natura-1-ai-model"
+    ],
+    "robots": [
+      "Natura-1 (AI model)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
     "id": "tuesday-labs",
     "company": "Tuesday Labs",
-    "country": "",
+    "country": "USA (New York City)",
     "website": "https://tuesdaylabs.com/",
     "x": "https://x.com/roboticscorp",
     "linkedin": "https://www.linkedin.com/company/tuesdaylabs/",
     "youtube": "",
     "careers": "",
     "stock": "",
-    "investors": "",
-    "rounds": "",
+    "investors": "Not verified",
+    "rounds": "Not verified",
     "robot_ids": [
-      "tuesday-labs-voxel"
+      "tuesday-labs-voxel-series-1"
     ],
     "robots": [
-      "Voxel"
+      "Voxel Series-1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pokebot",
+    "company": "PokeBot (破壳机器人)",
+    "country": "China (Beijing)",
+    "website": "https://pokebot.com/",
+    "x": "https://x.com/PokeBot_Global",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@PokeBotRobotics",
+    "careers": "https://app.mokahr.com/social-recruitment/pokebot/182184?locale=zh-CN#/",
+    "stock": "Private",
+    "investors": "Angel (2026-04, closed 2026-04-29): Yunqi Capital (lead); Shunwei Capital; Honghui Fund; Xiaomi Strategic Investment; Galaxea / Xinghaitu (industry investor, founder's former company); BV Baidu Ventures; Inno Angel Fund; Tsinghua Alumni Seed Fund; Orient Fortune Capital. Pre-A (2026-08-03): Shunwei Capital and Matrix Partners China (co-leads); new: Zhongding Capital, Jiukun Ventures, Junshan Capital, SEE Fund, Liepin Investment, Yuanno Capital; existing shareholders followed on. One English outlet names IDG as co-lead: conflicts with Chinese sources (Matrix Partners China = 经纬创投)",
+    "rounds": "Angel: tens of millions of USD (2026-04). Pre-A: ~USD 100M scale, exact amount undisclosed (2026-08-03); website says USD 100M+, Caixin says hundreds of millions. Do not sum as audited total.",
+    "robot_ids": [
+      "pokebot-home-robot-model-name-not-disclosed"
+    ],
+    "robots": [
+      "Home robot (model name not disclosed)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -2342,9 +2650,9 @@
     "linkedin": "",
     "youtube": "",
     "careers": "",
-    "stock": "Private",
-    "investors": "",
-    "rounds": "",
+    "stock": "Editorial resource; not a listed robot company",
+    "investors": "Not applicable to this resource record",
+    "rounds": "Not applicable to this resource record",
     "robot_ids": [
       "integrarobot-resource"
     ],
