@@ -2642,6 +2642,28 @@
     "robot_count": 1
   },
   {
+    "id": "mabel",
+    "company": "Mabel",
+    "country": "",
+    "website": "https://robotmabel.github.io/website/index.html",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "",
+    "investors": "",
+    "rounds": "",
+    "robot_ids": [
+      "mabel-mabel"
+    ],
+    "robots": [
+      "Mabel"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
     "id": "integrarobot",
     "company": "Integrarobot",
     "country": "Spain",
