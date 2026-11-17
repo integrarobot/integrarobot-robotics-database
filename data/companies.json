@@ -2684,5 +2684,27 @@
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
     "robot_count": 1
+  },
+  {
+    "id": "darwin",
+    "company": "Darwin",
+    "country": "USA",
+    "website": "https://darwinrobotics.ai/",
+    "x": "https://x.com/darwin_robotics",
+    "linkedin": "https://www.linkedin.com/company/darwin-robotics-inc",
+    "youtube": "",
+    "careers": "https://darwinrobotics.ai/careers",
+    "stock": "Private",
+    "investors": "Link Ventures (lead); Y Combinator; Liquid 2 Ventures; Rebel Fund; Globivest; Script Capital; angels described as founders of OpenAI, xAI and Y Combinator (not named). NVIDIA Inception is a programme membership, not an investment.",
+    "rounds": "Pre-seed: USD 3.6M (2026-11-05)",
+    "robot_ids": [
+      "darwin-darwin-0"
+    ],
+    "robots": [
+      "Darwin-0"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
   }
 ]
