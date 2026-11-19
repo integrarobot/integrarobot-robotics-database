@@ -78,14 +78,24 @@
     "investors": "A complete investor syndicate for the new round was not verified; do not confuse with Suzhou-based AGIBOT Medical",
     "rounds": "RMB 1,000–1,500M under negotiation, according to Caijing / TechNode (2026-10-14). Do not record as raised or add to totals.",
     "robot_ids": [
-      "agibot-x1"
+      "agibot-x1",
+      "agibot-a2-a2-ultra-a2-lite",
+      "agibot-a3",
+      "agibot-x2-x2-neo-x2-ultra",
+      "agibot-g2",
+      "agibot-g1"
     ],
     "robots": [
-      "X1"
+      "X1",
+      "A2 (A2 Ultra / A2 Lite)",
+      "A3",
+      "X2 (X2 Neo / X2 Ultra)",
+      "G2",
+      "G1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 6
   },
   {
     "id": "agile",
@@ -97,8 +107,8 @@
     "youtube": "https://www.youtube.com/@Agile_Robots",
     "careers": "",
     "stock": "Private",
-    "investors": "SoftBank Vision Fund 2 (Series C lead); Chimera; GL Ventures; Sequoia China; Linear Capital; Xiaomi; Foxconn Industrial Internet; Midas",
-    "rounds": "Series C: USD 220M (2021-09). Funding was not exclusively for the humanoid.",
+    "investors": "SoftBank Group (Series F lead); NVIDIA; Hitachi Group (Hitachi; Hitachi Ventures); T.Capital; other Series F investors not named; SoftBank Vision Fund 2 (Series C lead); Chimera; GL Ventures; Sequoia China; Linear Capital; Xiaomi; Foxconn Industrial Internet; Midas",
+    "rounds": "Series F: USD 500M (2026-11-12); total invested capital USD 2,000M (company). Series C: USD 220M (2021-09). Funding was not exclusively for the humanoid.",
     "robot_ids": [
       "agile-one"
     ],
@@ -276,14 +286,18 @@
     "investors": "To be identified from the round announcement",
     "rounds": "Nearly USD 150M announced on the website; date, stage and investors remain to be verified.",
     "robot_ids": [
-      "booster-t1"
+      "booster-t1",
+      "booster-t2",
+      "booster-k1"
     ],
     "robots": [
-      "T1"
+      "T1",
+      "T2",
+      "K1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 3
   },
   {
     "id": "borg",
@@ -408,14 +422,16 @@
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "deep-dr01"
+      "deep-dr01",
+      "deep-dr02"
     ],
     "robots": [
-      "DR01"
+      "DR01",
+      "DR02"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "devanthro",
@@ -562,14 +578,18 @@
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "engineai-se01"
+      "engineai-se01",
+      "engineai-pm01",
+      "engineai-t800"
     ],
     "robots": [
-      "SE01"
+      "SE01",
+      "PM01",
+      "T800"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 3
   },
   {
     "id": "engineered-arts",
@@ -716,14 +736,16 @@
     "investors": "Not identified in the reviewed corporate timeline",
     "rounds": "Series B: RMB 1,000M (2026-02). A4/A5 (2025-07): cumulative funding close to RMB 1,500M at that point; not an additional RMB 1,500M round.",
     "robot_ids": [
-      "galaxea-r1"
+      "galaxea-r1",
+      "galaxea-kengo"
     ],
     "robots": [
-      "R1"
+      "R1",
+      "Kengo"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "galbot",
@@ -738,14 +760,18 @@
     "investors": "To be confirmed by round from primary sources",
     "rounds": "Round of >USD 300M closed, according to a corporate post. A later RMB 2,500M round (2026-03) is reported by Sacra, a secondary source.",
     "robot_ids": [
-      "galbot-g1"
+      "galbot-g1",
+      "galbot-s1",
+      "galbot-et1"
     ],
     "robots": [
-      "G1"
+      "G1",
+      "S1",
+      "ET1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 3
   },
   {
     "id": "generative-bionics",
@@ -1085,21 +1111,23 @@
     "country": "South Korea",
     "website": "https://solutions.lg.com/us/robots",
     "x": "",
-    "linkedin": "",
-    "youtube": "",
+    "linkedin": "https://www.linkedin.com/company/lg-electronics/",
+    "youtube": "https://www.youtube.com/@LGGlobal",
     "careers": "",
     "stock": "KRX:066570",
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "lg-kapex-co-developed-with-kist-and-lg-ai-research"
+      "lg-kapex-co-developed-with-kist-and-lg-ai-research",
+      "lg-cloid"
     ],
     "robots": [
-      "KAPEX (co-developed with KIST and LG AI Research)"
+      "KAPEX (co-developed with KIST and LG AI Research)",
+      "CLOiD"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "limx",
@@ -1114,14 +1142,16 @@
     "investors": "Pre-IPO: IDG Capital; Lens Technology; GGG Group / Redstone VC; WestSummit; Hefei Binhu; Stone Venture; Vitalbridge; CoStone; Nanshan SEI; Shangqi; NIO Capital",
     "rounds": "Series B: USD 200M (2026-02-02). Pre-IPO: nearly USD 200M (2026-07-14). ~USD 400M over six months; not lifetime funding.",
     "robot_ids": [
-      "limx-oli"
+      "limx-oli",
+      "limx-luna"
     ],
     "robots": [
-      "Oli"
+      "Oli",
+      "Luna"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "lumos",
@@ -1158,14 +1188,16 @@
     "investors": "Not identified on the reviewed homepage",
     "rounds": "Angel round: RMB 150M, announced on the website; exact date unverified.",
     "robot_ids": [
-      "magiclab-magicbot"
+      "magiclab-magicbot",
+      "magiclab-magicbot-z1"
     ],
     "robots": [
-      "Magicbot"
+      "Magicbot",
+      "MagicBot Z1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "mentee",
@@ -1268,14 +1300,20 @@
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "pal-talos"
+      "pal-talos",
+      "pal-ari",
+      "pal-tiago-pro",
+      "pal-kangaroo"
     ],
     "robots": [
-      "Talos"
+      "Talos",
+      "ARI",
+      "TIAGo Pro",
+      "Kangaroo"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 4
   },
   {
     "id": "phybot",
@@ -1400,14 +1438,16 @@
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "pudu-d7"
+      "pudu-d7",
+      "pudu-d9"
     ],
     "robots": [
-      "D7"
+      "D7",
+      "D9"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "qinglong",
@@ -1444,14 +1484,16 @@
     "investors": "Samsung Electronics: increase from 14.7% to 35% announced 2024-12-31",
     "rounds": "Samsung's initial investment: KRW 86,800M in 2023. Exercise of an option to increase ownership to 35% announced 2024-12-31; not a HUBO funding round.",
     "robot_ids": [
-      "rainbow-hubo"
+      "rainbow-hubo",
+      "rainbow-rb-y1"
     ],
     "robots": [
-      "Hubo"
+      "Hubo",
+      "RB-Y1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "realbotix",
@@ -1840,14 +1882,16 @@
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "ubtech-walker-s1"
+      "ubtech-walker-s1",
+      "ubtech-walker-s2"
     ],
     "robots": [
-      "Walker S1"
+      "Walker S1",
+      "Walker S2"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 2
   },
   {
     "id": "unitree",
@@ -1862,14 +1906,22 @@
     "investors": "Historical 2025 investors: Tencent; Alibaba; Ant Group; China Mobile; Geely (Reuters). IPO: public shareholders; see prospectus for details.",
     "rounds": "IPO: 40,446,434 new shares; trading began 2026-08-19. RMB 150.80 offer price reported by Reuters; ~RMB 6,099M gross, calculated.",
     "robot_ids": [
-      "unitree-h1"
+      "unitree-h1",
+      "unitree-g1",
+      "unitree-h2",
+      "unitree-h2-x",
+      "unitree-r1"
     ],
     "robots": [
-      "H1"
+      "H1",
+      "G1",
+      "H2",
+      "H2-X",
+      "R1"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
+    "robot_count": 5
   },
   {
     "id": "unix",
@@ -2702,6 +2754,994 @@
     ],
     "robots": [
       "Darwin-0"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "asus",
+    "company": "ASUS",
+    "country": "Taiwan",
+    "website": "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot",
+    "x": "https://twitter.com/asuspressroom",
+    "linkedin": "https://www.linkedin.com/company/asus",
+    "youtube": "https://www.youtube.com/user/ASUS",
+    "careers": "",
+    "stock": "TWSE:2357",
+    "investors": "Not verified; developed in-house by ASUS's Humanoid Robotics BU",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "asus-gallop"
+    ],
+    "robots": [
+      "Gallop"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "hiro-industries",
+    "company": "HIRO Industries",
+    "country": "USA (Corvallis, Oregon)",
+    "website": "https://hiroindustries.com/",
+    "x": "https://x.com/hiroindustries",
+    "linkedin": "https://www.linkedin.com/company/hiroindustries/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Y Combinator (Winter 2027 batch, per YC company page); deal terms not disclosed",
+    "rounds": "Not disclosed; YC W27 participation only, amount not verified",
+    "robot_ids": [
+      "hiro-industries-origin"
+    ],
+    "robots": [
+      "Origin"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "aheadform",
+    "company": "AheadForm",
+    "country": "China",
+    "website": "https://www.aheadform.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/105562189/",
+    "youtube": "https://www.youtube.com/@AheadForm",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "aheadform-elf-xuan-2-0"
+    ],
+    "robots": [
+      "Elf·Xuan 2.0"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "aidol",
+    "company": "AIDOL",
+    "country": "Russia",
+    "website": "https://aidoltech.ru/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "aidol-aidol-walking-version"
+    ],
+    "robots": [
+      "AIDOL (walking version)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "anigon",
+    "company": "Anigon",
+    "country": "Switzerland",
+    "website": "https://anigon.ch/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "anigon-fa-l-series"
+    ],
+    "robots": [
+      "FA-L Series"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "avatar-robotics",
+    "company": "Avatar Robotics",
+    "country": "USA (San Francisco)",
+    "website": "https://www.avatarrobotics.com/",
+    "x": "https://x.com/AvatarRobots",
+    "linkedin": "https://www.linkedin.com/company/avatarrobotics",
+    "youtube": "https://www.youtube.com/@AvatarRobots",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "avatar-robotics-avatar-humanoid-model-name-not-disclosed"
+    ],
+    "robots": [
+      "Avatar humanoid (model name not disclosed)"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "casbot",
+    "company": "CASBOT",
+    "country": "China (Beijing)",
+    "website": "https://casbot.tech/product/02",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "casbot-casbot-02",
+      "casbot-casbot-w1"
+    ],
+    "robots": [
+      "CASBOT 02",
+      "CASBOT W1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "cyborg-robotics",
+    "company": "Cyborg Robotics",
+    "country": "China (Shenzhen)",
+    "website": "https://www.cyb-org.cn/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "cyborg-robotics-cyborg-r01",
+      "cyborg-robotics-cyborg-w01"
+    ],
+    "robots": [
+      "CYBORG-R01",
+      "CYBORG-W01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "digit-robotics",
+    "company": "Digit Robotics",
+    "country": "China",
+    "website": "https://www.digit.com.cn/ProductsDetail/250.html",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "digit-robotics-xialan-r03",
+      "digit-robotics-xiaqi-x02"
+    ],
+    "robots": [
+      "Xialan R03",
+      "XiaQi X02"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "donut-robotics",
+    "company": "Donut Robotics",
+    "country": "Japan",
+    "website": "https://www.donutrobotics.com/en",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/donut-robotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "donut-robotics-cinnamon-1"
+    ],
+    "robots": [
+      "Cinnamon 1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "droidup",
+    "company": "DroidUp",
+    "country": "China (Shanghai)",
+    "website": "https://www.droidup.com/product/7",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "droidup-moya"
+    ],
+    "robots": [
+      "Moya"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "duatic",
+    "company": "Duatic",
+    "country": "Switzerland (Glattbrugg)",
+    "website": "https://www.duatic.com/dxtr",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/Duatic",
+    "youtube": "https://www.youtube.com/@Duatic_",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "duatic-dxtr"
+    ],
+    "robots": [
+      "DXTR"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "elite-robots",
+    "company": "Elite Robots",
+    "country": "China",
+    "website": "https://www.elibot.com/product/wheeled",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "elite-robots-centaur-g1"
+    ],
+    "robots": [
+      "Centaur-G1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "genisom",
+    "company": "GENISOM",
+    "country": "China",
+    "website": "https://www.genisomai.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "genisom-ne01"
+    ],
+    "robots": [
+      "NE01"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "gento-robotics",
+    "company": "Gento Robotics",
+    "country": "China",
+    "website": "https://www.gentorobotics.ai/products/gento-luna/",
+    "x": "https://x.com/gentorobotics",
+    "linkedin": "https://www.linkedin.com/company/gentorobotics/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "gento-robotics-gento-luna"
+    ],
+    "robots": [
+      "Gento Luna"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "glroad",
+    "company": "Glroad",
+    "country": "China (Wuhan)",
+    "website": "https://www.glroad.com/HumanoidRobots/index.aspx",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "glroad-laborer-c1",
+      "glroad-laborer-m1"
+    ],
+    "robots": [
+      "Laborer C1",
+      "Laborer M1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "guanggu-dongzhi",
+    "company": "Guanggu Dongzhi",
+    "country": "China (Wuhan, Hubei)",
+    "website": "https://www.hecbot.cn/product.html?type=22",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "guanggu-dongzhi-lumen-h1"
+    ],
+    "robots": [
+      "Lumen H1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "jingchu-humanoid",
+    "company": "Jingchu Humanoid",
+    "country": "China (Hubei)",
+    "website": "https://www.jingchurobot.cn/product_detail/1.html",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "jingchu-humanoid-jingchu-1",
+      "jingchu-humanoid-jingchu-elf"
+    ],
+    "robots": [
+      "JingChu 1",
+      "Jingchu Elf"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "jaka-robotics",
+    "company": "JAKA Robotics",
+    "country": "China (Shanghai)",
+    "website": "https://www.jaka.com/",
+    "x": "https://x.com/jakarobotics",
+    "linkedin": "https://www.linkedin.com/company/jakarobotics/",
+    "youtube": "https://www.youtube.com/@jakarobotics576",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "jaka-robotics-jaka"
+    ],
+    "robots": [
+      "JAKA π"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "kaist-drcd-lab",
+    "company": "KAIST DRCD Lab",
+    "country": "South Korea",
+    "website": "https://www.dynamicrobot.kaist.ac.kr/new-page",
+    "x": "",
+    "linkedin": "",
+    "youtube": "https://youtube.com/channel/UCl1uTjOG-hNI5Z3A_qd_TuA/",
+    "careers": "Not applicable (university lab)",
+    "stock": "Not applicable",
+    "investors": "Not applicable (university lab)",
+    "rounds": "Not applicable (university lab)",
+    "robot_ids": [
+      "kaist-drcd-lab-kaist-humanoid"
+    ],
+    "robots": [
+      "KAIST Humanoid"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "kit-h-t",
+    "company": "KIT H²T",
+    "country": "Germany (Karlsruhe)",
+    "website": "https://h2t.iar.kit.edu/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCQC4i8MlCMCefJmPz7PmDMw",
+    "careers": "Not applicable (university lab)",
+    "stock": "Not applicable",
+    "investors": "Not applicable (university lab)",
+    "rounds": "Not applicable (university lab)",
+    "robot_ids": [
+      "kit-h2t-armar-7"
+    ],
+    "robots": [
+      "ARMAR-7"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "keenon-robotics",
+    "company": "KEENON Robotics",
+    "country": "China (Shanghai)",
+    "website": "https://www.keenon.com/en/product/XMAN-R1",
+    "x": "https://x.com/KEENONGlobal",
+    "linkedin": "https://www.linkedin.com/company/keenonrobotics",
+    "youtube": "https://www.youtube.com/@KeenonRobotics",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "keenon-robotics-xman-r1"
+    ],
+    "robots": [
+      "XMAN-R1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "lanxin-robotics",
+    "company": "Lanxin Robotics",
+    "country": "China (Hangzhou)",
+    "website": "https://www.lanxinrobotics.com/vb1/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/lanxinrobotics",
+    "youtube": "https://www.youtube.com/@LanxinRobot",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "lanxin-robotics-vb1"
+    ],
+    "robots": [
+      "VB1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "linkerbot",
+    "company": "Linkerbot",
+    "country": "China",
+    "website": "https://www.linkerbot.cn/details/LinkerHumanoid",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "linkerbot-linker-humanoid"
+    ],
+    "robots": [
+      "Linker Humanoid"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "matrix-robotics",
+    "company": "Matrix Robotics",
+    "country": "China",
+    "website": "https://matrixrobotics.ai/matrix-3",
+    "x": "https://x.com/matrixrobots",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@matrixrobotics_ai",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "matrix-robotics-matrix-3",
+      "matrix-robotics-matrix-1"
+    ],
+    "robots": [
+      "MATRIX-3",
+      "MATRIX-1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "menlo",
+    "company": "Menlo",
+    "country": "Singapore",
+    "website": "https://menlo.ai/asimov-1",
+    "x": "https://x.com/asimovinc",
+    "linkedin": "https://www.linkedin.com/company/menloresearch/",
+    "youtube": "https://www.youtube.com/@menloresearch",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "menlo-asimov-1"
+    ],
+    "robots": [
+      "Asimov 1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "mirrorme",
+    "company": "MirrorMe",
+    "country": "China",
+    "website": "https://www.mirrormetech.com/cn/product_5.html",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "mirrorme-bolt"
+    ],
+    "robots": [
+      "Bolt"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "perceptyne",
+    "company": "Perceptyne",
+    "country": "India",
+    "website": "https://www.perceptyne.com/product/omni",
+    "x": "https://x.com/perceptyne/",
+    "linkedin": "https://www.linkedin.com/company/perceptyne-robots/",
+    "youtube": "https://www.youtube.com/@perceptyne",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "perceptyne-pr-omni"
+    ],
+    "robots": [
+      "PR-OMNI"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "pl-universe",
+    "company": "PL-Universe",
+    "country": "China",
+    "website": "https://en.pl-universe.com/Products/ProWhiteRobot",
+    "x": "https://x.com/PLUniverseRobot",
+    "linkedin": "https://www.linkedin.com/company/pluniverserobotics/",
+    "youtube": "https://www.youtube.com/@PL-UniverseRobotics",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "pl-universe-prowhite"
+    ],
+    "robots": [
+      "ProWhite"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "psibot",
+    "company": "PsiBot",
+    "country": "China",
+    "website": "https://www.psibot.ai/en/products/product_psibot-v1/",
+    "x": "https://x.com/PsibotRobotics",
+    "linkedin": "https://www.linkedin.com/company/psibot/",
+    "youtube": "https://www.youtube.com/@PsibotRobotics",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "psibot-psibot-v1"
+    ],
+    "robots": [
+      "PsiBot V1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "richtech-robotics",
+    "company": "Richtech Robotics",
+    "country": "USA",
+    "website": "https://richtechrobotics.com/solutions/dex",
+    "x": "https://x.com/RichtechRobotic",
+    "linkedin": "https://www.linkedin.com/company/richtech-robotics",
+    "youtube": "https://www.youtube.com/@richtechrobotics",
+    "careers": "",
+    "stock": "Nasdaq: RR",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "richtech-robotics-dex"
+    ],
+    "robots": [
+      "Dex"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "roboscience",
+    "company": "RoboScience",
+    "country": "China (Beijing)",
+    "website": "https://www.robosci.com/rex-g1/",
+    "x": "https://x.com/robo_sci",
+    "linkedin": "https://www.linkedin.com/company/roboscience/",
+    "youtube": "https://www.youtube.com/@robo_sci",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "roboscience-rex-g1"
+    ],
+    "robots": [
+      "REX G1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "starbot",
+    "company": "StarBot",
+    "country": "USA",
+    "website": "https://www.starbotusa.com/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/starbotusa/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "starbot-starbot-astra",
+      "starbot-starbot-flex"
+    ],
+    "robots": [
+      "StarBot Astra",
+      "StarBot Flex"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "svaya-robotics",
+    "company": "Svaya Robotics",
+    "country": "India",
+    "website": "https://svayarobotics.com/product/",
+    "x": "",
+    "linkedin": "https://www.linkedin.com/company/svayarobotics-pvt-ltd",
+    "youtube": "https://www.youtube.com/@SvayaRobotics",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "svaya-robotics-bimanual-humanoid-robot"
+    ],
+    "robots": [
+      "Bimanual Humanoid Robot"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "tlibot",
+    "company": "Tlibot",
+    "country": "China (Sichuan)",
+    "website": "https://www.tlibot.com/cpzx/6.html",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "tlibot-tlibot-t1"
+    ],
+    "robots": [
+      "TLIBOT T1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "ugo",
+    "company": "ugo",
+    "country": "Japan",
+    "website": "https://ugo.plus/ai/ugo-nova/",
+    "x": "https://x.com/ugo_robot",
+    "linkedin": "https://www.linkedin.com/company/ugo-inc/",
+    "youtube": "https://www.youtube.com/channel/UCxCjsxqXzSaUrMq_-0v6DYg",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "ugo-ugo-nova"
+    ],
+    "robots": [
+      "ugo Nova"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "x-humanoid",
+    "company": "X-Humanoid",
+    "country": "China (Beijing)",
+    "website": "https://www.x-humanoid.com/detail/jstg.html",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "x-humanoid-tien-kung-3-0",
+      "x-humanoid-tian-yi-2-0",
+      "x-humanoid-tiangong-omni"
+    ],
+    "robots": [
+      "Tien Kung 3.0",
+      "Tian Yi 2.0",
+      "TianGong Omni"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 3
+  },
+  {
+    "id": "zerith-robotics",
+    "company": "Zerith Robotics",
+    "country": "China",
+    "website": "https://www.zerith.com/product/ZerithH1/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "zerith-robotics-zerith-h1"
+    ],
+    "robots": [
+      "Zerith H1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "zeroth-robotics",
+    "company": "Zeroth Robotics",
+    "country": "China",
+    "website": "https://www.zeroth0.com/products/jupiter",
+    "x": "https://x.com/zeroth_2025",
+    "linkedin": "https://www.linkedin.com/company/the-zeroth-offcial/",
+    "youtube": "https://www.youtube.com/@zeroth_official_2025",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "zeroth-robotics-jupiter"
+    ],
+    "robots": [
+      "Jupiter"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "zj-humanoid",
+    "company": "ZJ Humanoid",
+    "country": "China (Zhejiang)",
+    "website": "https://www.zj-humanoid.com/zujian/2",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "zj-humanoid-naviai-i3",
+      "zj-humanoid-naviai-wa2"
+    ],
+    "robots": [
+      "NAVIAI i3",
+      "NAVIAI WA2"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 2
+  },
+  {
+    "id": "westlake-robotics",
+    "company": "Westlake Robotics",
+    "country": "China (Hangzhou)",
+    "website": "https://wlrobo.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "westlake-robotics-westlake-o1"
+    ],
+    "robots": [
+      "Westlake o1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "mirsee-robotics",
+    "company": "Mirsee Robotics",
+    "country": "Canada (Cambridge, Ontario)",
+    "website": "https://www.mirsee.com/",
+    "x": "",
+    "linkedin": "",
+    "youtube": "",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "mirsee-robotics-mh3"
+    ],
+    "robots": [
+      "MH3"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "geek",
+    "company": "Geek+",
+    "country": "China",
+    "website": "https://www.geekplus.com/en",
+    "x": "https://x.com/geekplusrobot",
+    "linkedin": "https://www.linkedin.com/company/geekplusrobotics",
+    "youtube": "https://www.youtube.com/c/GeekPlusLogisticsWarehouseAutomation",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "geek-gino-1"
+    ],
+    "robots": [
+      "Gino 1"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "techman-robot",
+    "company": "Techman Robot",
+    "country": "Taiwan",
+    "website": "https://www.tm-robot.com/en/",
+    "x": "https://x.com/techmanrobot",
+    "linkedin": "https://www.linkedin.com/company/techmanrobot/",
+    "youtube": "https://www.youtube.com/@TechmanRobot",
+    "careers": "",
+    "stock": "Not verified",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "techman-robot-tm-xplore-i"
+    ],
+    "robots": [
+      "TM Xplore I"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
