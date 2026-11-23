@@ -5,7 +5,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1Cg8FNh8ZeMopfQTM5oCF_E87Jxe27z8R54a8XRjKlxQ/gviz/tq?tqx=out:csv&gid=973484009",
     "source_type": "google_sheets_csv_export",
     "evidence_level": "database",
-    "updated_at": "2026-11-22T13:24:21.180Z",
+    "updated_at": "2026-11-23T16:04:25.882Z",
     "notes": "Primary working export for the current data package."
   },
   {
@@ -15,7 +15,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "1x-neo-home-robot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-1x-tech",
@@ -24,7 +24,7 @@
     "source_type": "social_profile",
     "related_record_id": "1x-neo-home-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-1x-technologies",
@@ -33,7 +33,7 @@
     "source_type": "social_profile",
     "related_record_id": "1x-neo-home-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-burluuxv9ge",
@@ -42,7 +42,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "1x-neo-home-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "1x-tech-careers",
@@ -51,7 +51,7 @@
     "source_type": "careers_page",
     "related_record_id": "1x-neo-home-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "eng-arobot4all-com",
@@ -60,7 +60,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "aeirobot-alice",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-102106873",
@@ -69,7 +69,7 @@
     "source_type": "social_profile",
     "related_record_id": "aeirobot-alice",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-arobotchannel",
@@ -78,7 +78,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "aeirobot-alice",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "aeolusbot-com",
@@ -87,7 +87,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "aeolus-aeo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-aeolusrobotics",
@@ -96,7 +96,7 @@
     "source_type": "social_profile",
     "related_record_id": "aeolus-aeo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-c-t-mrx4e4a",
@@ -105,7 +105,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "aeolus-aeo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "aeolusbot-com-about-careers",
@@ -114,7 +114,7 @@
     "source_type": "careers_page",
     "related_record_id": "aeolus-aeo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agibot-com",
@@ -123,7 +123,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agibot-x1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-agibot-zhiyuan",
@@ -132,7 +132,7 @@
     "source_type": "social_profile",
     "related_record_id": "agibot-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-agibot",
@@ -141,7 +141,7 @@
     "source_type": "social_profile",
     "related_record_id": "agibot-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-dqhgv3hrnl0",
@@ -150,7 +150,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "agibot-x1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agile-robots-com",
@@ -159,7 +159,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agile-one",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-agile-robots-se",
@@ -168,7 +168,7 @@
     "source_type": "social_profile",
     "related_record_id": "agile-one",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-agile-robots",
@@ -177,7 +177,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "agile-one",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agile-robots-com-en-career",
@@ -186,7 +186,7 @@
     "source_type": "careers_page",
     "related_record_id": "agile-one",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agilityrobotics-com",
@@ -195,7 +195,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agility-digit-5-in-development",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-agilityrobotics",
@@ -204,7 +204,7 @@
     "source_type": "social_profile",
     "related_record_id": "agility-digit-5-in-development",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-agilityrobotics",
@@ -213,7 +213,7 @@
     "source_type": "social_profile",
     "related_record_id": "agility-digit-5-in-development",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-rnfzab9ogee",
@@ -222,7 +222,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "agility-digit-5-in-development",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agilityrobotics-com-careers",
@@ -231,7 +231,7 @@
     "source_type": "careers_page",
     "related_record_id": "agility-digit-5-in-development",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "apptronik-com-apollo-apollo-2",
@@ -240,7 +240,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "apptronik-apollo-2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-apptronik",
@@ -249,7 +249,7 @@
     "source_type": "social_profile",
     "related_record_id": "apptronik-apollo-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-apptronik-inc",
@@ -258,7 +258,7 @@
     "source_type": "social_profile",
     "related_record_id": "apptronik-apollo-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-pymvnott6nw",
@@ -267,7 +267,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "apptronik-apollo-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "apptronik-com-careers",
@@ -276,7 +276,7 @@
     "source_type": "careers_page",
     "related_record_id": "apptronik-apollo-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "argonmech-com",
@@ -285,7 +285,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "argon-one",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-argon-mechatronics",
@@ -294,7 +294,7 @@
     "source_type": "social_profile",
     "related_record_id": "argon-one",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "arx-x-com",
@@ -303,7 +303,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "arx-x7",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-arxrobotics",
@@ -312,7 +312,7 @@
     "source_type": "social_profile",
     "related_record_id": "arx-x7",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-edhtxj8chkg",
@@ -321,7 +321,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "arx-x7",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "astribot-com",
@@ -330,7 +330,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "astribot-s1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-astribot-inc",
@@ -339,7 +339,7 @@
     "source_type": "social_profile",
     "related_record_id": "astribot-s1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-astribot",
@@ -348,7 +348,7 @@
     "source_type": "social_profile",
     "related_record_id": "astribot-s1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-6x-s4qsn1z4",
@@ -357,7 +357,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "astribot-s1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "astribot-com-careers",
@@ -366,7 +366,7 @@
     "source_type": "careers_page",
     "related_record_id": "astribot-s1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "beyondimagination-com",
@@ -375,7 +375,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "beyond-imagination-beomni",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-beyond-imagination-inc",
@@ -384,7 +384,7 @@
     "source_type": "social_profile",
     "related_record_id": "beyond-imagination-beomni",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "boardwalkrobotics-com",
@@ -393,7 +393,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "boardwalk-alex",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-boardwalkrobot",
@@ -402,7 +402,7 @@
     "source_type": "social_profile",
     "related_record_id": "boardwalk-alex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-boardwalk-robotics",
@@ -411,7 +411,7 @@
     "source_type": "social_profile",
     "related_record_id": "boardwalk-alex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-td3fnzug2kq",
@@ -420,7 +420,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "boardwalk-alex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "boardwalkrobotics-com-careers",
@@ -429,7 +429,7 @@
     "source_type": "careers_page",
     "related_record_id": "boardwalk-alex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "boosterobotics-com",
@@ -438,7 +438,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "booster-t1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-boosterobotics",
@@ -447,7 +447,7 @@
     "source_type": "social_profile",
     "related_record_id": "booster-k1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-booster-robotics",
@@ -456,7 +456,7 @@
     "source_type": "social_profile",
     "related_record_id": "booster-k1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-djuwg9xqaq4",
@@ -465,7 +465,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "booster-t1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "borgrobotic-com",
@@ -474,7 +474,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "borg-borg-01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-borgrobotic",
@@ -483,7 +483,7 @@
     "source_type": "social_profile",
     "related_record_id": "borg-borg-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-borgrobotics",
@@ -492,7 +492,7 @@
     "source_type": "social_profile",
     "related_record_id": "borg-borg-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-r7txgu3cxpg",
@@ -501,7 +501,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "borg-borg-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "bostondynamics-com-products-atlas",
@@ -510,7 +510,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "boston-dynamics-atlas-industrial-electric",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-bostondynamics",
@@ -519,7 +519,7 @@
     "source_type": "social_profile",
     "related_record_id": "boston-dynamics-atlas-industrial-electric",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-boston-dynamics",
@@ -528,7 +528,7 @@
     "source_type": "social_profile",
     "related_record_id": "boston-dynamics-atlas-industrial-electric",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-e1-qhj1ehq",
@@ -537,7 +537,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "boston-dynamics-atlas-industrial-electric",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "bostondynamics-com-careers",
@@ -546,7 +546,7 @@
     "source_type": "careers_page",
     "related_record_id": "boston-dynamics-atlas-industrial-electric",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "cartwheelrobotics-com",
@@ -555,7 +555,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "cartwheel-yogi",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-cartwheel-robotics",
@@ -564,7 +564,7 @@
     "source_type": "social_profile",
     "related_record_id": "cartwheel-yogi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "clonerobotics-com",
@@ -573,7 +573,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "clone-clone",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-clonerobotics",
@@ -582,7 +582,7 @@
     "source_type": "social_profile",
     "related_record_id": "clone-clone",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-clonerobotics",
@@ -591,7 +591,7 @@
     "source_type": "social_profile",
     "related_record_id": "clone-clone",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-gl0gnzpiol4",
@@ -600,7 +600,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "clone-clone",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "clonerobotics-com-company",
@@ -609,7 +609,7 @@
     "source_type": "careers_page",
     "related_record_id": "clone-clone",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "co-bot",
@@ -618,7 +618,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "cobot-proxie",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-co-bot",
@@ -627,7 +627,7 @@
     "source_type": "social_profile",
     "related_record_id": "cobot-proxie",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "deeprobotics-cn-en-index-humanoid-html",
@@ -636,7 +636,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "deep-dr01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-deeprobotics-cn",
@@ -645,7 +645,7 @@
     "source_type": "social_profile",
     "related_record_id": "deep-dr02",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-deep-robotics",
@@ -654,7 +654,7 @@
     "source_type": "social_profile",
     "related_record_id": "deep-dr02",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-lcfyfh3mloq",
@@ -663,7 +663,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "deep-dr01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "deeprobotics-cn-join-us-html",
@@ -672,7 +672,7 @@
     "source_type": "careers_page",
     "related_record_id": "deep-dr02",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "devanthro-com",
@@ -681,7 +681,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "devanthro-robody",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-robodies",
@@ -690,7 +690,7 @@
     "source_type": "social_profile",
     "related_record_id": "devanthro-robody",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-devanthro",
@@ -699,7 +699,7 @@
     "source_type": "social_profile",
     "related_record_id": "devanthro-robody",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-hk-ai0wwj0o",
@@ -708,7 +708,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "devanthro-robody",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "devanthro-com-career",
@@ -717,7 +717,7 @@
     "source_type": "careers_page",
     "related_record_id": "devanthro-robody",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "dexmate-ai",
@@ -726,7 +726,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "dexmate-vega",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-dexmateai",
@@ -735,7 +735,7 @@
     "source_type": "social_profile",
     "related_record_id": "dexmate-vega",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-dexmate",
@@ -744,7 +744,7 @@
     "source_type": "social_profile",
     "related_record_id": "dexmate-vega",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-pecqfijnwqi",
@@ -753,7 +753,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "dexmate-vega",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "jobs-ashbyhq-com-dexmate",
@@ -762,7 +762,7 @@
     "source_type": "careers_page",
     "related_record_id": "dexmate-vega",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "diligentrobots-com",
@@ -771,7 +771,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "diligent-moxi",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-diligentrobots",
@@ -780,7 +780,7 @@
     "source_type": "social_profile",
     "related_record_id": "diligent-moxi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-diligent-robotics",
@@ -789,7 +789,7 @@
     "source_type": "social_profile",
     "related_record_id": "diligent-moxi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-nxgs-2b1ak",
@@ -798,7 +798,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "diligent-moxi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "diligentrobots-com-join-our-team-1",
@@ -807,7 +807,7 @@
     "source_type": "careers_page",
     "related_record_id": "diligent-moxi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "dobot-robots-com",
@@ -816,7 +816,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "dobot-atom",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-dobotrobotics",
@@ -825,7 +825,7 @@
     "source_type": "social_profile",
     "related_record_id": "dobot-atom",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-dobotrobotics",
@@ -834,7 +834,7 @@
     "source_type": "social_profile",
     "related_record_id": "dobot-atom",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-dobotrobotics",
@@ -843,7 +843,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "dobot-atom",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "openarm-dev",
@@ -852,7 +852,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "enactic-openarm-2-0-arms",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-enactic-ai",
@@ -861,7 +861,7 @@
     "source_type": "social_profile",
     "related_record_id": "enactic-openarm-2-0-arms",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-enactic",
@@ -870,7 +870,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "enactic-openarm-2-0-arms",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "enchanted-tools",
@@ -879,7 +879,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "enchanted-mirokai",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-enchantedtools",
@@ -888,7 +888,7 @@
     "source_type": "social_profile",
     "related_record_id": "enchanted-mirokai",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-enchantedtools",
@@ -897,7 +897,7 @@
     "source_type": "social_profile",
     "related_record_id": "enchanted-mirokai",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "enchanted-tools-jobs",
@@ -906,7 +906,7 @@
     "source_type": "careers_page",
     "related_record_id": "enchanted-mirokai",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "engineai-com-cn",
@@ -915,7 +915,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "engineai-se01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-engineairobot",
@@ -924,7 +924,7 @@
     "source_type": "social_profile",
     "related_record_id": "engineai-t800",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-engineai-robotics",
@@ -933,7 +933,7 @@
     "source_type": "social_profile",
     "related_record_id": "engineai-t800",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-j-umnh-f7cu",
@@ -942,7 +942,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "engineai-se01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "engineai-com-cn-career-html",
@@ -951,7 +951,7 @@
     "source_type": "careers_page",
     "related_record_id": "engineai-t800",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "engineeredarts-com-tritium-robots-ameca",
@@ -960,7 +960,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "engineered-arts-ameca",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-engineered-arts",
@@ -969,7 +969,7 @@
     "source_type": "social_profile",
     "related_record_id": "engineered-arts-ameca",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-engineered-arts-ltd",
@@ -978,7 +978,7 @@
     "source_type": "social_profile",
     "related_record_id": "engineered-arts-ameca",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-on3y-ikmgza",
@@ -987,7 +987,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "engineered-arts-ameca",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "codroid-ai-en",
@@ -996,7 +996,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "estun-codroid-codroid-02",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "figure-ai-figure",
@@ -1005,7 +1005,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "figure-figure-03",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-figure-robot",
@@ -1014,7 +1014,7 @@
     "source_type": "social_profile",
     "related_record_id": "figure-figure-03",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-figure-ai",
@@ -1023,7 +1023,7 @@
     "source_type": "social_profile",
     "related_record_id": "figure-figure-03",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-0srvjaog9co",
@@ -1032,7 +1032,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "figure-figure-03",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "figure-ai-careers",
@@ -1041,7 +1041,7 @@
     "source_type": "careers_page",
     "related_record_id": "figure-figure-03",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "foundation-bot",
@@ -1050,7 +1050,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "foundation-phantom-mk1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-foundation-robo",
@@ -1059,7 +1059,7 @@
     "source_type": "social_profile",
     "related_record_id": "foundation-phantom-mk1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-foundation-bot",
@@ -1068,7 +1068,7 @@
     "source_type": "social_profile",
     "related_record_id": "foundation-phantom-mk1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-i8euettvsum",
@@ -1077,7 +1077,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "foundation-phantom-mk1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "foundation-bot-careers",
@@ -1086,7 +1086,7 @@
     "source_type": "careers_page",
     "related_record_id": "foundation-phantom-mk1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "fftai-com",
@@ -1095,7 +1095,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "fourier-gr-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-fourierrobots",
@@ -1104,7 +1104,7 @@
     "source_type": "social_profile",
     "related_record_id": "fourier-gr-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-showcase-fourier-rehab",
@@ -1113,7 +1113,7 @@
     "source_type": "social_profile",
     "related_record_id": "fourier-gr-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-shpxcrblxn0",
@@ -1122,7 +1122,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "fourier-gr-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "gac-com-cn",
@@ -1131,7 +1131,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "gac-group-gomate",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "galaxea-dynamics-com",
@@ -1140,7 +1140,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "galaxea-r1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-galaxeadynamics",
@@ -1149,7 +1149,7 @@
     "source_type": "social_profile",
     "related_record_id": "galaxea-kengo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-galaxeadynamics",
@@ -1158,7 +1158,7 @@
     "source_type": "social_profile",
     "related_record_id": "galaxea-kengo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-galaxea-youtube",
@@ -1167,7 +1167,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "galaxea-kengo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "galbot-com",
@@ -1176,7 +1176,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "galbot-g1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-galbotrobotics",
@@ -1185,7 +1185,7 @@
     "source_type": "social_profile",
     "related_record_id": "galbot-et1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-galbot-robotics",
@@ -1194,7 +1194,7 @@
     "source_type": "social_profile",
     "related_record_id": "galbot-et1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-9ml9mochsqa",
@@ -1203,7 +1203,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "galbot-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "gbionics-ai",
@@ -1212,7 +1212,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "generative-bionics-gene-01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-g-bionics",
@@ -1221,7 +1221,7 @@
     "source_type": "social_profile",
     "related_record_id": "generative-bionics-gene-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-generative-bionics",
@@ -1230,7 +1230,7 @@
     "source_type": "social_profile",
     "related_record_id": "generative-bionics-gene-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-gbionics",
@@ -1239,7 +1239,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "generative-bionics-gene-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "genesis-ai",
@@ -1248,7 +1248,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "genesis-eno",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-gs-ai",
@@ -1257,7 +1257,7 @@
     "source_type": "social_profile",
     "related_record_id": "genesis-eno",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-gs-ai",
@@ -1266,7 +1266,7 @@
     "source_type": "social_profile",
     "related_record_id": "genesis-eno",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-genesisai-official",
@@ -1275,7 +1275,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "genesis-eno",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "genesis-ai-careers",
@@ -1284,7 +1284,7 @@
     "source_type": "careers_page",
     "related_record_id": "genesis-eno",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "goblinrobotics-com",
@@ -1293,7 +1293,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "goblin-gbln-01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-goblinrobotics",
@@ -1302,7 +1302,7 @@
     "source_type": "social_profile",
     "related_record_id": "goblin-gbln-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-goblinrobotics",
@@ -1311,7 +1311,7 @@
     "source_type": "social_profile",
     "related_record_id": "goblin-gbln-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-wxni1cegn1c",
@@ -1320,7 +1320,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "goblin-gbln-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "hansonrobotics-com",
@@ -1329,7 +1329,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "hanson-sophia",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-hanson-robotics",
@@ -1338,7 +1338,7 @@
     "source_type": "social_profile",
     "related_record_id": "hanson-sophia",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "heimarobotics-com",
@@ -1347,7 +1347,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "heima-a-d-a-m",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "hexagon-com-company-newsroom-press-releases-2025-hexagon-launches-aeon-a-humanoid-built-for-industry",
@@ -1356,7 +1356,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "hexagon-aeon",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-hexagonab",
@@ -1365,7 +1365,7 @@
     "source_type": "social_profile",
     "related_record_id": "hexagon-aeon",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "holiday-robotics-com",
@@ -1374,7 +1374,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "holiday-friday",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-holiday-robotics",
@@ -1383,7 +1383,7 @@
     "source_type": "social_profile",
     "related_record_id": "holiday-friday",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "igus-com-automation-news-humanoid-robot",
@@ -1392,7 +1392,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "igus-iggy-rob",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-132660",
@@ -1401,7 +1401,7 @@
     "source_type": "social_profile",
     "related_record_id": "igus-iggy-rob",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "igus-com-company-careers",
@@ -1410,7 +1410,7 @@
     "source_type": "careers_page",
     "related_record_id": "igus-iggy-rob",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robots-ihmc-us-nadia",
@@ -1419,7 +1419,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "ihmc-robotics-nadia",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-ihmcrobotics",
@@ -1428,7 +1428,7 @@
     "source_type": "social_profile",
     "related_record_id": "ihmc-robotics-nadia",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-ihmc-robotics",
@@ -1437,7 +1437,7 @@
     "source_type": "social_profile",
     "related_record_id": "ihmc-robotics-nadia",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robots-ihmc-us-jobs",
@@ -1446,7 +1446,7 @@
     "source_type": "careers_page",
     "related_record_id": "ihmc-robotics-nadia",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "inmoov-fr",
@@ -1455,7 +1455,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "inmoov-inmoov",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "intbot-ai",
@@ -1464,7 +1464,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "intbot-nylo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-intbotai",
@@ -1473,7 +1473,7 @@
     "source_type": "social_profile",
     "related_record_id": "intbot-nylo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-41nrpjxldku",
@@ -1482,7 +1482,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "intbot-nylo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "shop-kscale-dev",
@@ -1491,7 +1491,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "k-scale-labs-k-bot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-kscalelabs",
@@ -1500,7 +1500,7 @@
     "source_type": "social_profile",
     "related_record_id": "k-scale-labs-k-bot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-kscale",
@@ -1509,7 +1509,7 @@
     "source_type": "social_profile",
     "related_record_id": "k-scale-labs-k-bot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "gotokepler-com-home",
@@ -1518,7 +1518,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "kepler-forerunner-k1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-botkepler",
@@ -1527,7 +1527,7 @@
     "source_type": "social_profile",
     "related_record_id": "kepler-forerunner-k2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-kepler-exploration-robotics",
@@ -1536,7 +1536,7 @@
     "source_type": "social_profile",
     "related_record_id": "kepler-forerunner-k2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-a5vshtgdbke",
@@ -1545,7 +1545,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "kepler-forerunner-k2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "bearrobotics-ai-kinisi",
@@ -1554,7 +1554,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "kinisi-kinisi-bear-robotics-offering",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-kinisirobotics",
@@ -1563,7 +1563,7 @@
     "source_type": "social_profile",
     "related_record_id": "kinisi-kinisi-bear-robotics-offering",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-bear-robotics-inc",
@@ -1572,7 +1572,7 @@
     "source_type": "social_profile",
     "related_record_id": "kinisi-kinisi-bear-robotics-offering",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-bearroboticsinc",
@@ -1581,7 +1581,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "kinisi-kinisi-bear-robotics-offering",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lejurobot-com-en",
@@ -1590,7 +1590,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "leju-kuavo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-lejurobotics",
@@ -1599,7 +1599,7 @@
     "source_type": "social_profile",
     "related_record_id": "leju-kuavo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-lejurobotics",
@@ -1608,7 +1608,7 @@
     "source_type": "social_profile",
     "related_record_id": "leju-kuavo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "solutions-lg-com-us-robots",
@@ -1617,7 +1617,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "lg-kapex-co-developed-with-kist-and-lg-ai-research",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "limxdynamics-com-en",
@@ -1626,7 +1626,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "limx-oli",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-limx-dynamics",
@@ -1635,7 +1635,7 @@
     "source_type": "social_profile",
     "related_record_id": "limx-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-limx-dynamics",
@@ -1644,7 +1644,7 @@
     "source_type": "social_profile",
     "related_record_id": "limx-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-sihidej4hmk",
@@ -1653,7 +1653,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "limx-oli",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "career-limxdynamics-com-index",
@@ -1662,7 +1662,7 @@
     "source_type": "careers_page",
     "related_record_id": "limx-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lumosbot-tech",
@@ -1671,7 +1671,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "lumos-lus",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-lumosrobotics",
@@ -1680,7 +1680,7 @@
     "source_type": "social_profile",
     "related_record_id": "lumos-lus",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-lumosrobotics",
@@ -1689,7 +1689,7 @@
     "source_type": "social_profile",
     "related_record_id": "lumos-lus",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-lumos-robotics",
@@ -1698,7 +1698,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "lumos-lus",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lumosbot-tech-careers",
@@ -1707,7 +1707,7 @@
     "source_type": "careers_page",
     "related_record_id": "lumos-lus",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "magiclab-top",
@@ -1716,7 +1716,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "magiclab-magicbot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-magiclab-robot",
@@ -1725,7 +1725,7 @@
     "source_type": "social_profile",
     "related_record_id": "magiclab-magicbot-z1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-magiclabrobotics",
@@ -1734,7 +1734,7 @@
     "source_type": "social_profile",
     "related_record_id": "magiclab-magicbot-z1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-npfachquvec",
@@ -1743,7 +1743,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "magiclab-magicbot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "menteebot-com-bot",
@@ -1752,7 +1752,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "mentee-menteebot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-menteebot",
@@ -1761,7 +1761,7 @@
     "source_type": "social_profile",
     "related_record_id": "mentee-menteebot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-mentee-robotics",
@@ -1770,7 +1770,7 @@
     "source_type": "social_profile",
     "related_record_id": "mentee-menteebot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-z3t9s1arbdk",
@@ -1779,7 +1779,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "mentee-menteebot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "menteebot-com-careers",
@@ -1788,7 +1788,7 @@
     "source_type": "careers_page",
     "related_record_id": "mentee-menteebot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "neura-robotics-com",
@@ -1797,7 +1797,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "neura-4ne1-gen-4-announced",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-neurarobotics",
@@ -1806,7 +1806,7 @@
     "source_type": "social_profile",
     "related_record_id": "neura-4ne1-gen-4-announced",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-neura-robotics",
@@ -1815,7 +1815,7 @@
     "source_type": "social_profile",
     "related_record_id": "neura-4ne1-gen-4-announced",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-rpphfszxqbm",
@@ -1824,7 +1824,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "neura-4ne1-gen-4-announced",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "neura-robotics-com-careers",
@@ -1833,7 +1833,7 @@
     "source_type": "careers_page",
     "related_record_id": "neura-4ne1-gen-4-announced",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "en-noetixrobotics-com-products-html",
@@ -1842,7 +1842,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "noetix-dora",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-therealnoetix",
@@ -1851,7 +1851,7 @@
     "source_type": "social_profile",
     "related_record_id": "noetix-dora",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-noetix-robotics",
@@ -1860,7 +1860,7 @@
     "source_type": "social_profile",
     "related_record_id": "noetix-dora",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "oversonicrobotics-com",
@@ -1869,7 +1869,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "oversonic-robee",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-oversonic-robotics-group",
@@ -1878,7 +1878,7 @@
     "source_type": "social_profile",
     "related_record_id": "oversonic-robee",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-oversonicrobotics",
@@ -1887,7 +1887,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "oversonic-robee",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "oversonicrobotics-com-careers",
@@ -1896,7 +1896,7 @@
     "source_type": "careers_page",
     "related_record_id": "oversonic-robee",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pal-robotics-com-robot-talos",
@@ -1905,7 +1905,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pal-talos",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-palrobotics",
@@ -1914,7 +1914,7 @@
     "source_type": "social_profile",
     "related_record_id": "pal-kangaroo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-pal-robotics",
@@ -1923,7 +1923,7 @@
     "source_type": "social_profile",
     "related_record_id": "pal-kangaroo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-zquufueu83a",
@@ -1932,7 +1932,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pal-talos",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pal-robotics-com-who-we-are-careers",
@@ -1941,7 +1941,7 @@
     "source_type": "careers_page",
     "related_record_id": "pal-kangaroo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "phybot-tech",
@@ -1950,7 +1950,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "phybot-m1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-phybot-tech",
@@ -1959,7 +1959,7 @@
     "source_type": "social_profile",
     "related_record_id": "phybot-m1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "physicalrobotics-com",
@@ -1968,7 +1968,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "physical-robotics-pi",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-pi-robots",
@@ -1977,7 +1977,7 @@
     "source_type": "social_profile",
     "related_record_id": "physical-robotics-pi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-physicalrobotics",
@@ -1986,7 +1986,7 @@
     "source_type": "social_profile",
     "related_record_id": "physical-robotics-pi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucn9-jb75lld454-wopqgckw",
@@ -1995,7 +1995,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "physical-robotics-pi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "physicalrobotics-com-career",
@@ -2004,7 +2004,7 @@
     "source_type": "careers_page",
     "related_record_id": "physical-robotics-pi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pib-rocks",
@@ -2013,7 +2013,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pib-pib",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-showcase-80548838",
@@ -2022,7 +2022,7 @@
     "source_type": "social_profile",
     "related_record_id": "pib-pib",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-uczvob-xlpcjgm2vbrp-sqkw",
@@ -2031,7 +2031,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pib-pib",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pndbotics-com",
@@ -2040,7 +2040,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pndbotics-adam",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-pndbotics",
@@ -2049,7 +2049,7 @@
     "source_type": "social_profile",
     "related_record_id": "pndbotics-adam",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-pndbotics",
@@ -2058,7 +2058,7 @@
     "source_type": "social_profile",
     "related_record_id": "pndbotics-adam",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-pzxb-va0qno",
@@ -2067,7 +2067,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pndbotics-adam",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pollen-robotics-com-reachy-2",
@@ -2076,7 +2076,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pollen-reachy-2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-pollenrobotics",
@@ -2085,7 +2085,7 @@
     "source_type": "social_profile",
     "related_record_id": "pollen-reachy-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-pollen-robotics",
@@ -2094,7 +2094,7 @@
     "source_type": "social_profile",
     "related_record_id": "pollen-reachy-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-t3rdwdkza9c",
@@ -2103,7 +2103,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pollen-reachy-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pudurobotics-com-it-news-917",
@@ -2112,7 +2112,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pudu-d7",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-pudurobotics",
@@ -2121,7 +2121,7 @@
     "source_type": "social_profile",
     "related_record_id": "pudu-d9",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-pudurobotics",
@@ -2130,7 +2130,7 @@
     "source_type": "social_profile",
     "related_record_id": "pudu-d9",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-cba9wa9etga",
@@ -2139,7 +2139,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pudu-d7",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "technode-com-2024-07-05-qinglong-chinas-first-full-sized-general-purpose-humanoid-robot-unveiled-at-world-artificial-intelligence-conference-2024",
@@ -2148,7 +2148,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "qinglong-qinglong",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-ilwg5zknoz8",
@@ -2157,7 +2157,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "qinglong-qinglong",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "rainbow-robotics-com",
@@ -2166,7 +2166,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "rainbow-hubo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-rainbow-robotics",
@@ -2175,7 +2175,7 @@
     "source_type": "social_profile",
     "related_record_id": "rainbow-rb-y1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-kkr0ix0qany",
@@ -2184,7 +2184,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "rainbow-hubo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "rainbow-robotics-com-ec-b1-84-ec-9a-a9",
@@ -2193,7 +2193,7 @@
     "source_type": "careers_page",
     "related_record_id": "rainbow-rb-y1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "realbotix-com",
@@ -2202,7 +2202,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "realbotix-aria",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-realbotixcorp",
@@ -2211,7 +2211,7 @@
     "source_type": "social_profile",
     "related_record_id": "realbotix-aria",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-realbotixcorp",
@@ -2220,7 +2220,7 @@
     "source_type": "social_profile",
     "related_record_id": "realbotix-aria",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-4bq91og7vmm",
@@ -2229,7 +2229,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "realbotix-aria",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "reflexrobotics-com",
@@ -2238,7 +2238,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "reflex-reflex",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-reflexrobot",
@@ -2247,7 +2247,7 @@
     "source_type": "social_profile",
     "related_record_id": "reflex-reflex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-reflexrobotics",
@@ -2256,7 +2256,7 @@
     "source_type": "social_profile",
     "related_record_id": "reflex-reflex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-r2jpnpusppk",
@@ -2265,7 +2265,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "reflex-reflex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "reflexrobotics-com-careers",
@@ -2274,7 +2274,7 @@
     "source_type": "careers_page",
     "related_record_id": "reflex-reflex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "revobots-ai",
@@ -2283,7 +2283,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "revobots-taskbot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-revobots-ai",
@@ -2292,7 +2292,7 @@
     "source_type": "social_profile",
     "related_record_id": "revobots-taskbot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-revobots",
@@ -2301,7 +2301,7 @@
     "source_type": "social_profile",
     "related_record_id": "revobots-taskbot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robotera-com",
@@ -2310,7 +2310,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "robotera-star-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-roboterax",
@@ -2319,7 +2319,7 @@
     "source_type": "social_profile",
     "related_record_id": "robotera-star-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-robotera1",
@@ -2328,7 +2328,7 @@
     "source_type": "social_profile",
     "related_record_id": "robotera-star-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-nx2yo3twzys",
@@ -2337,7 +2337,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "robotera-star-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robot-com-r-noid",
@@ -2346,7 +2346,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "robot-com-r-noid",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-robotcom",
@@ -2355,7 +2355,7 @@
     "source_type": "social_profile",
     "related_record_id": "robot-com-r-noid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-robot-com",
@@ -2364,7 +2364,7 @@
     "source_type": "social_profile",
     "related_record_id": "robot-com-r-noid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robot-com-careers",
@@ -2373,7 +2373,7 @@
     "source_type": "careers_page",
     "related_record_id": "robot-com-r-noid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robotis-us",
@@ -2382,7 +2382,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "robotis-k0",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-robotisamerica",
@@ -2391,7 +2391,7 @@
     "source_type": "social_profile",
     "related_record_id": "robotis-k0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-robotis",
@@ -2400,7 +2400,7 @@
     "source_type": "social_profile",
     "related_record_id": "robotis-k0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-robotisus",
@@ -2409,7 +2409,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "robotis-k0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robros-co-kr",
@@ -2418,7 +2418,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "robros-igris",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-robros",
@@ -2427,7 +2427,7 @@
     "source_type": "social_profile",
     "related_record_id": "robros-igris",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-rqblrpunlhc",
@@ -2436,7 +2436,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "robros-igris",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sanctuary-ai-resources-news-sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work",
@@ -2445,7 +2445,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "sanctuary-ai-phoenix",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-thesanctuaryai",
@@ -2454,7 +2454,7 @@
     "source_type": "social_profile",
     "related_record_id": "sanctuary-ai-phoenix",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-sanctuaryai",
@@ -2463,7 +2463,7 @@
     "source_type": "social_profile",
     "related_record_id": "sanctuary-ai-phoenix",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-hizp4uqvug",
@@ -2472,7 +2472,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "sanctuary-ai-phoenix",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sanctuary-ai-careers",
@@ -2481,7 +2481,7 @@
     "source_type": "careers_page",
     "related_record_id": "sanctuary-ai-phoenix",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sharpa-com",
@@ -2490,7 +2490,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "sharpa-droid-d01-wave-hands",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-sharparobotics",
@@ -2499,7 +2499,7 @@
     "source_type": "social_profile",
     "related_record_id": "sharpa-droid-d01-wave-hands",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-sharpa-robotics",
@@ -2508,7 +2508,7 @@
     "source_type": "social_profile",
     "related_record_id": "sharpa-droid-d01-wave-hands",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-sharparobotics",
@@ -2517,7 +2517,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "sharpa-droid-d01-wave-hands",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sharpa-com-pages-careers",
@@ -2526,7 +2526,7 @@
     "source_type": "careers_page",
     "related_record_id": "sharpa-droid-d01-wave-hands",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "skild-ai",
@@ -2535,7 +2535,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "skild-skild-brain-s1-software",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-skildai",
@@ -2544,7 +2544,7 @@
     "source_type": "social_profile",
     "related_record_id": "skild-skild-brain-s1-software",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-skild-ai",
@@ -2553,7 +2553,7 @@
     "source_type": "social_profile",
     "related_record_id": "skild-skild-brain-s1-software",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-skildai",
@@ -2562,7 +2562,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "skild-skild-brain-s1-software",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "skild-ai-career",
@@ -2571,7 +2571,7 @@
     "source_type": "careers_page",
     "related_record_id": "skild-skild-brain-s1-software",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "spirit-ai-com",
@@ -2580,7 +2580,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "spirit-moz",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-spiritai-robotics",
@@ -2589,7 +2589,7 @@
     "source_type": "social_profile",
     "related_record_id": "spirit-moz",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "spirit-ai-com-career",
@@ -2598,7 +2598,7 @@
     "source_type": "careers_page",
     "related_record_id": "spirit-moz",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "eu-switch-bot-com",
@@ -2607,7 +2607,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "switch-onero-h1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-switchbot",
@@ -2616,7 +2616,7 @@
     "source_type": "social_profile",
     "related_record_id": "switch-onero-h1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-c-switchbotofficial",
@@ -2625,7 +2625,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "switch-onero-h1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "tangiblerobots-ai",
@@ -2634,7 +2634,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "tangible-eggie",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-tangiblerobots",
@@ -2643,7 +2643,7 @@
     "source_type": "social_profile",
     "related_record_id": "tangible-eggie",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "tesla-com-ai",
@@ -2652,7 +2652,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "tesla-optimus-gen-2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-tesla-optimus",
@@ -2661,7 +2661,7 @@
     "source_type": "social_profile",
     "related_record_id": "tesla-optimus-gen-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-tesla-motors",
@@ -2670,7 +2670,7 @@
     "source_type": "social_profile",
     "related_record_id": "tesla-optimus-gen-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-fpegpf7jveq",
@@ -2679,7 +2679,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "tesla-optimus-gen-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "tesla-com-careers",
@@ -2688,7 +2688,7 @@
     "source_type": "careers_page",
     "related_record_id": "tesla-optimus-gen-2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "thehumanoid-ai",
@@ -2697,7 +2697,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "the-humanoid-hmnd-01-alpha-wheeled-bipedal",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-thehumanoidai",
@@ -2706,7 +2706,7 @@
     "source_type": "social_profile",
     "related_record_id": "the-humanoid-hmnd-01-alpha-wheeled-bipedal",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-humanoidai",
@@ -2715,7 +2715,7 @@
     "source_type": "social_profile",
     "related_record_id": "the-humanoid-hmnd-01-alpha-wheeled-bipedal",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-thehumanoidai",
@@ -2724,7 +2724,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "the-humanoid-hmnd-01-alpha-wheeled-bipedal",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "thehumanoid-ai-careers",
@@ -2733,7 +2733,7 @@
     "source_type": "careers_page",
     "related_record_id": "the-humanoid-hmnd-01-alpha-wheeled-bipedal",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "ti5robot-com-en",
@@ -2742,7 +2742,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "ti5robot-t230a",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robotics-tokyo",
@@ -2751,7 +2751,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "tokyo-torobo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-tokyo-robotics",
@@ -2760,7 +2760,7 @@
     "source_type": "social_profile",
     "related_record_id": "tokyo-torobo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-tokyo-robotics",
@@ -2769,7 +2769,7 @@
     "source_type": "social_profile",
     "related_record_id": "tokyo-torobo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-tokyorobotics9622",
@@ -2778,7 +2778,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "tokyo-torobo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "ubtrobot-com",
@@ -2787,7 +2787,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "ubtech-walker-s1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-ubtechrobotics",
@@ -2796,7 +2796,7 @@
     "source_type": "social_profile",
     "related_record_id": "ubtech-walker-s2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-ubtech-robotics",
@@ -2805,7 +2805,7 @@
     "source_type": "social_profile",
     "related_record_id": "ubtech-walker-s2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-ubbk18ozbtc",
@@ -2814,7 +2814,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "ubtech-walker-s1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unitree-com-en-h1",
@@ -2823,7 +2823,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "unitree-h1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-unitreerobotics",
@@ -2832,7 +2832,7 @@
     "source_type": "social_profile",
     "related_record_id": "unitree-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-unitreerobotics",
@@ -2841,7 +2841,7 @@
     "source_type": "social_profile",
     "related_record_id": "unitree-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtu-be-gtps-ygfaea",
@@ -2850,7 +2850,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "unitree-h1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unitree-com-position",
@@ -2859,7 +2859,7 @@
     "source_type": "careers_page",
     "related_record_id": "unitree-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unix-group-ai",
@@ -2868,7 +2868,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "unix-wanda",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-roboticsunixai",
@@ -2877,7 +2877,7 @@
     "source_type": "social_profile",
     "related_record_id": "unix-wanda",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-unix-ai",
@@ -2886,7 +2886,7 @@
     "source_type": "social_profile",
     "related_record_id": "unix-wanda",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-unixai-c7o",
@@ -2895,7 +2895,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "unix-wanda",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unix-group-ai-join-us",
@@ -2904,7 +2904,7 @@
     "source_type": "careers_page",
     "related_record_id": "unix-wanda",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "vanarrobots-com",
@@ -2913,7 +2913,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "vanar-generation-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-vanar-robots",
@@ -2922,7 +2922,7 @@
     "source_type": "social_profile",
     "related_record_id": "vanar-generation-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "vinmotion-net",
@@ -2931,7 +2931,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "vinmotion-motion",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-vinmotionglobal",
@@ -2940,7 +2940,7 @@
     "source_type": "social_profile",
     "related_record_id": "vinmotion-motion",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-vinmotion",
@@ -2949,7 +2949,7 @@
     "source_type": "social_profile",
     "related_record_id": "vinmotion-motion",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-vinmotionofficial",
@@ -2958,7 +2958,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "vinmotion-motion",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "vinmotion-net-en-careers",
@@ -2967,7 +2967,7 @@
     "source_type": "careers_page",
     "related_record_id": "vinmotion-motion",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "en-wandercraft-eu",
@@ -2976,7 +2976,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "wandercraft-calvin",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-wandercrafthq",
@@ -2985,7 +2985,7 @@
     "source_type": "social_profile",
     "related_record_id": "wandercraft-calvin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-wandercraft",
@@ -2994,7 +2994,7 @@
     "source_type": "social_profile",
     "related_record_id": "wandercraft-calvin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucwmhquumf87d-vsrre1-9a",
@@ -3003,7 +3003,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "wandercraft-calvin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "weaverobotics-com",
@@ -3012,7 +3012,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "weave-isaac",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-weaverobotics",
@@ -3021,7 +3021,7 @@
     "source_type": "social_profile",
     "related_record_id": "weave-isaac",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-weave-robotics",
@@ -3030,7 +3030,7 @@
     "source_type": "social_profile",
     "related_record_id": "weave-isaac",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-weaverobotics",
@@ -3039,7 +3039,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "weave-isaac",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "weaverobotics-com-careers",
@@ -3048,7 +3048,7 @@
     "source_type": "careers_page",
     "related_record_id": "weave-isaac",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "westwoodrobotics-io",
@@ -3057,7 +3057,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "westwood-themis",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-westwoodrobotics",
@@ -3066,7 +3066,7 @@
     "source_type": "social_profile",
     "related_record_id": "westwood-themis",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-svrrhsfkfle",
@@ -3075,7 +3075,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "westwood-themis",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "wirobotics-com",
@@ -3084,7 +3084,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "wirobotics-allex",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-wirobotics",
@@ -3093,7 +3093,7 @@
     "source_type": "social_profile",
     "related_record_id": "wirobotics-allex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x2robot-com-en-product-quantum2",
@@ -3102,7 +3102,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "x-square-quanta-x2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-xsquarerobot",
@@ -3111,7 +3111,7 @@
     "source_type": "social_profile",
     "related_record_id": "x-square-quanta-x2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-x-square-robot",
@@ -3120,7 +3120,7 @@
     "source_type": "social_profile",
     "related_record_id": "x-square-quanta-x2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-xsquarerobot",
@@ -3129,7 +3129,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "x-square-quanta-x2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x2robot-com-en-join",
@@ -3138,7 +3138,7 @@
     "source_type": "careers_page",
     "related_record_id": "x-square-quanta-x2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "mi-com-global-discover-article-id-2754",
@@ -3147,7 +3147,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "xiaomi-cyber-one",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-xiaomi",
@@ -3156,7 +3156,7 @@
     "source_type": "social_profile",
     "related_record_id": "xiaomi-cyber-one",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-i28q9czux2q",
@@ -3165,7 +3165,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "xiaomi-cyber-one",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "faunarobotics-com",
@@ -3174,7 +3174,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "fauna-sprout",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-faunarobotics",
@@ -3183,7 +3183,7 @@
     "source_type": "social_profile",
     "related_record_id": "fauna-sprout",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-fauna-robotics",
@@ -3192,7 +3192,7 @@
     "source_type": "social_profile",
     "related_record_id": "fauna-sprout",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-faunarobotics",
@@ -3201,7 +3201,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "fauna-sprout",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pxing-com-en-index",
@@ -3210,7 +3210,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "xpeng-next-gen-iron",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-xpengr",
@@ -3219,7 +3219,7 @@
     "source_type": "social_profile",
     "related_record_id": "xpeng-next-gen-iron",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-xpengmotorsglobal",
@@ -3228,7 +3228,7 @@
     "source_type": "social_profile",
     "related_record_id": "xpeng-next-gen-iron",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-watch-v-bnsz8fwcd20",
@@ -3237,7 +3237,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "xpeng-next-gen-iron",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "addverb-ai-elixis",
@@ -3246,7 +3246,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "addverb-elixis",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-addverb-tech",
@@ -3255,7 +3255,7 @@
     "source_type": "social_profile",
     "related_record_id": "addverb-elixis",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-addverb",
@@ -3264,7 +3264,7 @@
     "source_type": "social_profile",
     "related_record_id": "addverb-elixis",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-uca8aafoa0p-rqscn5sdlptq",
@@ -3273,7 +3273,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "addverb-elixis",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robotics-ff-com-us-ff-futurist",
@@ -3282,7 +3282,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "faraday-future-ff-futurist",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-faradayfuture",
@@ -3291,7 +3291,7 @@
     "source_type": "social_profile",
     "related_record_id": "faraday-future-ff-futurist",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-faradayfuture",
@@ -3300,7 +3300,7 @@
     "source_type": "social_profile",
     "related_record_id": "faraday-future-ff-futurist",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-c-faradayfuture",
@@ -3309,7 +3309,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "faraday-future-ff-futurist",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "peritas-ai",
@@ -3318,7 +3318,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "peritas-peri",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-peritasai",
@@ -3327,7 +3327,7 @@
     "source_type": "social_profile",
     "related_record_id": "peritas-peri",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "peritas-ai-careers",
@@ -3336,7 +3336,7 @@
     "source_type": "careers_page",
     "related_record_id": "peritas-peri",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "mindrobotics-com",
@@ -3345,7 +3345,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "mind-industrial-platform-model-unconfirmed",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-mindrobotics",
@@ -3354,7 +3354,7 @@
     "source_type": "social_profile",
     "related_record_id": "mind-industrial-platform-model-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "jobs-ashbyhq-com-mindrobotics",
@@ -3363,7 +3363,7 @@
     "source_type": "careers_page",
     "related_record_id": "mind-industrial-platform-model-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sudo-ai",
@@ -3372,7 +3372,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "sudo-sudo-r1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-sudo-robotics",
@@ -3381,7 +3381,7 @@
     "source_type": "social_profile",
     "related_record_id": "sudo-sudo-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-sudo-ai",
@@ -3390,7 +3390,7 @@
     "source_type": "social_profile",
     "related_record_id": "sudo-sudo-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-sudorobotics",
@@ -3399,7 +3399,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "sudo-sudo-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sudo-ai-careers",
@@ -3408,7 +3408,7 @@
     "source_type": "careers_page",
     "related_record_id": "sudo-sudo-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "kinetixai-tech-en",
@@ -3417,7 +3417,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "kinetix-kaibot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-kai-robotics",
@@ -3426,7 +3426,7 @@
     "source_type": "social_profile",
     "related_record_id": "kinetix-kaibot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-in-e5-8a-a8-e5-8a-9b-e8-b6-85-e7-bb-b4-a0260538a",
@@ -3435,7 +3435,7 @@
     "source_type": "social_profile",
     "related_record_id": "kinetix-kaibot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-kai-robotics",
@@ -3444,7 +3444,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "kinetix-kaibot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "orbitrobotics-ch",
@@ -3453,7 +3453,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "orbit-space-platform-model-unpublished",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-orbitrobotics",
@@ -3462,7 +3462,7 @@
     "source_type": "social_profile",
     "related_record_id": "orbit-space-platform-model-unpublished",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-orbitrobotics",
@@ -3471,7 +3471,7 @@
     "source_type": "social_profile",
     "related_record_id": "orbit-space-platform-model-unpublished",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-uc-e6nt7tlzj08adfz-uwp4q",
@@ -3480,7 +3480,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "orbit-space-platform-model-unpublished",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "twolabs-ai",
@@ -3489,7 +3489,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "twolabs-tobi",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-twolabsai",
@@ -3498,7 +3498,7 @@
     "source_type": "social_profile",
     "related_record_id": "twolabs-tobi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-twolabsai",
@@ -3507,7 +3507,7 @@
     "source_type": "social_profile",
     "related_record_id": "twolabs-tobi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-twolabsai",
@@ -3516,7 +3516,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "twolabs-tobi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "almond-bot",
@@ -3525,7 +3525,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "almond-axol",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-almond-robotics",
@@ -3534,7 +3534,7 @@
     "source_type": "social_profile",
     "related_record_id": "almond-axol",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-almondbot",
@@ -3543,7 +3543,7 @@
     "source_type": "social_profile",
     "related_record_id": "almond-axol",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-almond-bot",
@@ -3552,7 +3552,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "almond-axol",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "almond-bot-careers",
@@ -3561,7 +3561,7 @@
     "source_type": "careers_page",
     "related_record_id": "almond-axol",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "viberobotics-co",
@@ -3570,7 +3570,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "vibe-robotics-vibe-01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-vibe-robotics",
@@ -3579,7 +3579,7 @@
     "source_type": "social_profile",
     "related_record_id": "vibe-robotics-vibe-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-vibe-robotics-com",
@@ -3588,7 +3588,7 @@
     "source_type": "social_profile",
     "related_record_id": "vibe-robotics-vibe-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-viberobotics",
@@ -3597,7 +3597,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "vibe-robotics-vibe-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "viberobotics-co-careers",
@@ -3606,7 +3606,7 @@
     "source_type": "careers_page",
     "related_record_id": "vibe-robotics-vibe-01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "norirobotics-com",
@@ -3615,7 +3615,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "nori-nori-a3",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-norirobotics",
@@ -3624,7 +3624,7 @@
     "source_type": "social_profile",
     "related_record_id": "nori-nori-a3",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-norirobotics",
@@ -3633,7 +3633,7 @@
     "source_type": "social_profile",
     "related_record_id": "nori-nori-a3",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sunday-ai",
@@ -3642,7 +3642,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "sunday-memo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-sundayrobotics",
@@ -3651,7 +3651,7 @@
     "source_type": "social_profile",
     "related_record_id": "sunday-memo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-sundayrobotics",
@@ -3660,7 +3660,7 @@
     "source_type": "social_profile",
     "related_record_id": "sunday-memo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-sundayrobotics",
@@ -3669,7 +3669,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "sunday-memo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "sunday-ai-careers",
@@ -3678,7 +3678,7 @@
     "source_type": "careers_page",
     "related_record_id": "sunday-memo",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "waldenrobotics-com",
@@ -3687,7 +3687,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "walden-general-purpose-platform-name-unconfirmed",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-waldenrobotics",
@@ -3696,7 +3696,7 @@
     "source_type": "social_profile",
     "related_record_id": "walden-general-purpose-platform-name-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-waldenrobotics",
@@ -3705,7 +3705,7 @@
     "source_type": "social_profile",
     "related_record_id": "walden-general-purpose-platform-name-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-waldenrobotics",
@@ -3714,7 +3714,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "walden-general-purpose-platform-name-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "waldenrobotics-com-careers",
@@ -3723,7 +3723,7 @@
     "source_type": "careers_page",
     "related_record_id": "walden-general-purpose-platform-name-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "xyzcorp-imweb-me-deux",
@@ -3732,7 +3732,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "xyz-deux",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-xyzcorporation",
@@ -3741,7 +3741,7 @@
     "source_type": "social_profile",
     "related_record_id": "xyz-deux",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-uciiebyjcsrgv9tjqalmm0wg",
@@ -3750,7 +3750,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "xyz-deux",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lightberry-com-lumi",
@@ -3759,7 +3759,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "lightberry-lumi",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-lightberry",
@@ -3768,7 +3768,7 @@
     "source_type": "social_profile",
     "related_record_id": "lightberry-lumi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-lightberryinc",
@@ -3777,7 +3777,7 @@
     "source_type": "social_profile",
     "related_record_id": "lightberry-lumi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lightberry-com-careers",
@@ -3786,7 +3786,7 @@
     "source_type": "careers_page",
     "related_record_id": "lightberry-lumi",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pink-robotics-com",
@@ -3795,7 +3795,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pink-robotics-p0",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-pink-robotics-germany",
@@ -3804,7 +3804,7 @@
     "source_type": "social_profile",
     "related_record_id": "pink-robotics-p0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "nucleuslab-ai",
@@ -3813,7 +3813,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "nucleus-humanoid-service-model-unconfirmed",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-nucleus-robotics-ai",
@@ -3822,7 +3822,7 @@
     "source_type": "social_profile",
     "related_record_id": "nucleus-humanoid-service-model-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "nucleuslab-ai-careers",
@@ -3831,7 +3831,7 @@
     "source_type": "careers_page",
     "related_record_id": "nucleus-humanoid-service-model-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "feather-dev",
@@ -3840,7 +3840,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "feather-feather",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-featherrobotics",
@@ -3849,7 +3849,7 @@
     "source_type": "social_profile",
     "related_record_id": "feather-feather",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-feather-robotics",
@@ -3858,7 +3858,7 @@
     "source_type": "social_profile",
     "related_record_id": "feather-feather",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "feather-dev-careers",
@@ -3867,7 +3867,7 @@
     "source_type": "careers_page",
     "related_record_id": "feather-feather",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "o-id-net",
@@ -3876,7 +3876,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "o-id-o-id-modular-platform",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-oidinc",
@@ -3885,7 +3885,7 @@
     "source_type": "social_profile",
     "related_record_id": "o-id-o-id-modular-platform",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-o-id",
@@ -3894,7 +3894,7 @@
     "source_type": "social_profile",
     "related_record_id": "o-id-o-id-modular-platform",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "roboparty-com",
@@ -3903,7 +3903,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "roboparty-roboto-01-roboto-origin",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-roboparty-dev",
@@ -3912,7 +3912,7 @@
     "source_type": "social_profile",
     "related_record_id": "roboparty-roboto-01-roboto-origin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-roboparty-robotics",
@@ -3921,7 +3921,7 @@
     "source_type": "social_profile",
     "related_record_id": "roboparty-roboto-01-roboto-origin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-roboparty-org",
@@ -3930,7 +3930,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "roboparty-roboto-01-roboto-origin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "roboparty-com-join-us",
@@ -3939,7 +3939,7 @@
     "source_type": "careers_page",
     "related_record_id": "roboparty-roboto-01-roboto-origin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "flourish-robots-com",
@@ -3948,7 +3948,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "flourish-flourish-robot-model-name-unconfirmed",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-flourish-robots",
@@ -3957,7 +3957,7 @@
     "source_type": "social_profile",
     "related_record_id": "flourish-flourish-robot-model-name-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-flourish-robots",
@@ -3966,7 +3966,7 @@
     "source_type": "social_profile",
     "related_record_id": "flourish-flourish-robot-model-name-unconfirmed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "naturewill-ai",
@@ -3975,7 +3975,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "nature-will-natura-1-ai-model",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-naturewill",
@@ -3984,7 +3984,7 @@
     "source_type": "social_profile",
     "related_record_id": "nature-will-natura-1-ai-model",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-uc862odfovarm3ezmxhfddfw",
@@ -3993,7 +3993,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "nature-will-natura-1-ai-model",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "naturewill-ai-career",
@@ -4002,7 +4002,7 @@
     "source_type": "careers_page",
     "related_record_id": "nature-will-natura-1-ai-model",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "tuesdaylabs-com",
@@ -4011,7 +4011,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "tuesday-labs-voxel-series-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-roboticscorp",
@@ -4020,7 +4020,7 @@
     "source_type": "social_profile",
     "related_record_id": "tuesday-labs-voxel-series-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-tuesdaylabs",
@@ -4029,7 +4029,7 @@
     "source_type": "social_profile",
     "related_record_id": "tuesday-labs-voxel-series-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pokebot-com",
@@ -4038,7 +4038,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pokebot-home-robot-model-name-not-disclosed",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-pokebot-global",
@@ -4047,7 +4047,7 @@
     "source_type": "social_profile",
     "related_record_id": "pokebot-home-robot-model-name-not-disclosed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-pokebotrobotics",
@@ -4056,7 +4056,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pokebot-home-robot-model-name-not-disclosed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "app-mokahr-com-social-recruitment-pokebot-182184-locale-zh-cn",
@@ -4065,7 +4065,7 @@
     "source_type": "careers_page",
     "related_record_id": "pokebot-home-robot-model-name-not-disclosed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robotmabel-github-io-website-index-html",
@@ -4074,7 +4074,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "mabel-mabel",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "integrarobot-com",
@@ -4083,7 +4083,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "integrarobot-resource",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "darwinrobotics-ai",
@@ -4092,7 +4092,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "darwin-darwin-0",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-darwin-robotics",
@@ -4101,7 +4101,7 @@
     "source_type": "social_profile",
     "related_record_id": "darwin-darwin-0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-darwin-robotics-inc",
@@ -4110,7 +4110,7 @@
     "source_type": "social_profile",
     "related_record_id": "darwin-darwin-0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "darwinrobotics-ai-careers",
@@ -4119,7 +4119,7 @@
     "source_type": "careers_page",
     "related_record_id": "darwin-darwin-0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "press-asus-com-blog-factory-proven-physical-ai-asus-gallop-humanoid-robot",
@@ -4128,7 +4128,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "asus-gallop",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "twitter-com-asuspressroom",
@@ -4137,7 +4137,7 @@
     "source_type": "social_profile",
     "related_record_id": "asus-gallop",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-asus",
@@ -4146,7 +4146,7 @@
     "source_type": "social_profile",
     "related_record_id": "asus-gallop",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-user-asus",
@@ -4155,7 +4155,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "asus-gallop",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lg-com-global-newsroom-news-home-appliance-solution-lg-electronics-presents-lg-cloid-home-robot-to-demonstrate-zero-labor-home-at-ces-2026",
@@ -4164,7 +4164,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "lg-cloid",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-lg-electronics",
@@ -4173,7 +4173,7 @@
     "source_type": "social_profile",
     "related_record_id": "lg-cloid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-lgglobal",
@@ -4182,7 +4182,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "lg-cloid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "hiroindustries-com",
@@ -4191,7 +4191,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "hiro-industries-origin",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-hiroindustries",
@@ -4200,7 +4200,7 @@
     "source_type": "social_profile",
     "related_record_id": "hiro-industries-origin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-hiroindustries",
@@ -4209,7 +4209,7 @@
     "source_type": "social_profile",
     "related_record_id": "hiro-industries-origin",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unitree-com-g1",
@@ -4218,7 +4218,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "unitree-g1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-unitreerobotics",
@@ -4227,7 +4227,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "unitree-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unitree-com-h2",
@@ -4236,7 +4236,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "unitree-h2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unitree-com-h2-x",
@@ -4245,7 +4245,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "unitree-h2-x",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "unitree-com-r1",
@@ -4254,7 +4254,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "unitree-r1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "ubtrobot-com-en-humanoid-products-walker-s2",
@@ -4263,7 +4263,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "ubtech-walker-s2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agibot-com-products-a2-ultra",
@@ -4272,7 +4272,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agibot-a2-a2-ultra-a2-lite",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucukcqtxz-fe1pbrsiaqxr5a",
@@ -4281,7 +4281,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "agibot-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agibot-com-products-a3",
@@ -4290,7 +4290,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agibot-a3",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agibot-com-products-x2",
@@ -4299,7 +4299,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agibot-x2-x2-neo-x2-ultra",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agibot-com-products-g2",
@@ -4308,7 +4308,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agibot-g2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "agibot-com-products-g1",
@@ -4317,7 +4317,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "agibot-g1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "booster-tech-booster-t2",
@@ -4326,7 +4326,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "booster-t2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-boosterrobotics",
@@ -4335,7 +4335,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "booster-k1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "booster-tech-booster-k1",
@@ -4344,7 +4344,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "booster-k1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "en-engineai-com-cn-product-pm01",
@@ -4353,7 +4353,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "engineai-pm01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "en-engineai-com-cn-product-t800",
@@ -4362,7 +4362,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "engineai-t800",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pal-robotics-com-robot-ari",
@@ -4371,7 +4371,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pal-ari",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pal-robotics-com-robot-tiago-pro",
@@ -4380,7 +4380,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pal-tiago-pro",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pal-robotics-com-robot-kangaroo",
@@ -4389,7 +4389,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pal-kangaroo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "pudurobotics-com-en-products-d9",
@@ -4398,7 +4398,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pudu-d9",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucylr5trvv9y-lws5ambqvtw",
@@ -4407,7 +4407,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pudu-d9",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "limxdynamics-com-en-products-luna",
@@ -4416,7 +4416,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "limx-luna",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-limxdynamics",
@@ -4425,7 +4425,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "limx-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "galbot-com-s1",
@@ -4434,7 +4434,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "galbot-s1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-uctwk-1gf-hoocxs-duirrow",
@@ -4443,7 +4443,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "galbot-et1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "galbot-com-et1",
@@ -4452,7 +4452,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "galbot-et1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "deeprobotics-cn-en-products-detail-5-html",
@@ -4461,7 +4461,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "deep-dr02",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "magiclab-top-en-z1",
@@ -4470,7 +4470,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "magiclab-magicbot-z1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "galaxea-dynamics-com-products-galaxea-kengo-proprietary-embodied-ai-bipedal-robot",
@@ -4479,7 +4479,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "galaxea-kengo",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "rainbow-robotics-com-products-rb-y1",
@@ -4488,7 +4488,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "rainbow-rb-y1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-rainbowrobotics",
@@ -4497,7 +4497,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "rainbow-rb-y1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "aheadform-com",
@@ -4506,7 +4506,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "aheadform-elf-xuan-2-0",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-105562189",
@@ -4515,7 +4515,7 @@
     "source_type": "social_profile",
     "related_record_id": "aheadform-elf-xuan-2-0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-aheadform",
@@ -4524,7 +4524,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "aheadform-elf-xuan-2-0",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "aidoltech-ru",
@@ -4533,7 +4533,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "aidol-aidol-walking-version",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-aidoltech",
@@ -4542,7 +4542,7 @@
     "source_type": "social_profile",
     "related_record_id": "aidol-aidol-walking-version",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "anigon-ch",
@@ -4551,7 +4551,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "anigon-fa-l-series",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-anigon",
@@ -4560,7 +4560,7 @@
     "source_type": "social_profile",
     "related_record_id": "anigon-fa-l-series",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "anigon-ch-company-careers",
@@ -4569,7 +4569,7 @@
     "source_type": "careers_page",
     "related_record_id": "anigon-fa-l-series",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "avatarrobotics-com",
@@ -4578,7 +4578,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "avatar-robotics-avatar-humanoid-model-name-not-disclosed",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-avatarrobots",
@@ -4587,7 +4587,7 @@
     "source_type": "social_profile",
     "related_record_id": "avatar-robotics-avatar-humanoid-model-name-not-disclosed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-avatarrobotics",
@@ -4596,7 +4596,7 @@
     "source_type": "social_profile",
     "related_record_id": "avatar-robotics-avatar-humanoid-model-name-not-disclosed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-avatarrobots",
@@ -4605,7 +4605,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "avatar-robotics-avatar-humanoid-model-name-not-disclosed",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "casbot-tech-product-02",
@@ -4614,7 +4614,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "casbot-casbot-02",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-casbot",
@@ -4623,7 +4623,7 @@
     "source_type": "social_profile",
     "related_record_id": "casbot-casbot-w1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "casbot-tech-product-w1",
@@ -4632,7 +4632,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "casbot-casbot-w1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "cyb-org-cn",
@@ -4641,7 +4641,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "cyborg-robotics-cyborg-w01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "digit-com-cn-productsdetail-250-html",
@@ -4650,7 +4650,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "digit-robotics-xialan-r03",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "digit-com-cn-join-html",
@@ -4659,7 +4659,7 @@
     "source_type": "careers_page",
     "related_record_id": "digit-robotics-xiaqi-x02",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "digit-com-cn-productsdetail-93-html",
@@ -4668,7 +4668,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "digit-robotics-xiaqi-x02",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "donutrobotics-com-en",
@@ -4677,7 +4677,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "donut-robotics-cinnamon-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-donut-robotics",
@@ -4686,7 +4686,7 @@
     "source_type": "social_profile",
     "related_record_id": "donut-robotics-cinnamon-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "droidup-com-product-7",
@@ -4695,7 +4695,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "droidup-moya",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "duatic-com-dxtr",
@@ -4704,7 +4704,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "duatic-dxtr",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-duatic",
@@ -4713,7 +4713,7 @@
     "source_type": "social_profile",
     "related_record_id": "duatic-dxtr",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-duatic",
@@ -4722,7 +4722,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "duatic-dxtr",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "duatic-com-jobs",
@@ -4731,7 +4731,7 @@
     "source_type": "careers_page",
     "related_record_id": "duatic-dxtr",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "elibot-com-product-wheeled",
@@ -4740,7 +4740,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "elite-robots-centaur-g1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-eliterobots",
@@ -4749,7 +4749,7 @@
     "source_type": "social_profile",
     "related_record_id": "elite-robots-centaur-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-eliterobots-official",
@@ -4758,7 +4758,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "elite-robots-centaur-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "elibot-com-about-join",
@@ -4767,7 +4767,7 @@
     "source_type": "careers_page",
     "related_record_id": "elite-robots-centaur-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "genisomai-com",
@@ -4776,7 +4776,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "genisom-ne01",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-genisom-ai",
@@ -4785,7 +4785,7 @@
     "source_type": "social_profile",
     "related_record_id": "genisom-ne01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "genisomai-com-invite-html",
@@ -4794,7 +4794,7 @@
     "source_type": "careers_page",
     "related_record_id": "genisom-ne01",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "gentorobotics-ai-products-gento-luna",
@@ -4803,7 +4803,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "gento-robotics-gento-luna",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-gentorobotics",
@@ -4812,7 +4812,7 @@
     "source_type": "social_profile",
     "related_record_id": "gento-robotics-gento-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-gentorobotics",
@@ -4821,7 +4821,7 @@
     "source_type": "social_profile",
     "related_record_id": "gento-robotics-gento-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "gentorobotics-ai-careers",
@@ -4830,7 +4830,7 @@
     "source_type": "careers_page",
     "related_record_id": "gento-robotics-gento-luna",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "glroad-com-humanoidrobots-index-aspx",
@@ -4839,7 +4839,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "glroad-laborer-m1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "glroad-com-joinus-index-aspx-parent",
@@ -4848,7 +4848,7 @@
     "source_type": "careers_page",
     "related_record_id": "glroad-laborer-m1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "hecbot-cn-product-html-type-22",
@@ -4857,7 +4857,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "guanggu-dongzhi-lumen-h1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "hecbot-cn-joinus-html",
@@ -4866,7 +4866,7 @@
     "source_type": "careers_page",
     "related_record_id": "guanggu-dongzhi-lumen-h1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "jingchurobot-cn-product-detail-1-html",
@@ -4875,7 +4875,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "jingchu-humanoid-jingchu-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "jingchurobot-cn-contact-us-html",
@@ -4884,7 +4884,7 @@
     "source_type": "careers_page",
     "related_record_id": "jingchu-humanoid-jingchu-elf",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "jingchurobot-cn-product-detail-3-html",
@@ -4893,7 +4893,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "jingchu-humanoid-jingchu-elf",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "jaka-com",
@@ -4902,7 +4902,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "jaka-robotics-jaka",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-jakarobotics",
@@ -4911,7 +4911,7 @@
     "source_type": "social_profile",
     "related_record_id": "jaka-robotics-jaka",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-jakarobotics",
@@ -4920,7 +4920,7 @@
     "source_type": "social_profile",
     "related_record_id": "jaka-robotics-jaka",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-jakarobotics576",
@@ -4929,7 +4929,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "jaka-robotics-jaka",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "dynamicrobot-kaist-ac-kr-new-page",
@@ -4938,7 +4938,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "kaist-drcd-lab-kaist-humanoid",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucl1utjog-hni5z3a-qd-tua",
@@ -4947,7 +4947,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "kaist-drcd-lab-kaist-humanoid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "not-applicable-university-lab",
@@ -4956,7 +4956,7 @@
     "source_type": "careers_page",
     "related_record_id": "kit-h2t-armar-7",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "h2t-iar-kit-edu",
@@ -4965,7 +4965,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "kit-h2t-armar-7",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucqc4i8mlcmcefjmpz7pmdmw",
@@ -4974,7 +4974,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "kit-h2t-armar-7",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "keenon-com-en-product-xman-r1",
@@ -4983,7 +4983,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "keenon-robotics-xman-r1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-keenonglobal",
@@ -4992,7 +4992,7 @@
     "source_type": "social_profile",
     "related_record_id": "keenon-robotics-xman-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-keenonrobotics",
@@ -5001,7 +5001,7 @@
     "source_type": "social_profile",
     "related_record_id": "keenon-robotics-xman-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-keenonrobotics",
@@ -5010,7 +5010,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "keenon-robotics-xman-r1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "lanxinrobotics-com-vb1",
@@ -5019,7 +5019,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "lanxin-robotics-vb1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-lanxinrobotics",
@@ -5028,7 +5028,7 @@
     "source_type": "social_profile",
     "related_record_id": "lanxin-robotics-vb1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-lanxinrobot",
@@ -5037,7 +5037,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "lanxin-robotics-vb1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkerbot-cn-details-linkerhumanoid",
@@ -5046,7 +5046,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "linkerbot-linker-humanoid",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-linker-bot",
@@ -5055,7 +5055,7 @@
     "source_type": "social_profile",
     "related_record_id": "linkerbot-linker-humanoid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkerbot-cn-about-join",
@@ -5064,7 +5064,7 @@
     "source_type": "careers_page",
     "related_record_id": "linkerbot-linker-humanoid",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "matrixrobotics-ai-matrix-3",
@@ -5073,7 +5073,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "matrix-robotics-matrix-3",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-matrixrobots",
@@ -5082,7 +5082,7 @@
     "source_type": "social_profile",
     "related_record_id": "matrix-robotics-matrix-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-matrix-robotics-ai",
@@ -5091,7 +5091,7 @@
     "source_type": "social_profile",
     "related_record_id": "matrix-robotics-matrix-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-matrixrobotics-ai",
@@ -5100,7 +5100,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "matrix-robotics-matrix-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "matrixrobotics-ai",
@@ -5109,7 +5109,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "matrix-robotics-matrix-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "menlo-ai-asimov-1",
@@ -5118,7 +5118,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "menlo-asimov-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-asimovinc",
@@ -5127,7 +5127,7 @@
     "source_type": "social_profile",
     "related_record_id": "menlo-asimov-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-menloresearch",
@@ -5136,7 +5136,7 @@
     "source_type": "social_profile",
     "related_record_id": "menlo-asimov-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-menloresearch",
@@ -5145,7 +5145,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "menlo-asimov-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "menlo-ai-careers",
@@ -5154,7 +5154,7 @@
     "source_type": "careers_page",
     "related_record_id": "menlo-asimov-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "mirrormetech-com-cn-product-5-html",
@@ -5163,7 +5163,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "mirrorme-bolt",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "perceptyne-com-product-omni",
@@ -5172,7 +5172,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "perceptyne-pr-omni",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-perceptyne",
@@ -5181,7 +5181,7 @@
     "source_type": "social_profile",
     "related_record_id": "perceptyne-pr-omni",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-perceptyne-robots",
@@ -5190,7 +5190,7 @@
     "source_type": "social_profile",
     "related_record_id": "perceptyne-pr-omni",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-perceptyne",
@@ -5199,7 +5199,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "perceptyne-pr-omni",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "perceptyne-com-career",
@@ -5208,7 +5208,7 @@
     "source_type": "careers_page",
     "related_record_id": "perceptyne-pr-omni",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "en-pl-universe-com-products-prowhiterobot",
@@ -5217,7 +5217,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "pl-universe-prowhite",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-pluniverserobot",
@@ -5226,7 +5226,7 @@
     "source_type": "social_profile",
     "related_record_id": "pl-universe-prowhite",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-pluniverserobotics",
@@ -5235,7 +5235,7 @@
     "source_type": "social_profile",
     "related_record_id": "pl-universe-prowhite",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-pl-universerobotics",
@@ -5244,7 +5244,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "pl-universe-prowhite",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "psibot-ai-en-products-product-psibot-v1",
@@ -5253,7 +5253,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "psibot-psibot-v1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-psibotrobotics",
@@ -5262,7 +5262,7 @@
     "source_type": "social_profile",
     "related_record_id": "psibot-psibot-v1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-psibot",
@@ -5271,7 +5271,7 @@
     "source_type": "social_profile",
     "related_record_id": "psibot-psibot-v1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-psibotrobotics",
@@ -5280,7 +5280,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "psibot-psibot-v1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "psibot-ai-en-careers",
@@ -5289,7 +5289,7 @@
     "source_type": "careers_page",
     "related_record_id": "psibot-psibot-v1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "richtechrobotics-com-solutions-dex",
@@ -5298,7 +5298,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "richtech-robotics-dex",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-richtechrobotic",
@@ -5307,7 +5307,7 @@
     "source_type": "social_profile",
     "related_record_id": "richtech-robotics-dex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-richtech-robotics",
@@ -5316,7 +5316,7 @@
     "source_type": "social_profile",
     "related_record_id": "richtech-robotics-dex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-richtechrobotics",
@@ -5325,7 +5325,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "richtech-robotics-dex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robosci-com-rex-g1",
@@ -5334,7 +5334,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "roboscience-rex-g1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-robo-sci",
@@ -5343,7 +5343,7 @@
     "source_type": "social_profile",
     "related_record_id": "roboscience-rex-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-roboscience",
@@ -5352,7 +5352,7 @@
     "source_type": "social_profile",
     "related_record_id": "roboscience-rex-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-robo-sci",
@@ -5361,7 +5361,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "roboscience-rex-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "robosci-com-jobs",
@@ -5370,7 +5370,7 @@
     "source_type": "careers_page",
     "related_record_id": "roboscience-rex-g1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "starbotusa-com",
@@ -5379,7 +5379,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "starbot-starbot-flex",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-starbotusa",
@@ -5388,7 +5388,7 @@
     "source_type": "social_profile",
     "related_record_id": "starbot-starbot-flex",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "svayarobotics-com-product",
@@ -5397,7 +5397,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "svaya-robotics-bimanual-humanoid-robot",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-svayarobotics-pvt-ltd",
@@ -5406,7 +5406,7 @@
     "source_type": "social_profile",
     "related_record_id": "svaya-robotics-bimanual-humanoid-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-svayarobotics",
@@ -5415,7 +5415,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "svaya-robotics-bimanual-humanoid-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "svayarobotics-com-careers",
@@ -5424,7 +5424,7 @@
     "source_type": "careers_page",
     "related_record_id": "svaya-robotics-bimanual-humanoid-robot",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "tlibot-com-cpzx-6-html",
@@ -5433,7 +5433,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "tlibot-tlibot-t1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "ugo-plus-ai-ugo-nova",
@@ -5442,7 +5442,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "ugo-ugo-nova",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-ugo-robot",
@@ -5451,7 +5451,7 @@
     "source_type": "social_profile",
     "related_record_id": "ugo-ugo-nova",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-ugo-inc",
@@ -5460,7 +5460,7 @@
     "source_type": "social_profile",
     "related_record_id": "ugo-ugo-nova",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-channel-ucxcjsxqxzsaurmq-0v6dyg",
@@ -5469,7 +5469,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "ugo-ugo-nova",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-humanoid-com-detail-jstg-html",
@@ -5478,7 +5478,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "x-humanoid-tien-kung-3-0",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-beijing-innovation-center-of-humanoid-robotics",
@@ -5487,7 +5487,7 @@
     "source_type": "social_profile",
     "related_record_id": "x-humanoid-tiangong-omni",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-humanoid-com-detail-tianyi-html",
@@ -5496,7 +5496,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "x-humanoid-tian-yi-2-0",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-humanoid-com-detail-omni-html",
@@ -5505,7 +5505,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "x-humanoid-tiangong-omni",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "zerith-com-product-zerithh1",
@@ -5514,7 +5514,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "zerith-robotics-zerith-h1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-zerithrobotics",
@@ -5523,7 +5523,7 @@
     "source_type": "social_profile",
     "related_record_id": "zerith-robotics-zerith-h1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "zerith-com-join",
@@ -5532,7 +5532,7 @@
     "source_type": "careers_page",
     "related_record_id": "zerith-robotics-zerith-h1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "zeroth0-com-products-jupiter",
@@ -5541,7 +5541,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "zeroth-robotics-jupiter",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-zeroth-2025",
@@ -5550,7 +5550,7 @@
     "source_type": "social_profile",
     "related_record_id": "zeroth-robotics-jupiter",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-the-zeroth-offcial",
@@ -5559,7 +5559,7 @@
     "source_type": "social_profile",
     "related_record_id": "zeroth-robotics-jupiter",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-zeroth-official-2025",
@@ -5568,7 +5568,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "zeroth-robotics-jupiter",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "zj-humanoid-com-zujian-2",
@@ -5577,7 +5577,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "zj-humanoid-naviai-i3",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-zhejiang-humanoid",
@@ -5586,7 +5586,7 @@
     "source_type": "social_profile",
     "related_record_id": "zj-humanoid-naviai-wa2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "zj-humanoid-com-join",
@@ -5595,7 +5595,7 @@
     "source_type": "careers_page",
     "related_record_id": "zj-humanoid-naviai-wa2",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "zj-humanoid-com-zujian-10",
@@ -5604,7 +5604,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "zj-humanoid-naviai-wa2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "wlrobo-com",
@@ -5613,7 +5613,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "westlake-robotics-westlake-o1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "mirsee-com",
@@ -5622,7 +5622,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "mirsee-robotics-mh3",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-mirsee-robotics",
@@ -5631,7 +5631,7 @@
     "source_type": "social_profile",
     "related_record_id": "mirsee-robotics-mh3",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-mirseerobotics",
@@ -5640,7 +5640,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "mirsee-robotics-mh3",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "mirsee-com-careers",
@@ -5649,7 +5649,7 @@
     "source_type": "careers_page",
     "related_record_id": "mirsee-robotics-mh3",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "geekplus-com-en",
@@ -5658,7 +5658,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "geek-gino-1",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-geekplusrobot",
@@ -5667,7 +5667,7 @@
     "source_type": "social_profile",
     "related_record_id": "geek-gino-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-geekplusrobotics",
@@ -5676,7 +5676,7 @@
     "source_type": "social_profile",
     "related_record_id": "geek-gino-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-c-geekpluslogisticswarehouseautomation",
@@ -5685,7 +5685,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "geek-gino-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "geekplus-com-company-career",
@@ -5694,7 +5694,7 @@
     "source_type": "careers_page",
     "related_record_id": "geek-gino-1",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "tm-robot-com-en",
@@ -5703,7 +5703,7 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "techman-robot-tm-xplore-i",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "x-com-techmanrobot",
@@ -5712,7 +5712,7 @@
     "source_type": "social_profile",
     "related_record_id": "techman-robot-tm-xplore-i",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "linkedin-com-company-techmanrobot",
@@ -5721,7 +5721,7 @@
     "source_type": "social_profile",
     "related_record_id": "techman-robot-tm-xplore-i",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "youtube-com-techmanrobot",
@@ -5730,7 +5730,7 @@
     "source_type": "demo_or_channel",
     "related_record_id": "techman-robot-tm-xplore-i",
     "evidence_level": "source_reference",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   },
   {
     "id": "gotokepler-com-productdetailk2",
@@ -5739,6 +5739,6 @@
     "source_type": "official_or_best_available_url",
     "related_record_id": "kepler-forerunner-k2",
     "evidence_level": "official",
-    "date_checked": "2026-11-22T13:24:21.180Z"
+    "date_checked": "2026-11-23T16:04:25.882Z"
   }
 ]
