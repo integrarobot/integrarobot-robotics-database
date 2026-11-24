@@ -1696,28 +1696,6 @@
     "robot_count": 1
   },
   {
-    "id": "skild",
-    "company": "Skild",
-    "country": "USA",
-    "website": "https://www.skild.ai/",
-    "x": "https://x.com/SkildAI",
-    "linkedin": "https://www.linkedin.com/company/skild-ai/",
-    "youtube": "https://www.youtube.com/@SkildAI",
-    "careers": "https://www.skild.ai/career",
-    "stock": "Private",
-    "investors": "SoftBank (lead); NVentures; Macquarie Capital; Bezos Expeditions; Lightspeed; Felicis; Coatue; Sequoia; LG; Schneider Electric; CommonSpirit; Salesforce Ventures; others",
-    "rounds": "Series C: USD 1,400M (2026-01-14). Funding applies to the robot-brain company, not a specific humanoid.",
-    "robot_ids": [
-      "skild-skild-brain-s1-software"
-    ],
-    "robots": [
-      "Skild Brain / S1 (software)"
-    ],
-    "evidence_level": "derived",
-    "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
-  },
-  {
     "id": "spirit",
     "company": "Spirit",
     "country": "China",
@@ -2300,28 +2278,6 @@
     "robot_count": 1
   },
   {
-    "id": "orbit",
-    "company": "Orbit",
-    "country": "",
-    "website": "https://www.orbitrobotics.ch/",
-    "x": "https://x.com/OrbitRobotics",
-    "linkedin": "https://www.linkedin.com/company/orbitrobotics/",
-    "youtube": "https://www.youtube.com/channel/UC-e6nt7tlZJ08ADFZ-Uwp4Q",
-    "careers": "",
-    "stock": "",
-    "investors": "Not verified",
-    "rounds": "Not verified",
-    "robot_ids": [
-      "orbit-space-platform-model-unpublished"
-    ],
-    "robots": [
-      "Space platform (model unpublished)"
-    ],
-    "evidence_level": "derived",
-    "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
-  },
-  {
     "id": "twolabs",
     "company": "Twolabs",
     "country": "",
@@ -2624,28 +2580,6 @@
     ],
     "robots": [
       "Flourish robot (model name unconfirmed)"
-    ],
-    "evidence_level": "derived",
-    "source_note": "Derived from data/robots.json.",
-    "robot_count": 1
-  },
-  {
-    "id": "nature-will",
-    "company": "Nature Will",
-    "country": "",
-    "website": "https://www.naturewill.ai/",
-    "x": "https://x.com/naturewill",
-    "linkedin": "",
-    "youtube": "https://www.youtube.com/channel/UC862ODFOVARM3ezMXHFDDfw",
-    "careers": "https://www.naturewill.ai/career",
-    "stock": "",
-    "investors": "Not verified",
-    "rounds": "Not verified",
-    "robot_ids": [
-      "nature-will-natura-1-ai-model"
-    ],
-    "robots": [
-      "Natura-1 (AI model)"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
