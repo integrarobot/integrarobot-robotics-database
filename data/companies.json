@@ -128,9 +128,9 @@
     "linkedin": "https://www.linkedin.com/company/agilityrobotics/",
     "youtube": "https://youtu.be/rnFZAB9ogEE",
     "careers": "https://www.agilityrobotics.com/careers",
-    "stock": "Private; SPAC combination announced, closing unverified",
+    "stock": "NASDAQ:AGLT; common stock trading since 2026-11-05",
     "investors": "DCVC; Playground Global; Amazon Industrial Innovation Fund; NVIDIA; SoftBank Vision Fund 2; Foxconn; Schaeffler; Abico",
-    "rounds": "Series B: USD 150M (2022). SPAC: >USD 620M in expected gross proceeds, including ~USD 200M PIPE; subject to closing and redemptions.",
+    "rounds": "Series B: USD 150M (2022). Completed SPAC combination: approximately USD 465M gross capital before transaction expenses, including USD 100M equity funding received before closing (issuer announcement 2026-11-05). Previously announced proceeds were estimates.",
     "robot_ids": [
       "agility-digit-5-in-development"
     ],
@@ -434,8 +434,8 @@
     "robot_count": 2
   },
   {
-    "id": "devanthro",
-    "company": "Devanthro",
+    "id": "plim-robotics",
+    "company": "Plim Robotics",
     "country": "Germany",
     "website": "https://www.devanthro.com/",
     "x": "https://x.com/robodies",
@@ -446,10 +446,10 @@
     "investors": "Not verified",
     "rounds": "Not verified",
     "robot_ids": [
-      "devanthro-robody"
+      "plim-robotics-plim"
     ],
     "robots": [
-      "Robody"
+      "Plim"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -1874,6 +1874,28 @@
     "robot_count": 2
   },
   {
+    "id": "uma",
+    "company": "UMA",
+    "country": "",
+    "website": "https://uma.bot/",
+    "x": "https://x.com/UMA_Robots",
+    "linkedin": "https://www.linkedin.com/company/uma-robots/",
+    "youtube": "",
+    "careers": "",
+    "stock": "Private",
+    "investors": "Not verified",
+    "rounds": "Not verified",
+    "robot_ids": [
+      "uma-version-0"
+    ],
+    "robots": [
+      "Version 0"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
     "id": "unitree",
     "company": "Unitree",
     "country": "China",
@@ -1982,10 +2004,10 @@
     "investors": "Renault Group; PSIM fund managed by Bpifrance / France 2030; Teampact Ventures; Quadrant Management",
     "rounds": "Series D: USD 75M in funding and financing facilities (2025-06-11); a mix of instruments, not equity only.",
     "robot_ids": [
-      "wandercraft-calvin"
+      "wandercraft-calvin-40"
     ],
     "robots": [
-      "Calvin"
+      "Calvin-40"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
@@ -3678,6 +3700,28 @@
     ],
     "robots": [
       "TM Xplore I"
+    ],
+    "evidence_level": "derived",
+    "source_note": "Derived from data/robots.json.",
+    "robot_count": 1
+  },
+  {
+    "id": "simplexity-robotics",
+    "company": "Simplexity Robotics",
+    "country": "China",
+    "website": "https://www.simplexityrobotics.com/products/ix",
+    "x": "https://x.com/Simplexity2025",
+    "linkedin": "https://www.linkedin.com/company/simplexityrobotics/",
+    "youtube": "",
+    "careers": "https://www.simplexityrobotics.com/recruitment",
+    "stock": "Private",
+    "investors": "Ant Group (lead of the November 2026 pre-Series A); existing investors Tencent, HSG and Lanchi Ventures, as reported by Bloomberg (2026-11-23) citing chairman and co-founder Wang Kai; not independently verified",
+    "rounds": "USD 100M pre-Series A led by Ant Group, reported by Bloomberg (2026-11-23), with the valuation and investors attributed to chairman and co-founder Wang Kai; no official announcement or filing reviewed; not independently verified",
+    "robot_ids": [
+      "simplexity-robotics-ix"
+    ],
+    "robots": [
+      "iX"
     ],
     "evidence_level": "derived",
     "source_note": "Derived from data/robots.json.",
